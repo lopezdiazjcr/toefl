@@ -1,0 +1,195 @@
+{
+  "tipo": "iv",
+  "items": [
+    {
+      "id": "iv01",
+      "nivel": "B1",
+      "g": "m",
+      "tema": "Research study on study habits",
+      "intro": "Hi, and thanks for joining our study. We're a university research team, and we want to learn how students prepare for classes and exams. There are no right or wrong answers.",
+      "preguntas": [
+        "To start, where do you usually study, and why do you like studying there?",
+        "Great. Think about the last time you prepared for an important test. What did you do to get ready?",
+        "Thanks. Some people think students learn more in study groups than on their own. Do you agree? Why or why not?",
+        "Interesting. Some schools have stopped giving homework to young children. Do you think this is a good idea? Why or why not?"
+      ],
+      "modelos": [
+        "I usually study at the public library near my house, and I really like it there. The main reason is that it's quiet, so I can focus for a long time without distractions. At home, my little brother is always playing video games, and my phone is always next to me. For example, last semester I tried studying in my bedroom for a whole week, and I finished much less than I planned. When I went back to the library, I finished my reading in half the time. So for me, the library is the best place to get real work done.",
+        "The last important test I prepared for was my final exam in statistics. First, I made a study plan two weeks before the exam, so I didn't have to learn everything at the last minute. Every day, I reviewed one topic and did practice problems from the textbook. I also explained the hardest topics out loud, as if I were teaching a friend, because that showed me what I still didn't understand. The night before the test, I just reviewed my notes and went to bed early. In the end, I got one of the highest grades in my class, so I'll definitely use this method again.",
+        "I partly agree. Study groups can be really useful, but only when the group is organized. The biggest advantage is that other students can explain things in a different way than the teacher. For example, in my chemistry class, I couldn't understand one topic until a classmate drew a simple diagram for me, and suddenly it made sense. However, I've also been in groups where we spent most of the time chatting. So I think the best approach is to study alone first and then meet with a group to review and ask questions. That way, you get the benefits of both.",
+        "I think it's a good idea, but only for young children. Kids need time to play, rest, and be with their families, and that's also a way of learning. In my opinion, too much homework can make them tired and even make them hate school. For instance, my younger cousin is eight, and she sometimes cries because she has two hours of homework after a full day of classes. On the other hand, older students do need homework to practice what they learn. So I would say no homework for young kids, but some homework for teenagers."
+      ]
+    },
+    {
+      "id": "iv02",
+      "nivel": "A2",
+      "g": "f",
+      "tema": "Survey about food and eating habits",
+      "intro": "Hello, and thank you for helping with our survey. We're asking people about the food they eat and how they plan their meals.",
+      "preguntas": [
+        "First, what is your favorite meal of the day, and what do you usually eat?",
+        "Great. Do you cook at home? Tell me about a dish you like to make.",
+        "Thanks. Some people think families should eat dinner together every day. Do you agree? Why or why not?",
+        "OK. My last question. Some people think schools should teach children how to cook. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "My favorite meal of the day is breakfast. I like it because I'm always very hungry in the morning, and breakfast gives me energy for the whole day. On weekdays, I usually eat eggs, bread, and some fruit, like a banana or papaya. I also drink a big cup of coffee with milk. On Sundays, I have more time, so I make pancakes with my sister, and we eat together on the balcony. It's my favorite moment of the week. So yes, for me, breakfast is the most important meal, and I never skip it.",
+        "Yes, I cook at home almost every day, because it's cheaper and healthier than eating out. One dish I really like to make is chicken soup. My grandmother taught me how to make it when I was a teenager. First, I cook the chicken with water, onion, and garlic. Then I add potatoes, corn, and carrots, and I let it cook slowly for about an hour. I usually make a big pot on Sunday, so I have lunch for three or four days. It's easy, it's warm, and it always reminds me of my grandmother.",
+        "Yes, I agree, but I don't think it has to be every single day. Dinner is a good time for families to talk, because during the day everyone is busy with work or school. For example, in my house, we eat dinner together almost every night, and that's when my parents ask about my day and we tell funny stories. I think it makes us closer. But sometimes people work late or have classes at night, so it's not always possible. So I'd say families should try to eat together as often as they can.",
+        "I completely agree. Cooking is a very useful skill, and everybody needs to eat, so children should learn it early. If kids know how to cook simple meals, they can eat healthier food and spend less money in the future. For example, when I moved to a new city for university, I didn't know how to cook anything, so I ate fast food almost every day. I felt tired all the time, and I spent a lot of money. If my school had taught me a few easy recipes, my life would have been much easier. So I think it's a great idea."
+      ]
+    },
+    {
+      "id": "iv03",
+      "nivel": "B1",
+      "g": "f",
+      "tema": "Research study on technology use",
+      "intro": "Thanks for taking part in our research. We're studying how people use technology in their daily lives. I'll ask you a few short questions.",
+      "preguntas": [
+        "To begin, which device do you use the most each day, and what do you mainly use it for?",
+        "Thank you. Can you tell me about a time when technology helped you solve a problem?",
+        "I see. Some people think children under twelve shouldn't have their own smartphones. Do you agree? Why or why not?",
+        "Interesting. Some people say technology makes us less social, because we spend more time looking at screens than talking face to face. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "The device I use the most is definitely my phone. I use it for almost everything, but mainly for communication and for studying. I send messages to my family and friends all day, and I also use it to read articles for my classes when I'm on the bus. For example, this morning I spent forty minutes on the bus, and I used that time to review my notes for a quiz. I know some people say we use our phones too much, but for me, it's a really practical tool that saves me a lot of time.",
+        "Sure. Last year I was traveling to a small town for my cousin's graduation party, and I got completely lost because my bus stopped in the wrong place. People there spoke a local language that I didn't know very well, and nobody understood my questions. So I opened a translation app on my phone, typed my question, and showed it to a woman at a store. She read it, smiled, and drew me a simple map. Thanks to that, I arrived just in time for the party. Without technology, I probably would have missed the whole thing.",
+        "I mostly agree. I think children under twelve are too young to control how much time they spend on a phone. Phones are designed to keep us watching, and even adults have problems with that. For example, my neighbor's son got a smartphone when he was nine, and now he barely plays outside and he has trouble sleeping. However, I understand that parents sometimes need to contact their kids. So in my opinion, a simple phone for calls and messages is enough for young children, and they can get a smartphone when they're older.",
+        "I partly agree. Technology can make us less social when we use it at the wrong moments. For example, I've seen groups of friends at restaurants where everyone is looking at their phone and nobody is talking. That's a little sad. But technology also helps us stay connected with people who are far away. My older brother lives in another country, and we have a video call every Sunday, so I feel close to him even though I haven't seen him in two years. So I think the problem isn't technology itself, but how we choose to use it."
+      ]
+    },
+    {
+      "id": "iv04",
+      "nivel": "A2",
+      "g": "m",
+      "tema": "Survey about travel",
+      "intro": "Hi, thank you for joining our travel survey. We want to know how people like to travel and spend their holidays.",
+      "preguntas": [
+        "First, tell me about a place you visited that you really enjoyed. What did you do there?",
+        "Great. When you travel, do you like to plan everything before you go, or do you decide things when you arrive? Why?",
+        "All right. Some people think it's better to travel in your own country than to travel abroad. Do you agree? Why or why not?",
+        "OK. Some people say that young people should travel alone at least once. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "A place I really enjoyed was a small beach town on the coast of my country. I went there with my two best friends after we finished high school. Every morning, we swam in the ocean, and in the afternoon we walked around the town and ate fresh fish at little restaurants. One night, we watched the sunset from a big rock, and it was the most beautiful thing I've ever seen. The town was quiet and cheap, and the people were very friendly. I want to go back there one day, maybe with my family.",
+        "I like to plan the important things before I go, but not everything. I always book my hotel and my bus tickets early, because it's cheaper and I don't want problems when I arrive. But I don't like to plan every hour of the day. For example, last year I visited the mountains, and I didn't have a plan for the activities. A man at my hotel told me about a beautiful waterfall, so I went there, and it was the best part of my trip. So for me, a little planning is good, but I also like surprises.",
+        "I agree, especially for people who don't have a lot of money. Traveling in your own country is usually cheaper, and you don't need a passport or a visa. Also, many people don't know their own country very well. For example, I'm from the city, and I visited the countryside for the first time last year. I learned about different food, music, and traditions, and I felt like I was in another world. Of course, traveling abroad is exciting too, but I think it's a good idea to know your own country first.",
+        "Yes, I agree. When you travel alone, you have to make all the decisions yourself, so you become more independent and confident. For example, two years ago I took a trip alone to another city for a week. At first, I was nervous, because I had to find my hostel, order food, and ask people for directions without any help. But after a few days, I felt really proud of myself. I also met other travelers and made new friends. So I think every young person should try it at least once, even for a short trip."
+      ]
+    },
+    {
+      "id": "iv05",
+      "nivel": "B2",
+      "g": "m",
+      "tema": "Research study on city life",
+      "intro": "Thank you for taking part in our study on urban life. Our team is collecting opinions about what makes a city a good place to live.",
+      "preguntas": [
+        "To start, what do you like most about the place where you live, and what would you change about it?",
+        "That's helpful. How do you usually get around your city, and how does that affect your daily routine?",
+        "Thanks. Some people believe city centers should be closed to private cars, so that people walk, cycle, or use public transportation instead. Do you agree? Why or why not?",
+        "Interesting. Some people think big cities offer better opportunities than small towns, so young people should move to a big city. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "What I like most about my neighborhood is that everything I need is within walking distance. There's a market, a pharmacy, a park, and a couple of good bakeries just a few blocks from my apartment. That saves me a lot of time, and it also means I don't depend on a car. For instance, every Saturday morning I walk to the market, buy fresh vegetables, and stop for a coffee on the way back. If I could change one thing, though, it would be the noise at night, because two restaurants on my street play loud music until very late. Apart from that, I honestly wouldn't want to live anywhere else.",
+        "I usually get around by subway, and honestly, it shapes my whole routine. The subway is fast and fairly cheap, but it gets extremely crowded during rush hour, so I've learned to leave home early. For example, my classes start at nine, but I take the train at seven thirty, because if I wait until eight, I can barely get on. The good thing is that I arrive early and use that extra time to review my notes at a café near campus. So even though commuting can be stressful, it has actually made me a more organized person.",
+        "I agree to a large extent. Closing city centers to private cars would reduce traffic and pollution, and it would make those areas much more pleasant for pedestrians. For example, in my city, one main avenue is closed to cars every Sunday, and it completely changes the atmosphere. Families ride bikes, people jog, and small shops get more customers. That said, I think the change has to be gradual, and public transportation has to improve first. Otherwise, people who live far away or who have difficulty walking would struggle to get downtown. So it's a great idea, as long as it's well planned.",
+        "I partly agree, but I don't think it's true for everyone. Big cities usually have more universities, more companies, and higher salaries, so they attract young people who want to grow professionally. My older sister, for instance, moved to the capital after college and found a job in her field in less than two months, which would have been almost impossible in our hometown. However, life in big cities is expensive and stressful, and remote work is changing things. Today, some people can earn a city salary while living in a small town. So I'd say it really depends on each person's career."
+      ]
+    },
+    {
+      "id": "iv06",
+      "nivel": "B1",
+      "g": "f",
+      "tema": "Survey about sports and exercise",
+      "intro": "Hello, and thanks for helping with our research. We're studying how people stay active and what they think about sports.",
+      "preguntas": [
+        "First, what kind of physical activity do you do, and how often do you do it?",
+        "Good. Tell me about a time when you played a sport or did an activity with other people. What was the experience like?",
+        "Thanks for sharing that. Some people think schools should spend more time on physical education and less time on academic subjects. Do you agree? Why or why not?",
+        "OK. Some people say professional athletes earn too much money. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "I mainly go running, and I do it three or four times a week. I started running about two years ago because I was spending too many hours sitting at my desk, and I felt tired all the time. Running is perfect for me because it's free and I can do it whenever I want. For example, on weekdays, I run for thirty minutes early in the morning in a park near my house, and on Sundays I go for a longer run with a friend. Since I started, I sleep better and I have much more energy during the day.",
+        "A good example is when I joined a volleyball team at my university last year. At first, I was really nervous because I didn't know anyone, and the other players were much better than me. But everyone was very patient, and the coach gave me extra practice after training. A few months later, we played in a tournament against other universities, and although we didn't win, we reached the semifinals. What I remember most is how we supported each other during the hard moments. That experience taught me a lot about teamwork, and some of those players are still my closest friends.",
+        "I agree, but only up to a point. I think physical education is really important, because many kids today spend hours in front of screens and don't move enough. Exercise also helps students concentrate better in class. For example, at my high school, we had sports only once a week, and I remember that most of us felt sleepy and restless by the afternoon. However, I don't think schools should cut too much time from subjects like math or reading. So my opinion is that schools should add twenty minutes of exercise every day, without removing academic classes.",
+        "I don't completely agree. It's true that some athletes earn a lot of money, much more than teachers or doctors, and that can seem unfair. But we have to remember that their careers are very short, and most of them retire in their thirties. Also, they make a lot of money for their teams through tickets and advertising. For example, when a famous soccer player joins a team, the stadium is full every weekend. So they're paid a lot because they bring in a lot of money. In my opinion, the real problem isn't athletes' salaries, but that some important jobs are paid too little."
+      ]
+    },
+    {
+      "id": "iv07",
+      "nivel": "B2",
+      "g": "f",
+      "tema": "Research study on work and careers",
+      "intro": "Thanks for joining our study on work and careers. We're interested in how people choose their jobs and what makes a workplace satisfying.",
+      "preguntas": [
+        "To begin, tell me about a job or a responsibility you've had. What did you learn from it?",
+        "Great. Which is more important to you in a job, a high salary or a good work environment? Why?",
+        "I see. Some people think working from home is more productive than working in an office. Do you agree? Why or why not?",
+        "Thank you. Some people believe young people should stay in their first job for several years before they move to a new one. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "A responsibility that taught me a lot was my part-time job as a cashier at a bookstore when I was in college. I worked there for about a year, mostly on weekends. The most valuable thing I learned was how to deal with difficult customers calmly. For instance, one afternoon, a man got really upset because a book he had ordered hadn't arrived. Instead of arguing, I listened, apologized, and offered to call him as soon as it came in. By the end, he actually thanked me. That experience taught me patience, and it's a skill I still use every day, even outside of work.",
+        "For me, a good work environment is definitely more important than a high salary, as long as the pay is fair. The reason is simple: we spend most of our day at work, so if the atmosphere is stressful, it affects everything else in our lives. I learned this the hard way. In my first job, the salary was quite good, but my manager criticized people in front of the whole team, and I felt anxious every Sunday night. After a year, I moved to a company that paid a bit less, but where people respected each other. I've been much happier and more productive ever since.",
+        "I'd say it depends on the type of work and on the person. For tasks that require deep concentration, like writing reports or analyzing data, working from home can definitely be more productive, since there are fewer interruptions and no commute. For example, when I work from home, I usually finish my weekly report in one morning, while at the office it takes me two days. On the other hand, creative projects often benefit from being in the same room, because ideas come up naturally in conversation. So I think a mix, with a few days at home and a few at the office, is probably the most productive option.",
+        "I disagree, at least partly. Staying in your first job for a few years can show commitment, and it gives you time to really master your responsibilities. However, if a job isn't helping you grow, I don't think you should stay just because it looks good on paper. A friend of mine, for example, stayed four years in a position where she wasn't learning anything new, and when she finally left, she realized she was behind compared to other people her age. In my view, it's better to set clear goals, and if a job no longer helps you reach them after a reasonable time, it's smart to move on."
+      ]
+    },
+    {
+      "id": "iv08",
+      "nivel": "B1",
+      "g": "m",
+      "tema": "Survey about volunteering",
+      "intro": "Hello, and thank you for taking part in our survey. We're a community organization, and we want to learn about people's experiences with volunteering.",
+      "preguntas": [
+        "To start, have you ever volunteered or helped out in your community? Tell me about it.",
+        "Wonderful. What kind of volunteer work would you like to try in the future, and why?",
+        "Thanks. Some people think high school students should have to do volunteer work before they graduate. Do you agree? Why or why not?",
+        "OK. One last question. Some people believe that donating money is more useful than donating time. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "Yes, I have. When I was in high school, I volunteered at an animal shelter near my house every Saturday for about a year. My job was to clean the cages, feed the dogs, and take them for walks. It was hard work, but I loved it, because the animals were always so happy to see me. I remember one old dog that was very shy at first, but after a few weeks he started running to me every time I arrived. Later, a nice family adopted him, and I felt really proud. That experience made me want to keep helping in my community.",
+        "In the future, I'd like to try teaching English to children in my neighborhood. I think it's a good fit for me because I enjoy explaining things, and I know that learning English can open a lot of doors. When I was a kid, my family couldn't pay for private classes, so I learned mostly from a neighbor who helped me for free on weekends. Her help made a huge difference in my life, and I got into a good university partly because of my English. So now I'd like to do the same thing for other kids and give back to my community.",
+        "Yes, I agree, as long as students can choose the kind of activity they do. Volunteering teaches young people responsibility and helps them understand problems that they might not see in their daily lives. For example, my school required forty hours of community service, and I spent mine helping at a public library. I learned how to talk to older adults and how to organize events, which helped me later at my first job. However, if students are forced to do something they don't care about, they won't learn much. So it should be required, but flexible.",
+        "I don't really agree. I think both are important, but donating time can sometimes be more valuable. Money is useful, of course, because organizations need to pay for food, supplies, and rent. But many groups also need people with skills. For example, my uncle is an accountant, and every year he spends a few weekends helping a small community center with its finances. If they had to hire someone, it would cost them a lot. Also, when you give your time, you build real relationships with people. So in my opinion, the best option is to give whatever you can, money or time."
+      ]
+    },
+    {
+      "id": "iv09",
+      "nivel": "C1",
+      "g": "m",
+      "tema": "Research study on media and news",
+      "intro": "Thank you for agreeing to take part in our research. Our team is studying how people get information and how they decide what to trust. The interview will only take a few minutes.",
+      "preguntas": [
+        "To begin, how do you usually find out what's happening in the world, and why do you prefer that source?",
+        "Thank you. Can you describe a time when you read or heard something that turned out to be false? How did you realize it?",
+        "That's helpful. Some people argue that social media has made the public better informed than ever before. Do you agree? Why or why not?",
+        "Interesting. Some people believe schools should teach students how to evaluate news and online information, just as they teach math or reading. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "These days, I mostly rely on news podcasts and a couple of well-established newspapers that I read online. The main reason is that they tend to explain the context behind a story instead of just giving me a headline. For example, I listen to a twenty-minute podcast every morning while I'm commuting, and it usually covers one topic in depth, with interviews from people who actually know the subject. I find that far more useful than scrolling through dozens of short posts. So, even though it takes a bit more time, I end up feeling better informed and much less overwhelmed.",
+        "Sure. A few months ago, a message started circulating in a family group chat claiming that public transportation in my city would be free for an entire month. It sounded great, and several relatives had already forwarded it. However, something felt off, because there was no link to any official source. So I checked the transportation authority's website, and there was nothing about it. Then I searched for the story and found that a local newspaper had already confirmed it was false. Since then, I've made it a habit to look for the original source before I believe, or share, anything.",
+        "I'd say only partially. On the one hand, social media gives us instant access to information, and sometimes ordinary people report events long before traditional media does. On the other hand, the algorithms are designed to maximize engagement, not accuracy, so sensational or misleading content often spreads faster than careful reporting. I've noticed this in my own feed: posts with dramatic headlines get thousands of shares, while detailed explanations barely get noticed. As a result, many people feel informed, but what they actually have is a collection of fragments. So I think social media has increased the quantity of information, but not necessarily its quality.",
+        "Absolutely, I think it's essential. Nowadays, students are exposed to an enormous amount of information, and much of it is unreliable, so knowing how to evaluate a source is a basic skill, just like reading. When I was in school, nobody taught us how to check who wrote an article, or how to tell the difference between an opinion and a fact. I had to learn that on my own, mostly by making mistakes. If schools included short, practical lessons, for instance comparing two articles about the same event, students would become far more critical readers. In the long run, that benefits everyone."
+      ]
+    },
+    {
+      "id": "iv10",
+      "nivel": "B2",
+      "g": "f",
+      "tema": "Research study on learning languages",
+      "intro": "Hi, and thanks for joining our study. We're researching how adults learn new languages and what helps them succeed.",
+      "preguntas": [
+        "To start, why did you decide to learn English, and how did you begin?",
+        "Great. What has been the most difficult part of learning English for you, and what have you done to improve it?",
+        "Got it. Some people think the best way to learn a language is to live in a country where it's spoken. Do you agree? Why or why not?",
+        "Interesting. Some people believe that translation technology is improving so quickly that learning foreign languages will soon be unnecessary. Do you agree? Why or why not?"
+      ],
+      "modelos": [
+        "I decided to learn English mainly for my career. I work in marketing, and I noticed that most of the best articles, courses, and conferences in my field were in English, so I felt I was missing a lot. I started about three years ago with evening classes twice a week, but honestly, the biggest change came when I began watching series in English with English subtitles. At first, I understood very little, but after a few months, I could follow most conversations. Now I read professional articles in English every day, and it has really helped me grow at work.",
+        "For me, the hardest part has definitely been pronunciation, especially the vowel sounds and the rhythm of English. In Spanish, every syllable sounds more or less the same, but in English some words are stressed and others almost disappear. To improve, I started recording myself reading short paragraphs and then comparing my recording with the original audio. For example, I realized I was saying 'espeak' instead of 'speak', and I hadn't even noticed it before. It was a little embarrassing at first, but after a couple of months, my coworkers told me I was much easier to understand.",
+        "I agree that it's probably the fastest way, but I don't think it's the only way. When you live in another country, you're forced to use the language all day, for shopping, working, and making friends, so you improve very quickly. A friend of mine spent six months in Canada, and when she came back, her listening skills were amazing. However, I know people who lived abroad for years and barely improved, because they only spent time with people from their own country. Meanwhile, I've seen others reach a high level at home through daily practice. So I think what really matters is constant exposure, not location.",
+        "I don't agree. Translation apps are incredibly useful, and I use them myself when I travel, but they can't replace actually knowing a language. First of all, communication isn't just about words. It's also about humor, tone, and culture, and those things often get lost in translation. For example, last year I had a video call with a client from another country, and the jokes and small talk we shared at the beginning built a lot of trust. That simply wouldn't happen through an app. Besides, learning a language changes the way you think. So even if technology keeps improving, languages will still be worth learning."
+      ]
+    }
+  ]
+}

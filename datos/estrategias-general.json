@@ -1,0 +1,210 @@
+{
+  "examen": {
+    "titulo": "Cómo es el TOEFL iBT desde enero de 2026",
+    "subtitulo": "Lo primero: saber qué examen va a presentar",
+    "resumen": "El 21 de enero de 2026 ETS cambió el TOEFL iBT: tareas más cortas y cercanas a la vida real, Reading y Listening adaptativos y una escala de 1 a 6 alineada con el Marco Común Europeo (MCER). Todo lo que estudie debe ser de este formato.",
+    "formato": [
+      "Orden fijo: Reading → Listening → Writing → Speaking. No hay descansos programados. Con instrucciones, dura menos de dos horas.",
+      "Reading: unas 50 preguntas en unos 30 minutos. Tareas: Complete the Words, Read in Daily Life y Read an Academic Passage. Es adaptativa: según el primer módulo, el segundo es más fácil o más difícil.",
+      "Listening: unas 47 preguntas en unos 29 minutos. Tareas: Listen and Choose a Response, Conversation, Announcement y Academic Talk. También adaptativa. Cada audio suena una sola vez.",
+      "Writing: 12 tareas en unos 23 minutos. Build a Sentence (10 oraciones), Write an Email (7 minutos) y Write for an Academic Discussion (10 minutos).",
+      "Speaking: 11 tareas en unos 8 minutos. Listen and Repeat (7 frases) y Take an Interview (4 preguntas de 45 segundos). No hay tiempo de preparación.",
+      "Las cifras de Reading y Listening incluyen preguntas experimentales que no cuentan para el puntaje. Usted no sabrá cuáles son: respóndalas todas con el mismo cuidado.",
+      "Puede tomar notas durante todo el examen."
+    ],
+    "califica": "Cada sección y el total se reportan de 1 a 6, en medios puntos. El total es el promedio de las cuatro secciones redondeado al medio punto más cercano. Equivalencias MCER: 6 = C2, 5–5.5 = C1, 4–4.5 = B2, 3–3.5 = B1, 2–2.5 = A2, 1–1.5 = A1. Writing y Speaking los califica el motor de inteligencia artificial de ETS, con supervisión humana. Durante dos años desde enero de 2026, el reporte también trae un puntaje comparable en la escala 0–120.",
+    "regla": "Prepárese para el examen de 2026, no para el viejo: los libros y videos anteriores entrenan tareas que ya no existen.",
+    "pasos": [
+      "Haga el diagnóstico para saber su banda de partida en cada sección.",
+      "Aprenda cada una de las 11 tareas con su estrategia y en modo guiado (Fase 1, sesiones 1–9).",
+      "Póngale el reloj del examen a cada tarea y ataque sus errores más frecuentes (Fase 2, sesiones 10–18).",
+      "Ensaye el examen completo: pruebas por sección, simulacros y los exámenes de práctica oficiales de ETS (Fase 3, sesiones 19–24).",
+      "Revise cada error el mismo día. La mejora sale de la revisión, no de hacer más preguntas."
+    ],
+    "errores": [
+      "Estudiar con material del formato viejo: lecturas de 700 palabras, tareas integradas de Speaking y Writing.",
+      "Practicar siempre sin reloj y descubrir el tiempo real el día del examen.",
+      "Saltarse Speaking por pena de grabarse. Es la sección que más sube con práctica diaria.",
+      "Confundir la banda que pide su universidad: muchas todavía publican el requisito en la escala 0–120. Confirme el número exacto."
+    ],
+    "fuente": { "texto": "ETS · TOEFL iBT Test Content", "url": "https://www.ets.org/toefl/test-takers/ibt/about/content.html" }
+  },
+  "tiempo": {
+    "titulo": "Manejar el tiempo",
+    "subtitulo": "Fase 2 · el reloj del examen",
+    "resumen": "En el TOEFL de 2026 el tiempo es corto y cada sección lo controla distinto. Saber cómo funciona cada reloj evita perder puntos fáciles.",
+    "formato": [
+      "Reading: el reloj corre por módulo. Puede ir y volver entre preguntas dentro del módulo, pero cuando empieza el módulo 2 no puede regresar al 1.",
+      "Listening: el reloj corre por pregunta y no puede volver a preguntas anteriores. El audio suena una vez.",
+      "Writing: el email tiene 7 minutos y la discusión académica 10. Build a Sentence se responde a buen ritmo: unos 40 segundos por oración.",
+      "Speaking: entre 8 y 12 segundos para repetir cada frase y 45 segundos por respuesta en la entrevista."
+    ],
+    "califica": "Una respuesta en blanco vale lo mismo que una equivocada: cero. Nunca deje nada sin responder.",
+    "regla": "Ninguna pregunta vale más que otra: si una lo traba más de un minuto, marque su mejor opción y siga.",
+    "pasos": [
+      "Complete the Words: hágalo de corrido en unos 3 minutos; los huecos que no salgan a la primera, vuelva a ellos al final del módulo.",
+      "Read in Daily Life: lea primero la pregunta y después busque en el texto; son textos cortos hechos para buscar, no para memorizar.",
+      "Read an Academic Passage: lea el primer párrafo completo para entender el tema y después vaya pregunta por pregunta al párrafo que corresponde.",
+      "Reserve el último minuto de cada módulo de Reading para revisar que no quedó ningún hueco ni pregunta vacía.",
+      "En el email y la discusión, use 1 minuto para planear, 5–8 para escribir y 1 para revisar errores de artículos, plurales y verbos."
+    ],
+    "errores": [
+      "Releer el texto completo para cada pregunta.",
+      "Querer el email perfecto y no llegar al tercer punto.",
+      "Quedarse callado en la entrevista esperando la idea perfecta: el silencio no suma."
+    ],
+    "fuente": { "texto": "ETS · TOEFL iBT Test Overview", "url": "https://www.eu.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf" }
+  },
+  "notas": {
+    "titulo": "Tomar notas que sirvan",
+    "subtitulo": "Listening · conversaciones y charlas",
+    "resumen": "En el examen puede tomar notas (en papel en el centro de examen; en una pizarra si lo presenta en casa). Unas notas buenas no copian lo que oye: guardan la idea y los ejemplos para responder.",
+    "formato": [
+      "Las conversaciones tienen unos 8–10 turnos y 2 preguntas; las charlas académicas, 100–250 palabras y 4 preguntas.",
+      "Las preguntas aparecen después del audio, así que la memoria sola no alcanza en las charlas."
+    ],
+    "regla": "Dos columnas: a la izquierda la idea principal, a la derecha los ejemplos y detalles.",
+    "pasos": [
+      "Antes de que empiece el audio, divida la hoja en dos columnas.",
+      "Escriba el tema en cuanto lo oiga: suele estar en las dos primeras oraciones.",
+      "Anote palabras clave, no oraciones: nombres, números, causas y consecuencias.",
+      "Use abreviaturas propias: ↑ aumenta, ↓ baja, → causa, ≠ diferente, ej. ejemplo, b/c because.",
+      "Ponga una estrella junto a lo que la persona repite o subraya con la voz: casi siempre se pregunta.",
+      "Cuando oiga un ejemplo, anote para qué lo usa el profesor: es una pregunta típica."
+    ],
+    "errores": [
+      "Escribir tanto que deja de escuchar.",
+      "Anotar en español y perder la palabra exacta que luego aparece en las opciones."
+    ],
+    "frases": [
+      "The main point is… / What I want you to remember is…",
+      "For example… / Take … for instance.",
+      "However… / On the other hand…",
+      "So… / That's why… / As a result…",
+      "Now, let's move on to…"
+    ]
+  },
+  "simulacro": {
+    "titulo": "Cómo hacer un simulacro que sirva",
+    "subtitulo": "Fases 2 y 3",
+    "resumen": "Un simulacro mide dónde está y entrena la resistencia de hora y media seguida. Solo sirve si se hace en condiciones de examen y si después se revisa.",
+    "formato": [
+      "Dura unos 90 minutos, en el orden real: Reading, Listening, Writing, Speaking.",
+      "Reading y Listening tienen dos módulos; el segundo cambia según su resultado en el primero, como en el examen.",
+      "En Writing y Speaking la plataforma estima el puntaje; usted lo ajusta con la rúbrica al ver la corrección."
+    ],
+    "regla": "Simulacro sin revisión es tiempo perdido: la revisión vale más que el puntaje.",
+    "pasos": [
+      "Hágalo a la misma hora del día en que será su examen.",
+      "Use audífonos, apague el teléfono y tenga papel para notas.",
+      "No pause ni repita audios. Si algo sale mal, siga: en el examen real también.",
+      "Al terminar, califique sus respuestas escritas y habladas con la rúbrica, comparándolas con los modelos.",
+      "Al día siguiente, revise cada error y clasifíquelo: vocabulario, comprensión, trampa de la pregunta o tiempo.",
+      "Compare sus bandas con el simulacro anterior en Progreso."
+    ],
+    "errores": [
+      "Hacer simulacros seguidos sin revisar ninguno.",
+      "Calificarse con generosidad en Writing y Speaking: si duda entre dos puntajes, póngase el menor."
+    ]
+  },
+  "errores": {
+    "titulo": "Aprender de los errores",
+    "subtitulo": "La hoja de errores",
+    "resumen": "La mayoría de los puntos perdidos se repiten: la misma trampa, la misma regla de gramática, el mismo sonido. Encontrar ese patrón es lo que más rápido sube la banda.",
+    "formato": [
+      "La plataforma guarda sus errores en Progreso, con la tarea en que ocurrieron.",
+      "Las sesiones 13 y 23 eligen solas las tareas en que usted tiene menos acierto."
+    ],
+    "regla": "Por cada error, escriba una regla de una línea que evitaría repetirlo.",
+    "pasos": [
+      "Abra Progreso y lea sus últimos 20 errores.",
+      "Agrúpelos: vocabulario, gramática, comprensión, trampa de la pregunta, tiempo, pronunciación.",
+      "Para cada grupo, escriba una regla concreta (por ejemplo: «después de 'look forward to' va verbo con -ing»).",
+      "Practique en modo guiado la tarea del grupo más grande hasta acertar 7 de 10.",
+      "Repase la hoja de reglas al empezar cada sesión durante una semana."
+    ],
+    "errores": [
+      "Leer la respuesta correcta y seguir sin entender por qué la suya estaba mal.",
+      "Culpar a los nervios o al tiempo sin revisar si fue un problema de inglés."
+    ]
+  },
+  "pronunciacion": {
+    "titulo": "Pronunciación para hispanohablantes",
+    "subtitulo": "Speaking · Listen and Repeat y entrevista",
+    "resumen": "En Listen and Repeat se califica que repita exacto y se le entienda; en la entrevista, además, el ritmo y la entonación. Los errores de pronunciación de quien habla español son predecibles, y por eso se corrigen.",
+    "formato": [
+      "Listen and Repeat: 7 frases, de 8 a 12 segundos para cada una, calificadas de 0 a 5.",
+      "Take an Interview: 4 respuestas de 45 segundos, calificadas de 0 a 5 cada una."
+    ],
+    "califica": "Para un 5 en Listen and Repeat la repetición debe ser exacta y totalmente inteligible; cambiar una terminación de tiempo o de plural ya baja el puntaje. En la entrevista cuentan la claridad, el ritmo y que la entonación ayude al sentido.",
+    "regla": "En inglés, el final de la palabra cambia el significado: worked no es work, books no es book.",
+    "pasos": [
+      "Haga shadowing 10 minutos al día: repita un audio en inglés medio segundo después del hablante, copiando ritmo y entonación. Hay estudios que muestran que mejora la inteligibilidad y la fluidez.",
+      "Grábese y escúchese: compare los finales de palabra con el original.",
+      "Practique las tres terminaciones de -ed: /t/ en worked, /d/ en played, /ɪd/ en wanted.",
+      "Marque en cada frase las 2–3 palabras con más acento y deje que las demás se reduzcan.",
+      "Repita en bloques de sentido (thought groups), no palabra por palabra."
+    ],
+    "errores": [
+      "Agregar una e antes de s + consonante: «espeak», «estudent», «eschool».",
+      "Comerse los finales: -ed (\"I work yesterday\"), -s de plural y de tercera persona.",
+      "Pronunciar todas las vocales completas, sin reducir las sílabas débiles (la schwa de about, problem, today).",
+      "Ritmo de español (todas las sílabas iguales) en lugar del ritmo del inglés, que acentúa unas palabras y reduce otras.",
+      "Confundir b/v, sh/ch y la th (think, this)."
+    ],
+    "fuente": { "texto": "Foote & McDonough (2017), Journal of Second Language Pronunciation 3(1)", "url": "https://doi.org/10.1075/jslp.3.1.02foo" }
+  },
+  "gramatica": {
+    "titulo": "Gramática que cuesta puntos",
+    "subtitulo": "Build a Sentence, Complete the Words, Email y Discusión",
+    "resumen": "Los mismos errores de gramática restan en cuatro tareas a la vez. Estos son los que más se repiten en quien habla español, y la regla corta para cada uno.",
+    "formato": [
+      "Build a Sentence es todo o nada: un solo elemento fuera de lugar y la oración vale cero.",
+      "En el email y la discusión, los errores que se acumulan bajan la nota aunque las ideas sean buenas."
+    ],
+    "regla": "Pregunta indirecta = orden de afirmación: «Do you know where the library is?», nunca «where is the library?».",
+    "pasos": [
+      "Preguntas: con auxiliar antes del sujeto (Did you…? Will she…?), salvo en las indirectas (Could you tell me when it starts?).",
+      "Artículos: sin artículo para ideas generales (Patience is important; Students need sleep).",
+      "Sujeto siempre explícito: «It is important that…», nunca «Is important that…».",
+      "Después de preposición, verbo con -ing: «interested in learning», «looking forward to seeing».",
+      "Tercera persona del presente con -s: «she works», «it depends».",
+      "Adjetivos sin plural y antes del sustantivo: «two important books»."
+    ],
+    "errores": [
+      "Falsos amigos: actually (en realidad, no «actualmente»), eventually (al final), assist (ayudar), attend (asistir), library (biblioteca).",
+      "Preposiciones calcadas: «depend of» (depend on), «married with» (married to), «in the weekend» (on the weekend).",
+      "Make y do: make a decision, make a mistake; do homework, do research.",
+      "Oraciones larguísimas unidas con comas. En inglés, punto y oración nueva."
+    ],
+    "ejemplo": {
+      "en": "A: I can't find the registration office.\nB: Do you know _ _ _ _?  →  where / the office / is / located\nRespuesta: Do you know where the office is located?",
+      "es": "Como es una pregunta indirecta («Do you know…»), lo que sigue va en orden de afirmación: sujeto (the office) + verbo (is located)."
+    }
+  },
+  "dia-examen": {
+    "titulo": "El día del examen",
+    "subtitulo": "Sesión 24 · ejecutar lo practicado",
+    "resumen": "El día del examen no se aprende nada nuevo: se ejecuta lo que ya practicó. La preparación de esa semana es logística, descanso y confianza.",
+    "formato": [
+      "Inscríbase en ets.org y lea el Boletín del TOEFL iBT 2026–27: ahí están las reglas de identificación, del examen en casa y de la revisión de puntajes.",
+      "Al terminar verá sus puntajes no oficiales de Reading y Listening. Los oficiales llegan en pocos días.",
+      "Si no está de acuerdo con Writing o Speaking, puede pedir revisión humana con costo dentro de los 30 días siguientes. Reading y Listening no se revisan.",
+      "MyBest reúne sus mejores puntajes por sección de los últimos dos años; confirme si su universidad lo acepta."
+    ],
+    "regla": "La semana del examen: un solo simulacro oficial de ETS, su hoja de errores y dormir bien.",
+    "pasos": [
+      "Una semana antes: haga uno de los exámenes de práctica oficiales de ETS (en Recursos) en condiciones reales.",
+      "Tres días antes: repase solo su hoja de errores y sus plantillas de email, discusión y entrevista.",
+      "El día anterior: descanse. Prepare su documento de identidad y, si es en casa, pruebe equipo, cámara, micrófono e internet.",
+      "Durante el examen: si una pregunta lo traba, marque su mejor opción y siga. En Speaking, hable los 45 segundos completos.",
+      "Después: anote cómo se sintió en cada sección. Si necesita repetir, esa nota decide qué estudiar."
+    ],
+    "errores": [
+      "Estudiar temas nuevos la noche anterior.",
+      "Llegar sin haber leído las reglas de identificación o de la versión en casa.",
+      "Dejar que una sección mala arruine las siguientes: cada sección se califica por separado."
+    ],
+    "fuente": { "texto": "ETS · Boletín TOEFL iBT 2026–27", "url": "https://www.eu.ets.org/pdfs/toefl/toefl-ibt-bulletin.pdf" }
+  }
+}

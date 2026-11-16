@@ -1,0 +1,155 @@
+{
+  "tipo": "rp",
+  "items": [
+    {
+      "id": "rp01",
+      "nivel": "B1",
+      "g": "f",
+      "escena": "You are a new volunteer at a science museum. Listen to the guide and repeat what she says. Repeat only once.",
+      "frases": [
+        "Visitors should start on the ground floor.",
+        "The dinosaur skeletons are in the main hall.",
+        "Please don't let children climb on the displays.",
+        "Photos are allowed, but please turn off the flash.",
+        "The space exhibit was updated last year with new screens.",
+        "Every afternoon, we show a short film about how stars are formed.",
+        "If a visitor asks a question you can't answer, send them to the information desk."
+      ]
+    },
+    {
+      "id": "rp02",
+      "nivel": "A2",
+      "g": "f",
+      "escena": "You are a new student assistant at a university library. Listen to the librarian and repeat what she says. Repeat only once.",
+      "frases": [
+        "Welcome to the library help desk.",
+        "Please ask all visitors to speak quietly.",
+        "Most books are returned at the front desk.",
+        "All students need their library cards to borrow books.",
+        "If a book comes back late, there's a small fee.",
+        "The quiet study rooms are upstairs, right next to the computers.",
+        "Before we close, we always check that all the study rooms are empty."
+      ]
+    },
+    {
+      "id": "rp03",
+      "nivel": "B1",
+      "g": "m",
+      "escena": "You are training to work at the front desk of a hotel. Listen to the supervisor and repeat what he says. Repeat only once.",
+      "frases": [
+        "Greet every guest with a smile.",
+        "Breakfast is served in the garden room.",
+        "Ask each guest for the name on the reservation.",
+        "Room keys should never be left on the counter.",
+        "If a guest's room isn't ready, offer to store their bags.",
+        "Guests who'd like to check out after noon need a manager's approval.",
+        "If a guest complains about noise, apologize first and then call the security desk."
+      ]
+    },
+    {
+      "id": "rp04",
+      "nivel": "A2",
+      "g": "m",
+      "escena": "You are taking a campus tour for new students. Listen to the student guide and repeat what he says. Repeat only once.",
+      "frases": [
+        "This is the main student center.",
+        "You can buy snacks and drinks here.",
+        "The new gym opened here last month.",
+        "Most of your classes are in the science building.",
+        "The free campus bus stops in front of the library.",
+        "If you get lost, ask anyone in a green shirt like mine.",
+        "We'll finish the tour at the dining hall, and then we'll have lunch together."
+      ]
+    },
+    {
+      "id": "rp05",
+      "nivel": "B2",
+      "g": "m",
+      "escena": "You are a new research assistant in a chemistry lab. Listen to the lab manager and repeat what he says. Repeat only once.",
+      "frases": [
+        "Always wear your safety glasses in here.",
+        "Food and drinks aren't allowed past this door.",
+        "Long hair should be tied back before you start.",
+        "All chemicals must be labeled with the date they were opened.",
+        "If anything spills, tell me immediately instead of cleaning it up yourself.",
+        "Broken glass goes in the white box, not in the regular trash.",
+        "Before you go home, check that every gas valve has been completely turned off."
+      ]
+    },
+    {
+      "id": "rp06",
+      "nivel": "B1",
+      "g": "m",
+      "escena": "You have just started working at a café on campus. Listen to the manager and repeat what he says. Repeat only once.",
+      "frases": [
+        "Wash your hands before every shift.",
+        "Clean cups are kept on the top shelf.",
+        "Ask every customer if they'd like a receipt.",
+        "We checked the fridge this morning, and it's fully stocked.",
+        "The coffee machine needs to be cleaned before we close.",
+        "If someone asks about ingredients, show them the list by the register.",
+        "When there's a long line, I'll take the orders while you prepare the drinks."
+      ]
+    },
+    {
+      "id": "rp07",
+      "nivel": "B1",
+      "g": "f",
+      "escena": "You are attending an orientation at a university gym. Listen to the trainer and repeat what she says. Repeat only once.",
+      "frases": [
+        "Please bring a towel to every workout.",
+        "The lockers are just past the water fountains.",
+        "Wipe down each machine after you use it.",
+        "Weights should be returned to the rack when you're done.",
+        "If you've never used the machines, ask a trainer for help.",
+        "Group classes fill up quickly, so it's best to sign up online.",
+        "Stretching for a few minutes before and after you exercise helps prevent injuries."
+      ]
+    },
+    {
+      "id": "rp08",
+      "nivel": "B2",
+      "g": "f",
+      "escena": "You are training to work at the information desk of an international airport. Listen to your supervisor and repeat what she says. Repeat only once.",
+      "frases": [
+        "Security lines are longer than usual today.",
+        "The departure screens are updated every few minutes.",
+        "Lost items are taken to the office downstairs.",
+        "Passengers with connecting flights don't need to collect their luggage.",
+        "If a flight's been delayed, passengers should speak to their airline.",
+        "Taxis and shuttle buses leave from the lower level, just outside baggage claim.",
+        "Travelers who've lost their boarding passes can have them printed again at the service desk."
+      ]
+    },
+    {
+      "id": "rp09",
+      "nivel": "B2",
+      "g": "f",
+      "escena": "You have a summer job at a bike rental shop in the city. Listen to the shop owner and repeat what she says. Repeat only once.",
+      "frases": [
+        "Helmets are included with every rental.",
+        "Check the tires before each bike goes out.",
+        "Customers are charged by the hour, not by the day.",
+        "Bikes that are returned damaged have to be reported right away.",
+        "Most riders prefer the river path, since it's flatter and less crowded.",
+        "Remind everyone that the bike lanes downtown are closed during the weekend market.",
+        "Before you lock up, make sure the electric bikes have been plugged in to charge."
+      ]
+    },
+    {
+      "id": "rp10",
+      "nivel": "C1",
+      "g": "m",
+      "escena": "You are assisting the instructor of an evening painting class. Listen to the instructor and repeat what he says. Repeat only once.",
+      "frases": [
+        "Start by sketching the basic shapes lightly.",
+        "Resist the urge to add details too early.",
+        "Notice how the light changes the color of the fruit.",
+        "Darker tones should be layered gradually, rather than applied all at once.",
+        "It's essential that each layer be completely dry before you add the next.",
+        "What separates a decent painting from a memorable one is usually the contrast.",
+        "Having finished the final layer, step back and judge the overall balance from across the room."
+      ]
+    }
+  ]
+}

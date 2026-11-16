@@ -1,0 +1,726 @@
+{
+  "tipo": "lc",
+  "items": [
+    {
+      "id": "lc01",
+      "nivel": "B1",
+      "escena": "Listen to a conversation between a student and a librarian.",
+      "guion": [
+        { "h": "Student", "g": "f", "t": "Hi, I'd like to reserve one of the group study rooms for tomorrow afternoon. There are four of us working on a presentation." },
+        { "h": "Librarian", "g": "m", "t": "Let me check. Hmm, I'm sorry, all the group rooms are booked tomorrow from noon until closing." },
+        { "h": "Student", "g": "f", "t": "Oh no. Our presentation is on Thursday, so tomorrow is really the only day we can all meet." },
+        { "h": "Librarian", "g": "m", "t": "Well, have you thought about the media lab on the second floor? It has big tables, and you don't need a reservation. Groups can talk there, as long as they keep their voices down." },
+        { "h": "Student", "g": "f", "t": "Does it have a screen? We need to practice with our slides." },
+        { "h": "Librarian", "g": "m", "t": "Yes, there are two large screens you can connect a laptop to. They're first come, first served, though." },
+        { "h": "Student", "g": "f", "t": "Then we'd better get there early. What time does the lab open?" },
+        { "h": "Librarian", "g": "m", "t": "Eight in the morning. And for next time, you can book group rooms online up to a week ahead." },
+        { "h": "Student", "g": "f", "t": "Good to know. Thanks so much. I'll message my group right now." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the woman's problem?",
+          "opciones": [
+            "All the group study rooms are booked for tomorrow.",
+            "She forgot to bring her laptop to the library.",
+            "Her group's presentation has been moved to Thursday.",
+            "The media lab does not allow students to talk."
+          ],
+          "correcta": 0,
+          "explicacion": "El bibliotecario dice que “all the group rooms are booked tomorrow”, y mañana es el único día en que el grupo puede reunirse. La presentación siempre fue el jueves; no la cambiaron de fecha."
+        },
+        {
+          "enunciado": "What will the woman probably do next?",
+          "opciones": [
+            "Book a group room online for next week",
+            "Ask the librarian to open the lab early",
+            "Tell her group members about the media lab",
+            "Move the presentation to another day"
+          ],
+          "correcta": 2,
+          "explicacion": "Al final ella dice “I'll message my group right now”: va a avisarle a su grupo del laboratorio de medios. Reservar en línea es un consejo para la próxima vez, no lo que hará ahora."
+        }
+      ]
+    },
+    {
+      "id": "lc02",
+      "nivel": "A2",
+      "escena": "Listen to a phone conversation between a woman and a receptionist at a medical clinic.",
+      "guion": [
+        { "h": "Woman", "g": "f", "t": "Hello, I'd like to make an appointment with Doctor Rivera, please." },
+        { "h": "Receptionist", "g": "m", "t": "Sure. Is this for a checkup, or are you feeling sick?" },
+        { "h": "Woman", "g": "f", "t": "It's just my yearly checkup. I'm not sick." },
+        { "h": "Receptionist", "g": "m", "t": "Okay. Doctor Rivera has an opening next Tuesday at nine fifteen in the morning." },
+        { "h": "Woman", "g": "f", "t": "Hmm, I work in the mornings. Does she have anything in the afternoon?" },
+        { "h": "Receptionist", "g": "m", "t": "Let me see. Yes, Wednesday at four thirty is free." },
+        { "h": "Woman", "g": "f", "t": "Wednesday at four thirty is perfect. I finish work at noon on Wednesdays." },
+        { "h": "Receptionist", "g": "m", "t": "Great. Please come fifteen minutes early to fill out a form, and don't forget to bring your insurance card." },
+        { "h": "Woman", "g": "f", "t": "No problem. Thank you very much!" }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why does the woman call the clinic?",
+          "opciones": [
+            "She feels sick and needs to see a doctor today.",
+            "She wants to make an appointment for a yearly checkup.",
+            "She needs to change the time of her appointment.",
+            "She has a question about her insurance card."
+          ],
+          "correcta": 1,
+          "explicacion": "La mujer aclara “It's just my yearly checkup. I'm not sick”. La opción de que está enferma es la trampa: ella misma lo niega."
+        },
+        {
+          "enunciado": "When is the woman's appointment?",
+          "opciones": [
+            "Tuesday at 9:15",
+            "Tuesday at 4:30",
+            "Wednesday at 12:00",
+            "Wednesday at 4:30"
+          ],
+          "correcta": 3,
+          "explicacion": "El martes por la mañana no le sirve porque trabaja; acepta “Wednesday at four thirty”. El mediodía es la hora en que ella sale del trabajo, no la hora de la cita."
+        }
+      ]
+    },
+    {
+      "id": "lc03",
+      "nivel": "B2",
+      "escena": "Listen to a conversation between a student and an academic advisor.",
+      "guion": [
+        { "h": "Student", "g": "f", "t": "Thanks for seeing me. I'm really struggling in my statistics course, and I was hoping to drop it." },
+        { "h": "Advisor", "g": "m", "t": "I see. Unfortunately, the deadline to drop a class without any record was last Friday." },
+        { "h": "Student", "g": "f", "t": "Yeah, I missed it. I was sick for most of that week. Is there anything I can still do?" },
+        { "h": "Advisor", "g": "m", "t": "You have two options. You can withdraw, which puts a W on your transcript but doesn't affect your grade point average. Or you can switch the course to pass or fail." },
+        { "h": "Student", "g": "f", "t": "Pass or fail sounds better. Then I'd just need to pass, right?" },
+        { "h": "Advisor", "g": "m", "t": "Right, but here's the catch. Statistics is required for your major, and required courses can't be taken pass or fail." },
+        { "h": "Student", "g": "f", "t": "Oh. So that leaves withdrawing. But then I'd have to take it again later." },
+        { "h": "Advisor", "g": "m", "t": "True. Though honestly, a W isn't the end of the world. Lots of students have one or two. And if you retake it, the tutoring center offers free statistics sessions." },
+        { "h": "Student", "g": "f", "t": "Okay. I think I'll withdraw, then, and sign up for tutoring next semester." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why can't the woman take her statistics course pass or fail?",
+          "opciones": [
+            "The deadline to change the grading option has passed.",
+            "Her professor does not allow it in that class.",
+            "The course is required for her major.",
+            "She is already failing the course."
+          ],
+          "correcta": 2,
+          "explicacion": "El asesor explica que “Statistics is required for your major, and required courses can't be taken pass or fail”. El plazo que ya venció era el de retirarse sin registro, no el de cambiar la forma de calificación."
+        },
+        {
+          "enunciado": "What does the advisor imply when he says, “a W isn't the end of the world”?",
+          "opciones": [
+            "Withdrawing will not seriously harm the woman's academic record.",
+            "The woman should stay in the course and try harder.",
+            "Most students who withdraw from a course never finish their degree.",
+            "The woman's grade point average is already too low to matter."
+          ],
+          "correcta": 0,
+          "explicacion": "Con “a W isn't the end of the world” el asesor quiere decir que retirarse no dañará mucho su historial; enseguida agrega que muchos estudiantes tienen una o dos. No le pide que se quede en el curso."
+        }
+      ]
+    },
+    {
+      "id": "lc04",
+      "nivel": "B1",
+      "escena": "Listen to a conversation between a student and an employee at the campus housing office.",
+      "guion": [
+        { "h": "Student", "g": "m", "t": "Hi. The heater in my dorm room stopped working two days ago, and it's freezing in there at night." },
+        { "h": "Employee", "g": "f", "t": "Oh, I'm sorry to hear that. Did you submit a repair request online?" },
+        { "h": "Student", "g": "m", "t": "I did, on Monday. But nobody has come yet, and I haven't heard anything back." },
+        { "h": "Employee", "g": "f", "t": "Let me look it up. What building are you in?" },
+        { "h": "Student", "g": "m", "t": "Maple Hall, room three twelve." },
+        { "h": "Employee", "g": "f", "t": "Okay, here it is. It looks like your request was marked as low priority by mistake. I'm changing it to urgent right now." },
+        { "h": "Student", "g": "m", "t": "Thanks. So when will someone come?" },
+        { "h": "Employee", "g": "f", "t": "Maintenance usually handles urgent requests within twenty-four hours. In the meantime, I can lend you a portable heater from our office." },
+        { "h": "Student", "g": "m", "t": "That would be great. I'll take it with me now." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why hasn't the man's heater been repaired yet?",
+          "opciones": [
+            "He did not submit a repair request.",
+            "The maintenance staff has been on vacation.",
+            "The heater needs a part that is not available.",
+            "His request was given the wrong priority."
+          ],
+          "correcta": 3,
+          "explicacion": "La empleada encuentra que la solicitud “was marked as low priority by mistake”. El estudiante sí envió la solicitud el lunes, así que la primera opción es falsa."
+        },
+        {
+          "enunciado": "What will the man probably do next?",
+          "opciones": [
+            "Submit a new repair request online",
+            "Take a portable heater back to his room",
+            "Wait in the office for the maintenance team",
+            "Ask to move to a different room in Maple Hall"
+          ],
+          "correcta": 1,
+          "explicacion": "La empleada le ofrece prestarle un calentador portátil y él responde “I'll take it with me now”. No necesita una nueva solicitud, porque ella ya la cambió a urgente."
+        }
+      ]
+    },
+    {
+      "id": "lc05",
+      "nivel": "C1",
+      "escena": "Listen to a conversation between a student and her history professor.",
+      "guion": [
+        { "h": "Student", "g": "f", "t": "Professor Haddad, do you have a minute? I wanted to talk about my research paper topic before I get too far into it." },
+        { "h": "Professor", "g": "m", "t": "Of course. Remind me what you proposed?" },
+        { "h": "Student", "g": "f", "t": "The effects of the railroad on the American economy in the eighteen hundreds." },
+        { "h": "Professor", "g": "m", "t": "Hmm. It's a fascinating area. But you do realize that historians have filled entire libraries on that question, right?" },
+        { "h": "Student", "g": "f", "t": "I guess it is pretty big for fifteen pages. I just found so many sources that I didn't want to leave anything out." },
+        { "h": "Professor", "g": "m", "t": "That's a common instinct. But a strong paper goes deep rather than wide. What part of it caught your attention most?" },
+        { "h": "Student", "g": "f", "t": "Actually, I read about how railroads changed the way farmers got their crops to market. Some small towns practically disappeared when the line was built somewhere else." },
+        { "h": "Professor", "g": "m", "t": "Now that's a paper. Pick one region, maybe two towns, and compare what happened to each of them." },
+        { "h": "Student", "g": "f", "t": "That makes sense. I'll go back to the archive guide and see what local records the library has." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What does the professor imply when he says, “historians have filled entire libraries on that question”?",
+          "opciones": [
+            "The woman will easily find enough sources for her paper.",
+            "The woman's topic is too broad for her paper.",
+            "The woman should choose a topic that no one has studied.",
+            "The library has run out of space for history books."
+          ],
+          "correcta": 1,
+          "explicacion": "Decir que los historiadores han llenado bibliotecas enteras sobre ese tema es una forma indirecta de señalar que es demasiado amplio para quince páginas; luego le aconseja ir “deep rather than wide”."
+        },
+        {
+          "enunciado": "What will the woman probably do next?",
+          "opciones": [
+            "Write about the railroad's effects on the whole national economy",
+            "Ask the professor to allow a longer paper",
+            "Look for local records about specific towns",
+            "Interview farmers about how they ship their crops"
+          ],
+          "correcta": 2,
+          "explicacion": "La estudiante termina diciendo que buscará “what local records the library has”, porque el profesor le sugirió comparar dos pueblos de una región. Escribir sobre toda la economía nacional es justo lo que debe evitar."
+        }
+      ]
+    },
+    {
+      "id": "lc06",
+      "nivel": "B2",
+      "escena": "Listen to a conversation between two students who are working on a group project.",
+      "guion": [
+        { "h": "Man", "g": "m", "t": "Hey, Priya. Have you heard from Marcus? He was supposed to send us his section of the report yesterday." },
+        { "h": "Woman", "g": "f", "t": "Nothing. And he missed our last two meetings, too. Honestly, I'm starting to get worried." },
+        { "h": "Man", "g": "m", "t": "Me too. The whole report is due next Monday, and his part is the data analysis. We can't really finish without it." },
+        { "h": "Woman", "g": "f", "t": "Should we just split his section between the two of us?" },
+        { "h": "Man", "g": "m", "t": "We could, but that doesn't seem fair to us. Plus, we'd have to rush the analysis, and that's the part worth the most points." },
+        { "h": "Woman", "g": "f", "t": "True. But maybe something's going on with him. He's usually pretty reliable." },
+        { "h": "Man", "g": "m", "t": "Good point. Why don't we give him a call first? If he can't do it, then we talk to Professor Tanaka." },
+        { "h": "Woman", "g": "f", "t": "Okay. I have his number. I'll call him after class today." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What problem are the students discussing?",
+          "opciones": [
+            "A member of their group has not done his part of the project.",
+            "Their professor changed the due date of the report.",
+            "They disagree about how to analyze their data.",
+            "They cannot find a time when everyone can meet."
+          ],
+          "correcta": 0,
+          "explicacion": "El problema es Marcus: “He was supposed to send us his section of the report yesterday” y además faltó a dos reuniones. La fecha de entrega no cambió; sigue siendo el lunes."
+        },
+        {
+          "enunciado": "What does the woman say she will do?",
+          "opciones": [
+            "Speak with Professor Tanaka about the report",
+            "Start writing the data analysis herself",
+            "Divide Marcus's section with the man",
+            "Telephone Marcus after class"
+          ],
+          "correcta": 3,
+          "explicacion": "La mujer dice “I'll call him after class today”. Hablar con el profesor Tanaka solo ocurrirá si Marcus no puede hacer su parte."
+        }
+      ]
+    },
+    {
+      "id": "lc07",
+      "nivel": "A2",
+      "escena": "Listen to a conversation between a customer and a store clerk.",
+      "guion": [
+        { "h": "Clerk", "g": "m", "t": "Good afternoon. How can I help you?" },
+        { "h": "Customer", "g": "f", "t": "Hi. I bought this jacket here last week, but it's a little too small for me. Can I return it?" },
+        { "h": "Clerk", "g": "m", "t": "Sure. Do you have the receipt?" },
+        { "h": "Customer", "g": "f", "t": "Yes, here it is." },
+        { "h": "Clerk", "g": "m", "t": "Thanks. Would you like your money back, or would you like a different size?" },
+        { "h": "Customer", "g": "f", "t": "A bigger size, please. I really like the jacket. Do you have it in medium?" },
+        { "h": "Clerk", "g": "m", "t": "Let me check. We have medium, but only in dark green, not blue." },
+        { "h": "Customer", "g": "f", "t": "Hmm. Green is fine, actually. Can I try it on first?" },
+        { "h": "Clerk", "g": "m", "t": "Of course. The fitting rooms are over there, next to the shoes." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why did the woman come to the store?",
+          "opciones": [
+            "To buy a new pair of shoes",
+            "To get her money back for a jacket",
+            "To exchange a jacket that is too small",
+            "To complain about the color of a jacket"
+          ],
+          "correcta": 2,
+          "explicacion": "La clienta dice que la chaqueta “it's a little too small” y, cuando le ofrecen el reembolso, pide “A bigger size, please”. Por eso viene a cambiarla, no a recuperar su dinero."
+        },
+        {
+          "enunciado": "What will the woman probably do next?",
+          "opciones": [
+            "Ask for her money back",
+            "Try on a green jacket",
+            "Look for a blue jacket in another store",
+            "Go home to find her receipt"
+          ],
+          "correcta": 1,
+          "explicacion": "Acepta el color verde y pregunta “Can I try it on first?”. Lo siguiente es probarse la chaqueta verde en el probador."
+        }
+      ]
+    },
+    {
+      "id": "lc08",
+      "nivel": "B1",
+      "escena": "Listen to a conversation between a student and the manager of a campus café.",
+      "guion": [
+        { "h": "Student", "g": "m", "t": "Hi, Grace. Do you have a second? It's about my schedule next week." },
+        { "h": "Manager", "g": "f", "t": "Sure, Daniel. What's up?" },
+        { "h": "Student", "g": "m", "t": "I'm scheduled to work Thursday morning, but I just found out my chemistry final is that same morning." },
+        { "h": "Manager", "g": "f", "t": "Ah, finals week. That happens to someone every semester. Have you asked anyone to switch with you?" },
+        { "h": "Student", "g": "m", "t": "I asked Lina, but she has an exam that day too. I haven't asked anyone else yet." },
+        { "h": "Manager", "g": "f", "t": "Try Kofi. He told me he's done with his exams by Wednesday and he wants extra hours." },
+        { "h": "Student", "g": "m", "t": "Oh, perfect. Do I need to fill out a form if we switch?" },
+        { "h": "Manager", "g": "f", "t": "No. Just update the schedule on the board in the back room, and write both your initials next to the change. That's all." },
+        { "h": "Student", "g": "m", "t": "Great. I'll text Kofi right away." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why does the man want to talk to the manager?",
+          "opciones": [
+            "He wants to work more hours during finals week.",
+            "He is thinking about quitting his job at the café.",
+            "He forgot to work his shift on Thursday.",
+            "He needs to change a shift because of an exam."
+          ],
+          "correcta": 3,
+          "explicacion": "El estudiante tiene turno el jueves por la mañana y “my chemistry final is that same morning”. Quien quiere más horas es Kofi, no él."
+        },
+        {
+          "enunciado": "What does the manager tell the man to do after he finds someone to switch with?",
+          "opciones": [
+            "Write the change on the schedule in the back room",
+            "Fill out a form and give it to her",
+            "Ask Lina to sign the new schedule",
+            "Send her a text message about the change"
+          ],
+          "correcta": 0,
+          "explicacion": "La gerente dice “update the schedule on the board in the back room, and write both your initials”. Él pregunta si hace falta un formulario, y la respuesta es que no."
+        }
+      ]
+    },
+    {
+      "id": "lc09",
+      "nivel": "B2",
+      "escena": "Listen to a conversation between a student and an employee in the financial aid office.",
+      "guion": [
+        { "h": "Student", "g": "f", "t": "Hi, I have a question about renewing my scholarship for next year. I got an email saying I need to reapply, but I thought it renewed automatically." },
+        { "h": "Employee", "g": "m", "t": "It used to. But starting this year, every student has to submit a short renewal form and a one-page essay." },
+        { "h": "Student", "g": "f", "t": "An essay? About what?" },
+        { "h": "Employee", "g": "m", "t": "About how you've been involved on campus or in the community. It doesn't need to be anything fancy. The committee just wants to see that you're engaged." },
+        { "h": "Student", "g": "f", "t": "Okay. I volunteer at the campus tutoring center, so I could write about that. What about grades? Is there a minimum?" },
+        { "h": "Employee", "g": "m", "t": "Yes, you need a three point zero average. Let me check yours. You're at a three point four, so you're fine there." },
+        { "h": "Student", "g": "f", "t": "Good. And when is everything due?" },
+        { "h": "Employee", "g": "m", "t": "March first. But I wouldn't wait. The online portal tends to slow down in the last few days, and late forms aren't accepted." },
+        { "h": "Student", "g": "f", "t": "Got it. I'll start working on the essay this weekend." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why does the woman go to the financial aid office?",
+          "opciones": [
+            "She wants to apply for a different scholarship.",
+            "She is confused about how to renew her scholarship.",
+            "Her grades are too low to keep her scholarship.",
+            "She missed the deadline to submit her essay."
+          ],
+          "correcta": 1,
+          "explicacion": "Ella pensaba que la beca “renewed automatically”, pero recibió un correo que le pide volver a solicitarla, y viene a aclarar el proceso. Sus notas (tres punto cuatro) superan el mínimo, así que no son el problema."
+        },
+        {
+          "enunciado": "What does the man imply when he says, “But I wouldn't wait”?",
+          "opciones": [
+            "The deadline might be moved to an earlier date.",
+            "The woman should write her essay about volunteering.",
+            "The committee prefers essays that are delivered in person.",
+            "The woman should submit her materials well before the deadline."
+          ],
+          "correcta": 3,
+          "explicacion": "Con “I wouldn't wait” el empleado le aconseja no dejarlo para el final, porque el portal se pone lento y no se aceptan formularios tarde. La fecha límite no cambia: sigue siendo el primero de marzo."
+        }
+      ]
+    },
+    {
+      "id": "lc10",
+      "nivel": "B1",
+      "escena": "Listen to a phone conversation between a tenant and her building manager.",
+      "guion": [
+        { "h": "Tenant", "g": "f", "t": "Hi, this is Ana Morales in apartment four B. My kitchen faucet has been dripping since last night, and now it's getting worse." },
+        { "h": "Manager", "g": "m", "t": "Thanks for calling, Ana. Is water getting on the floor, or is it just going into the sink?" },
+        { "h": "Tenant", "g": "f", "t": "Just into the sink, for now. But it's really loud, and I'm worried about wasting water." },
+        { "h": "Manager", "g": "m", "t": "Understood. Our plumber comes on Thursdays, so I can put you on his list for this week." },
+        { "h": "Tenant", "g": "f", "t": "Thursday? That's three days away. Isn't there anything sooner?" },
+        { "h": "Manager", "g": "m", "t": "Well, if it were leaking onto the floor, I'd call an emergency plumber. For a drip, it's better to wait. You can turn the small valve under the sink to stop the water until then." },
+        { "h": "Tenant", "g": "f", "t": "Oh, I didn't know there was a valve. Will I still be able to use the sink?" },
+        { "h": "Manager", "g": "m", "t": "Not that faucet, no. But it'll stop the dripping completely." },
+        { "h": "Tenant", "g": "f", "t": "Okay, I'll try that. Please put me on Thursday's list." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why does the woman call the building manager?",
+          "opciones": [
+            "To report a problem with her kitchen faucet",
+            "To complain about water on her kitchen floor",
+            "To ask for an emergency plumber to come tonight",
+            "To change the day of the plumber's visit"
+          ],
+          "correcta": 0,
+          "explicacion": "Ana llama porque “My kitchen faucet has been dripping since last night”. El agua cae dentro del fregadero, no al piso, y por eso no hace falta un plomero de emergencia."
+        },
+        {
+          "enunciado": "What does the manager suggest the woman do until Thursday?",
+          "opciones": [
+            "Call an emergency plumber",
+            "Put a bucket under the sink",
+            "Turn off a valve under the sink",
+            "Turn the faucet handle more tightly"
+          ],
+          "correcta": 2,
+          "explicacion": "El administrador le dice “You can turn the small valve under the sink to stop the water until then”. El plomero de emergencia solo lo llamaría si el agua cayera al piso."
+        }
+      ]
+    },
+    {
+      "id": "lc11",
+      "nivel": "C1",
+      "escena": "Listen to a conversation between a student and his biology professor.",
+      "guion": [
+        { "h": "Student", "g": "m", "t": "Professor Osei, I've got a bit of a problem with my lab report. My results don't match what the textbook says should happen." },
+        { "h": "Professor", "g": "f", "t": "Which experiment was this?" },
+        { "h": "Student", "g": "m", "t": "The one on how temperature affects enzyme activity. The book says activity should start dropping above a certain temperature, but in my trials it kept rising well past that point." },
+        { "h": "Professor", "g": "f", "t": "Interesting. Did you confirm that the water bath was actually holding the temperature you set?" },
+        { "h": "Student", "g": "m", "t": "Not really. I just trusted the display. Should I adjust my numbers?" },
+        { "h": "Professor", "g": "f", "t": "Absolutely not. Even if something went wrong, I don't want you changing your data to match the book." },
+        { "h": "Student", "g": "m", "t": "But won't I lose points if my results are off?" },
+        { "h": "Professor", "g": "f", "t": "Your grade depends on how well you explain your results, not on whether they match a textbook. Real scientists get unexpected data all the time. So discuss the possible reasons, like the water bath. And if you'd like to test that idea, the lab's open Friday afternoon. Bring a separate thermometer and run a few trials again." },
+        { "h": "Student", "g": "m", "t": "I think I'll do that. It'd be good to know for sure." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the conversation mainly about?",
+          "opciones": [
+            "How to set the temperature on a water bath",
+            "Why the man missed a lab session",
+            "Whether the textbook contains a factual error",
+            "How the man should handle unexpected lab results"
+          ],
+          "correcta": 3,
+          "explicacion": "Toda la conversación gira en torno a qué hacer porque sus resultados “don't match what the textbook says”: la profesora le pide no cambiar los datos y explicar las posibles causas. El baño de agua es solo una de esas causas, no el tema central."
+        },
+        {
+          "enunciado": "What does the professor imply when she says, “Real scientists get unexpected data all the time”?",
+          "opciones": [
+            "The man's experiment was probably poorly designed.",
+            "Getting surprising results is a normal part of research.",
+            "The man should repeat the experiment until it matches the textbook.",
+            "Professional scientists rarely make mistakes with their equipment."
+          ],
+          "correcta": 1,
+          "explicacion": "La profesora quiere decir que obtener datos inesperados es normal en la investigación; por eso no debe cambiarlos “to match the book”. No insinúa que el experimento estuviera mal diseñado."
+        }
+      ]
+    },
+    {
+      "id": "lc12",
+      "nivel": "B2",
+      "escena": "Listen to a conversation between a traveler and a ticket agent at a train station.",
+      "guion": [
+        { "h": "Traveler", "g": "f", "t": "Excuse me. The board says the six fifteen train to Riverton is canceled. What happened?" },
+        { "h": "Agent", "g": "m", "t": "There's a problem with the signals on that line, I'm afraid. No trains are running to Riverton until at least nine." },
+        { "h": "Traveler", "g": "f", "t": "Nine? I have a job interview there at eight thirty tomorrow morning, and I was hoping to get in tonight and rest." },
+        { "h": "Agent", "g": "m", "t": "Well, there's a replacement bus leaving from the front entrance at six forty. It makes a few extra stops, so it takes about an hour longer than the train." },
+        { "h": "Traveler", "g": "f", "t": "So I'd get there around ten instead of nine. That's not bad. Do I need a new ticket?" },
+        { "h": "Agent", "g": "m", "t": "No, your train ticket is valid on the bus. Just show it to the driver." },
+        { "h": "Traveler", "g": "f", "t": "And if I'd rather wait for the nine o'clock train?" },
+        { "h": "Agent", "g": "m", "t": "You could, but to be honest, signal repairs often take longer than expected. I wouldn't count on it." },
+        { "h": "Traveler", "g": "f", "t": "Then I'll go with the bus. Thanks for your help." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the woman's problem?",
+          "opciones": [
+            "She has lost her train ticket.",
+            "She arrived too late for her train.",
+            "Her train to Riverton has been canceled.",
+            "Her job interview has been moved to a later time."
+          ],
+          "correcta": 2,
+          "explicacion": "La viajera dice que “the six fifteen train to Riverton is canceled”. No perdió el tren ni le cambiaron la entrevista: el tren simplemente no va a salir."
+        },
+        {
+          "enunciado": "What does the agent suggest about the nine o'clock train?",
+          "opciones": [
+            "It may not leave on time.",
+            "It will arrive before the bus.",
+            "It requires a different ticket.",
+            "It makes more stops than the bus."
+          ],
+          "correcta": 0,
+          "explicacion": "El agente dice que las reparaciones “often take longer than expected” y “I wouldn't count on it”: ese tren podría no salir a tiempo. El boleto sirve igual en el bus y en el tren."
+        }
+      ]
+    },
+    {
+      "id": "lc13",
+      "nivel": "A2",
+      "escena": "Listen to a conversation between two students.",
+      "guion": [
+        { "h": "Man", "g": "m", "t": "Hi, Sofia. Are you going to the gym?" },
+        { "h": "Woman", "g": "f", "t": "I want to, but I can't find my student ID card. I need it to get in." },
+        { "h": "Man", "g": "m", "t": "Oh no. When did you last have it?" },
+        { "h": "Woman", "g": "f", "t": "Yesterday, at the library. I think I left it on a table near the windows." },
+        { "h": "Man", "g": "m", "t": "Did you ask at the front desk? They keep a box for lost things." },
+        { "h": "Woman", "g": "f", "t": "No, I didn't think of that." },
+        { "h": "Man", "g": "m", "t": "You should go there first. If it's not there, the card office can make you a new one. But it costs ten dollars." },
+        { "h": "Woman", "g": "f", "t": "Ten dollars? Then I really hope it's at the library." },
+        { "h": "Man", "g": "m", "t": "The library is open now. I can walk there with you, if you want." },
+        { "h": "Woman", "g": "f", "t": "Thanks! Let's go." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the woman's problem?",
+          "opciones": [
+            "The gym is closed today.",
+            "She cannot find her student ID card.",
+            "She does not have ten dollars.",
+            "She left her books at the library."
+          ],
+          "correcta": 1,
+          "explicacion": "Sofía dice “I can't find my student ID card”, y la necesita para entrar al gimnasio. El gimnasio no está cerrado; el problema es la tarjeta."
+        },
+        {
+          "enunciado": "What will the woman probably do next?",
+          "opciones": [
+            "Go to the gym with the man",
+            "Pay for a new card at the card office",
+            "Look for her card in her room",
+            "Ask at the library's front desk"
+          ],
+          "correcta": 3,
+          "explicacion": "El compañero le aconseja preguntar primero en la recepción de la biblioteca y se ofrece a acompañarla; ella responde “Let's go”. Pagar una tarjeta nueva es solo el plan B."
+        }
+      ]
+    },
+    {
+      "id": "lc14",
+      "nivel": "B1",
+      "escena": "Listen to a conversation between a student and a counselor at the career center.",
+      "guion": [
+        { "h": "Student", "g": "m", "t": "Hi. I'm applying for a summer internship at a marketing company, and I was hoping you could look at my résumé." },
+        { "h": "Counselor", "g": "f", "t": "Happy to. Hmm, it's well organized, and it looks clean. But your experience section is a little thin." },
+        { "h": "Student", "g": "m", "t": "Yeah, I've only had one job, at a grocery store. I didn't think anything else counted." },
+        { "h": "Counselor", "g": "f", "t": "What do you do outside of class? Clubs? Volunteer work?" },
+        { "h": "Student", "g": "m", "t": "Well, I run the social media pages for the hiking club. I post photos and announce our trips." },
+        { "h": "Counselor", "g": "f", "t": "But that's marketing experience! How many new followers have you brought in?" },
+        { "h": "Student", "g": "m", "t": "I'm not sure exactly, but it's definitely a lot more than when I started." },
+        { "h": "Counselor", "g": "f", "t": "Find out the real number and add it. Employers love to see results. And put the hiking club near the top of that section." },
+        { "h": "Student", "g": "m", "t": "Okay. I'll check the account tonight and update it." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why does the man visit the career center?",
+          "opciones": [
+            "To get advice on his résumé",
+            "To find a summer job at a grocery store",
+            "To learn how to manage a club's social media pages",
+            "To ask which marketing companies offer internships"
+          ],
+          "correcta": 0,
+          "explicacion": "El estudiante dice “I was hoping you could look at my résumé”. Ya está postulando a la pasantía; lo que busca son comentarios sobre su hoja de vida."
+        },
+        {
+          "enunciado": "What does the counselor tell the man to add to his résumé?",
+          "opciones": [
+            "The name of his manager at the grocery store",
+            "The number of followers he has gained for the club",
+            "Photos from the hiking club's trips",
+            "A list of the classes he has taken"
+          ],
+          "correcta": 1,
+          "explicacion": "La consejera le pregunta cuántos seguidores nuevos consiguió y le dice “Find out the real number and add it”. No menciona fotos ni el nombre de un gerente."
+        }
+      ]
+    },
+    {
+      "id": "lc15",
+      "nivel": "B2",
+      "escena": "Listen to a conversation between a student and a tutor at the writing center.",
+      "guion": [
+        { "h": "Tutor", "g": "m", "t": "So, you said you wanted help with the structure of your essay. What's the assignment?" },
+        { "h": "Student", "g": "f", "t": "It's an argument essay. I'm arguing that the university should keep the library open all night during exam weeks." },
+        { "h": "Tutor", "g": "m", "t": "Okay. I've read the first page. Your opening paragraph is strong, but I had trouble following the second and third paragraphs." },
+        { "h": "Student", "g": "f", "t": "Really? I thought those were my best parts. They have all my evidence." },
+        { "h": "Tutor", "g": "m", "t": "The evidence is good. The issue is that each paragraph covers three or four different ideas, so a reader can't tell what the main point is." },
+        { "h": "Student", "g": "f", "t": "So I should split them up?" },
+        { "h": "Tutor", "g": "m", "t": "That's one way. Try giving each paragraph a single topic sentence, and make sure everything after it supports that one point." },
+        { "h": "Student", "g": "f", "t": "That makes sense. What about the student survey? Should it stay in the second paragraph?" },
+        { "h": "Tutor", "g": "m", "t": "That's up to you. Just ask yourself which point it actually proves, and put it there." },
+        { "h": "Student", "g": "f", "t": "Right. I'll make an outline of my paragraphs first, and then rewrite them." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "According to the tutor, what is the main problem with the woman's essay?",
+          "opciones": [
+            "It does not include enough evidence.",
+            "Its opening paragraph is too long.",
+            "Its argument is not clearly stated in the introduction.",
+            "Some of its paragraphs try to cover too many ideas."
+          ],
+          "correcta": 3,
+          "explicacion": "El tutor explica que “each paragraph covers three or four different ideas”. La evidencia está bien (“The evidence is good”), así que la falta de evidencia es la trampa."
+        },
+        {
+          "enunciado": "What will the woman probably do next?",
+          "opciones": [
+            "Add more survey results to her essay",
+            "Ask her professor for a new topic",
+            "Write an outline of her paragraphs",
+            "Delete her second and third paragraphs"
+          ],
+          "correcta": 2,
+          "explicacion": "La estudiante termina con “I'll make an outline of my paragraphs first”. No va a borrar los párrafos, sino reorganizarlos."
+        }
+      ]
+    },
+    {
+      "id": "lc16",
+      "nivel": "B1",
+      "escena": "Listen to a conversation between a hotel guest and a receptionist.",
+      "guion": [
+        { "h": "Guest", "g": "m", "t": "Hi, I have a reservation under the name Kenji Watanabe. I know I'm early, but is my room ready by any chance?" },
+        { "h": "Receptionist", "g": "f", "t": "Welcome! Let me check. Hmm, check-in is at three, and I'm afraid your room is still being cleaned." },
+        { "h": "Guest", "g": "m", "t": "That's okay. It's only eleven. I was hoping to drop off my bags and go see the city." },
+        { "h": "Receptionist", "g": "f", "t": "Of course. We can keep your luggage behind the desk. I'll give you a ticket, and you can pick everything up when you get back." },
+        { "h": "Guest", "g": "m", "t": "Perfect. Is there anything you'd recommend seeing nearby?" },
+        { "h": "Receptionist", "g": "f", "t": "The old market is a ten-minute walk from here. It's at its liveliest in the morning, so now is a good time to go." },
+        { "h": "Guest", "g": "m", "t": "Sounds great. Oh, and could you send me a message when the room is ready?" },
+        { "h": "Receptionist", "g": "f", "t": "Sure, I'll text the number on your reservation. It might even be ready before three." },
+        { "h": "Guest", "g": "m", "t": "Thanks a lot. I'll head to the market, then." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the man's problem?",
+          "opciones": [
+            "The hotel cannot find his reservation.",
+            "His room is too far from the market.",
+            "He has arrived before his room is ready.",
+            "The hotel has lost his luggage."
+          ],
+          "correcta": 2,
+          "explicacion": "El huésped llega a las once y la recepcionista dice “your room is still being cleaned”; el registro es a las tres. Su reserva y su equipaje no tienen ningún problema."
+        },
+        {
+          "enunciado": "Why does the receptionist say that the market is at its liveliest in the morning?",
+          "opciones": [
+            "To suggest that the man go there right away",
+            "To warn the man that the market will be crowded",
+            "To explain why the man's room is not ready",
+            "To recommend that the man have lunch at the hotel"
+          ],
+          "correcta": 0,
+          "explicacion": "Ella agrega “so now is a good time to go”: le está recomendando ir ya. No lo dice como advertencia sobre la cantidad de gente."
+        }
+      ]
+    },
+    {
+      "id": "lc17",
+      "nivel": "B2",
+      "escena": "Listen to a conversation between a student and his economics professor.",
+      "guion": [
+        { "h": "Student", "g": "m", "t": "Professor Mbeki, could I talk to you about the midterm on the twentieth? I'm on the debate team, and we have a national tournament that week." },
+        { "h": "Professor", "g": "f", "t": "Congratulations. When do you leave?" },
+        { "h": "Student", "g": "m", "t": "On the nineteenth, and we're back on the twenty-second. So I'd miss the exam." },
+        { "h": "Professor", "g": "f", "t": "I see. My policy is that makeup exams are only for emergencies, so I can't give you a different version afterward." },
+        { "h": "Student", "g": "m", "t": "Oh. I was afraid of that." },
+        { "h": "Professor", "g": "f", "t": "But university-sponsored events are a special case. If your team's coach sends me an official letter, you can take the exam before you leave." },
+        { "h": "Student", "g": "m", "t": "Before? You mean on the eighteenth?" },
+        { "h": "Professor", "g": "f", "t": "Or the morning of the nineteenth, if your flight is late enough. You'd take it here in my office." },
+        { "h": "Student", "g": "m", "t": "That works. I'll ask Coach Ferreira to email you the letter today." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the conversation mainly about?",
+          "opciones": [
+            "How the man can take the midterm despite a schedule conflict",
+            "Why the professor refuses to give makeup exams",
+            "Whether the debate team will do well at the national tournament",
+            "Which topics will be covered on the midterm"
+          ],
+          "correcta": 0,
+          "explicacion": "El torneo coincide con el examen parcial, y la conversación busca una salida: presentarlo antes de viajar. La política de no dar exámenes de reposición es solo una parte de la conversación."
+        },
+        {
+          "enunciado": "What must happen before the man can take the exam early?",
+          "opciones": [
+            "He must change his flight to a later time.",
+            "He must pass a practice test in the professor's office.",
+            "He must get permission from the head of the department.",
+            "His coach must send the professor an official letter."
+          ],
+          "correcta": 3,
+          "explicacion": "La profesora pone una condición: “If your team's coach sends me an official letter, you can take the exam before you leave”. El horario del vuelo solo importa para saber si puede hacerlo la mañana del diecinueve."
+        }
+      ]
+    },
+    {
+      "id": "lc18",
+      "nivel": "C1",
+      "escena": "Listen to a conversation between a student and her academic advisor.",
+      "guion": [
+        { "h": "Student", "g": "f", "t": "I've been thinking about adding a second major in computer science. I'm already majoring in linguistics, and the two seem to overlap quite a bit." },
+        { "h": "Advisor", "g": "m", "t": "They do, especially in areas like speech recognition. Have you looked at how many credits the computer science major requires?" },
+        { "h": "Student", "g": "f", "t": "Sixty, I think. But some of my linguistics courses should count toward it." },
+        { "h": "Advisor", "g": "m", "t": "Maybe one or two. I went through your record before you came in. To finish both majors, you'd need about two extra semesters." },
+        { "h": "Student", "g": "f", "t": "Two semesters? I was really hoping to graduate on time." },
+        { "h": "Advisor", "g": "m", "t": "Then you might consider the computer science minor instead. It's twenty-four credits, and it would still give you the programming foundation you'd need for graduate work in that area." },
+        { "h": "Student", "g": "f", "t": "But would a minor look as strong on a graduate school application?" },
+        { "h": "Advisor", "g": "m", "t": "In my experience, admissions committees care most about what you can actually do. A minor plus a solid research project often says more than a second major." },
+        { "h": "Student", "g": "f", "t": "That's a fair point. Could you show me which courses the minor includes?" }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What does the advisor imply when he says, “Maybe one or two”?",
+          "opciones": [
+            "The woman should take only one or two computer science courses.",
+            "Few of the woman's linguistics courses will count toward a second major.",
+            "The woman needs only one or two more semesters to graduate.",
+            "Linguistics and computer science overlap in only one or two areas."
+          ],
+          "correcta": 1,
+          "explicacion": "La estudiante cree que varios cursos de lingüística le servirán, y el asesor responde “Maybe one or two”, es decir, muy pocos. Por eso calcula que necesitaría dos semestres extra."
+        },
+        {
+          "enunciado": "What will the woman probably do next?",
+          "opciones": [
+            "Apply to graduate programs in linguistics",
+            "Sign up for a second major in computer science",
+            "Look at the courses required for the minor",
+            "Start a research project with the advisor"
+          ],
+          "correcta": 2,
+          "explicacion": "Al final ella pide “Could you show me which courses the minor includes?”. Todavía no se inscribe en la doble carrera; quiere conocer primero la opción del minor."
+        }
+      ]
+    }
+  ]
+}

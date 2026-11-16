@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <!--
+    La plataforma vive en /toefl/ CON barra final: las rutas de css/ y js/ son
+    relativas. Si alguien entra a /toefl sin barra, se la agregamos.
+  -->
+  <script>
+    if (!/\/$/.test(location.pathname) && !/\.[a-z0-9]+$/i.test(location.pathname)) {
+      location.replace(location.pathname + '/' + location.search + location.hash);
+    }
+  </script>
+  <title>Preparación TOEFL iBT · Inglés Latinoamérica</title>
+  <meta name="description" content="Prepare el TOEFL iBT con el formato nuevo de 2026: diagnóstico, 24 sesiones guiadas, práctica de las 11 tareas y simulacros completos, con explicaciones en español. Gratis." />
+  <meta name="theme-color" content="#326EE7" />
+  <link rel="canonical" href="https://ingleslatinoamerica.com/toefl/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Inglés Latinoamérica" />
+  <meta property="og:locale" content="es_GT" />
+  <meta property="og:url" content="https://ingleslatinoamerica.com/toefl/" />
+  <meta property="og:title" content="TOEFL sin atajos · Preparación TOEFL iBT 2026" />
+  <meta property="og:description" content="Diagnóstico, 24 sesiones guiadas y simulacros completos del TOEFL iBT con el formato de 2026. Gratis y en español." />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" type="image/svg+xml" href="assets/simbolo.svg" />
+  <link rel="apple-touch-icon" href="assets/favicon-180.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@800;900&family=Inter:wght@400;500;600;700;800&display=swap" />
+  <link rel="stylesheet" href="css/estilos.css" />
+</head>
+<body>
+  <a class="saltar" href="#main">Saltar al contenido</a>
+  <header class="barra">
+    <div class="contenedor">
+      <a class="marca" href="#/">
+        <img class="marca-simbolo" src="assets/simbolo.svg" width="32" height="32" alt="" />
+        <span>TOEFL iBT<small>Inglés Latinoamérica</small></span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="#/" data-ruta="">Inicio</a>
+        <a href="#/plan" data-ruta="plan">Plan</a>
+        <a href="#/practica" data-ruta="practica">Práctica</a>
+        <a href="#/simulacros" data-ruta="simulacros">Simulacros</a>
+        <a href="#/progreso" data-ruta="progreso">Progreso</a>
+        <a href="#/recursos" data-ruta="recursos">Recursos</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <div class="contenedor cargando">Cargando…</div>
+  </main>
+
+  <div id="anuncio-vivo" class="oculto-visual" aria-live="assertive"></div>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <p class="display">Work hard.<br />Test well.</p>
+      <div id="pie-clases" class="pie-clases"></div>
+      <div class="pie-columnas">
+        <div>
+          <p><strong>Inglés Latinoamérica</strong> · Preparación TOEFL iBT</p>
+          <p>Ejercicios originales con el formato vigente desde el 21 de enero de 2026. Las bandas son estimaciones de práctica, no puntajes oficiales.</p>
+        </div>
+        <div>
+          <p>TOEFL y TOEFL iBT son marcas registradas de ETS. Esta plataforma no está afiliada, respaldada ni aprobada por ETS.</p>
+          <p>© <span id="anio">2026</span> Inglés Latinoamérica · <a href="https://ingleslatinoamerica.com/">ingleslatinoamerica.com</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

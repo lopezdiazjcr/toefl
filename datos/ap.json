@@ -1,0 +1,575 @@
+{
+  "tipo": "ap",
+  "items": [
+    {
+      "id": "ap01",
+      "nivel": "A2",
+      "titulo": "Why Leaves Change Color",
+      "texto": "In many parts of the world, the leaves on trees change color every autumn. In summer, they are green. Then, over a few weeks, they turn yellow, orange, red, or brown. Many people travel to forests and parks just to see these bright colors. But why does this change happen?\n\nThe answer starts with a substance called chlorophyll. Chlorophyll gives leaves their green color, and it also has an important job. It helps the tree use sunlight to make food. In summer, there is a lot of chlorophyll in each leaf, so we see only green. However, leaves also contain yellow and orange substances. These colors are always there, but the strong green color hides them.\n\nIn autumn, the days become shorter and the air becomes cooler. The tree slowly stops making chlorophyll, and the green color fades. Now the yellow and orange colors can finally be seen. Some trees, such as certain maples, also make new red substances in their leaves at this time of year. Later, the leaves fall to the ground. Losing its leaves helps the tree save water during the cold winter months, when it is hard to take water from frozen ground.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"job\" in the passage is closest in meaning to",
+          "opciones": ["paid position", "function", "problem", "place"],
+          "correcta": 1,
+          "explicacion": "Aquí \"job\" se refiere a la función que cumple la clorofila: ayudar al árbol a producir alimento. La trampa es \"paid position\", el significado más común de \"job\", que no tiene sentido para una sustancia."
+        },
+        {
+          "enunciado": "According to the passage, what does chlorophyll help trees do?",
+          "opciones": ["Keep their leaves during the winter", "Produce red colors in autumn", "Take water from frozen ground", "Make food using sunlight"],
+          "correcta": 3,
+          "explicacion": "El párrafo 2 dice que la clorofila \"helps the tree use sunlight to make food\". Las demás opciones mezclan otras ideas del texto: el rojo lo producen otras sustancias y el suelo congelado se menciona por otra razón."
+        },
+        {
+          "enunciado": "How does paragraph 2 relate to paragraph 1?",
+          "opciones": ["It begins to answer the question asked at the end of paragraph 1.", "It gives more examples of places where people go to see autumn leaves.", "It describes a season that is different from the one in paragraph 1.", "It explains why the colors in paragraph 1 are not real."],
+          "correcta": 0,
+          "explicacion": "El párrafo 1 termina con la pregunta \"why does this change happen?\" y el párrafo 2 empieza con \"The answer starts with...\". La opción de la estación distinta atrae porque el párrafo 2 habla del verano, pero lo hace para explicar el otoño."
+        },
+        {
+          "enunciado": "What does the passage suggest about the yellow color of autumn leaves?",
+          "opciones": ["The tree makes it only when the weather becomes cold.", "It appears because leaves get more sunlight in autumn.", "It was already in the leaves during the summer.", "It is found only in the leaves of maple trees."],
+          "correcta": 2,
+          "explicacion": "El texto dice que el amarillo y el naranja \"are always there\" y que el verde los oculta, así que ya estaban en verano. La primera opción es la trampa: describe lo que pasa con el rojo, no con el amarillo."
+        },
+        {
+          "enunciado": "Why does the author mention \"frozen ground\"?",
+          "opciones": ["To explain why some leaves turn red", "To explain why losing its leaves helps a tree in winter", "To describe where most fallen leaves end up", "To show that autumn is colder than winter"],
+          "correcta": 1,
+          "explicacion": "El autor menciona el suelo congelado para explicar por qué perder las hojas ayuda al árbol: en invierno le cuesta tomar agua. La opción sobre dónde caen las hojas atrae porque la oración anterior habla del suelo, pero ese no es el propósito."
+        }
+      ]
+    },
+    {
+      "id": "ap02",
+      "nivel": "A2",
+      "titulo": "The Changing Shape of the Moon",
+      "texto": "If you look at the Moon on different nights, it seems to change shape. Some nights it is a thin, curved line. On other nights it is half a circle, and sometimes it is a full, bright circle. These different shapes are called phases. Of course, the Moon does not really change its shape. It is always a round ball of rock. So what are we seeing?\n\nFirst, it is important to know that the Moon does not make its own light. It looks bright only because light from the Sun hits it and reflects back toward us. At any time, the Sun lights up one half of the Moon, while the other half stays dark. As the Moon travels around Earth, we see different amounts of its bright half.\n\nWhen the Moon is between Earth and the Sun, its bright side faces away from us, so we see almost nothing. This phase is called the new moon. Day by day, we see a little more of the bright side. About two weeks later, the Moon is on the other side of Earth, and we can see the whole bright half. This is the full moon. After that, we see a little less each night. The complete cycle, from one new moon to the next, takes about twenty-nine and a half days.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"faces\" in the passage is closest in meaning to",
+          "opciones": ["meets", "covers", "is turned", "looks like"],
+          "correcta": 2,
+          "explicacion": "En \"its bright side faces away from us\", \"faces\" indica hacia dónde está orientado el lado iluminado: está girado en dirección contraria a la Tierra. \"Meets\" atrae porque \"face\" también significa enfrentar un problema, pero aquí no hay nada que enfrentar."
+        },
+        {
+          "enunciado": "According to the passage, why does the Moon look bright?",
+          "opciones": ["Light from the Sun hits it and reflects toward us.", "It makes its own light at night.", "It is made of a very bright kind of rock.", "It is closer to Earth than the Sun is."],
+          "correcta": 0,
+          "explicacion": "El párrafo 2 dice que la Luna brilla solo porque refleja la luz del Sol. La última opción es cierta en la vida real, pero el texto no la da como razón del brillo."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It gives a different explanation for the phases.", "It describes the surface of the Moon in more detail.", "It explains why the Moon is made of rock.", "It uses the idea in paragraph 2 to describe specific phases."],
+          "correcta": 3,
+          "explicacion": "El párrafo 2 explica que vemos distintas partes de la mitad iluminada, y el párrafo 3 aplica esa idea a la luna nueva y a la luna llena. No es una explicación diferente: es la misma idea con ejemplos concretos."
+        },
+        {
+          "enunciado": "What does the passage suggest about the Moon during the new moon phase?",
+          "opciones": ["The Sun is not shining on any part of it.", "It is very hard to see from Earth.", "It is on the opposite side of Earth from the Sun.", "It has stopped traveling around Earth."],
+          "correcta": 1,
+          "explicacion": "Si el lado iluminado mira hacia el otro lado y \"we see almost nothing\", la Luna es muy difícil de ver. La primera opción es la trampa: el texto dice que el Sol siempre ilumina una mitad de la Luna."
+        },
+        {
+          "enunciado": "Why does the author mention that the Moon is \"a round ball of rock\"?",
+          "opciones": ["To make clear that the Moon's real shape does not change", "To explain why the Moon reflects sunlight", "To compare the Moon with Earth", "To describe what visitors to the Moon have found"],
+          "correcta": 0,
+          "explicacion": "Justo antes, el autor dice que la Luna no cambia de forma; la frase confirma que siempre es redonda. La opción del reflejo atrae, pero esa idea aparece en el párrafo 2 y no se relaciona con la roca."
+        }
+      ]
+    },
+    {
+      "id": "ap03",
+      "nivel": "B1",
+      "titulo": "How Limestone Caves Form",
+      "texto": "Many of the world's largest caves are found in limestone, a type of rock that often formed from the shells and skeletons of ancient sea creatures. Limestone may look solid and permanent, but it has an important weakness: it slowly dissolves in water that is slightly acidic. This weakness is the key to how most caves are created.\n\nThe process begins with ordinary rain. As rainwater falls through the air and then soaks through the soil, it picks up carbon dioxide, which turns it into a weak acid. When this water flows into small cracks in limestone, it dissolves a little of the rock. The amount removed at any moment is tiny, but the process continues for thousands or even millions of years. Gradually, narrow cracks become wider channels, and channels grow into tunnels and large underground rooms.\n\nInterestingly, the same chemistry that hollows out a cave also decorates it. When water carrying dissolved limestone drips from a cave's ceiling, it releases some of its carbon dioxide into the air. As a result, the water can no longer hold all of the dissolved mineral, and a thin layer of it is left behind. Drop by drop, these layers build stalactites that hang from the ceiling and stalagmites that rise from the floor. Because they grow so slowly, a broken formation may need many human lifetimes to grow back.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"hold\" in the passage is closest in meaning to",
+          "opciones": ["grip", "stop", "own", "contain"],
+          "correcta": 3,
+          "explicacion": "En \"the water can no longer hold all of the dissolved mineral\", \"hold\" significa contener o llevar disuelto. \"Grip\" (agarrar) es el sentido físico más común de \"hold\", pero el agua no agarra nada."
+        },
+        {
+          "enunciado": "According to paragraph 2, what allows rainwater to dissolve limestone?",
+          "opciones": ["It carries salt from ancient seas.", "It picks up carbon dioxide and becomes a weak acid.", "It moves very quickly through cracks.", "It becomes warmer as it goes underground."],
+          "correcta": 1,
+          "explicacion": "El párrafo 2 dice que el agua \"picks up carbon dioxide, which turns it into a weak acid\". La opción del mar antiguo atrae porque el párrafo 1 menciona criaturas marinas, pero eso explica el origen de la roca, no el del ácido."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It describes an older theory that paragraph 2 rejects.", "It gives the name of a famous cave mentioned in paragraph 2.", "It shows how related chemistry builds formations inside the spaces described in paragraph 2.", "It explains why the process in paragraph 2 is so slow."],
+          "correcta": 2,
+          "explicacion": "El párrafo 2 explica cómo se vacía la cueva y el párrafo 3 cómo \"the same chemistry\" la decora con estalactitas y estalagmitas. La última opción atrae porque ambos párrafos hablan de lentitud, pero el párrafo 3 no explica por qué el proceso del párrafo 2 es lento."
+        },
+        {
+          "enunciado": "What does the passage suggest about stalactites and stalagmites?",
+          "opciones": ["They are made of material that was once part of the surrounding rock.", "They form when cave water absorbs extra carbon dioxide.", "They are made of a mineral that is not found in limestone.", "They grow faster than the cave passages around them."],
+          "correcta": 0,
+          "explicacion": "El agua que gotea lleva caliza disuelta y deja ese mineral al perder dióxido de carbono, así que las formaciones vienen de la roca de arriba. La segunda opción invierte el proceso: el agua libera dióxido de carbono, no lo absorbe."
+        },
+        {
+          "enunciado": "Why does the author mention \"the shells and skeletons of ancient sea creatures\"?",
+          "opciones": ["To explain why caves often contain fossils", "To argue that all caves were once under the sea", "To describe the origin of the rock in which most caves form", "To show that limestone is stronger than other rocks"],
+          "correcta": 2,
+          "explicacion": "La frase explica de qué está hecha la caliza, la roca donde se forman las cuevas. La opción de los fósiles parece lógica, pero el texto nunca habla de fósiles dentro de las cuevas."
+        }
+      ]
+    },
+    {
+      "id": "ap04",
+      "nivel": "B1",
+      "titulo": "Reading the Rings of Trees",
+      "texto": "When archaeologists find a wooden beam in an ancient building, they often want to know exactly how old it is. One surprisingly precise method relies on the rings inside trees. In places with clear seasons, a tree usually adds one new layer of wood each year, and these layers appear as rings when the trunk is cut. The study of these rings is called dendrochronology.\n\nThe width of each ring changes from year to year. In a wet, mild year, a tree grows well and forms a wide ring; in a dry or cold year, the ring is narrow. Because trees in the same region experience the same weather, they share a similar pattern of wide and narrow rings. Scientists begin with living trees, whose outer ring belongs to the present year, and then match their inner rings to the outer rings of older wood, such as logs from old houses. Step by step, they build a continuous record that reaches back many centuries.\n\nOnce this record exists, a beam from a ruin can be compared with it. If the beam's ring pattern matches a section of the record, researchers can identify the year in which the tree's last ring formed. The method was developed in the early twentieth century by Andrew Ellicott Douglass, an astronomer who first turned to tree rings to study changes in past climate, not to date buildings.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"record\" in the passage is closest in meaning to",
+          "opciones": ["timeline", "top score", "music album", "written complaint"],
+          "correcta": 0,
+          "explicacion": "\"A continuous record that reaches back many centuries\" es una secuencia de datos ordenada en el tiempo, es decir, una línea de tiempo. \"Top score\" atrae porque \"record\" también significa récord o marca, pero no tiene sentido aquí."
+        },
+        {
+          "enunciado": "According to paragraph 2, what does a narrow tree ring show?",
+          "opciones": ["The tree was very young that year.", "The tree was cut down that year.", "The year was dry or cold.", "The tree grew in a different region."],
+          "correcta": 2,
+          "explicacion": "El párrafo 2 dice que \"in a dry or cold year, the ring is narrow\". La opción del árbol cortado mezcla una idea del párrafo 3, que trata del último anillo, no de su ancho."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It describes a problem that makes the method in paragraph 2 unreliable.", "It explains how the record built in paragraph 2 is used to date wood.", "It compares tree rings with a different dating method.", "It explains why trees form rings of different widths."],
+          "correcta": 1,
+          "explicacion": "El párrafo 2 explica cómo se construye el registro de anillos y el párrafo 3 cómo se usa para fechar una viga. La última opción describe el contenido del propio párrafo 2, no la relación entre ambos."
+        },
+        {
+          "enunciado": "What does the passage suggest about using tree rings in places without clear seasons?",
+          "opciones": ["It works better because trees grow all year.", "It produces wider rings that are easier to read.", "It was first developed in such places by Douglass.", "It may be less reliable because trees may not add exactly one ring per year."],
+          "correcta": 3,
+          "explicacion": "El texto dice que el árbol añade un anillo por año \"in places with clear seasons\"; sin estaciones marcadas, esa regla podría no cumplirse. La primera opción suena lógica, pero el texto vincula el método precisamente con las estaciones."
+        },
+        {
+          "enunciado": "Why does the author mention that Douglass was \"an astronomer\"?",
+          "opciones": ["To suggest that his dates are not reliable", "To explain why the method is mainly used in astronomy", "To show that tree rings record events in space", "To point out that the method came from research with a different original goal"],
+          "correcta": 3,
+          "explicacion": "El autor subraya que Douglass no buscaba fechar edificios sino estudiar el clima: el método nació de otra investigación. La tercera opción atrae por la palabra \"astronomer\", pero el texto no dice que los anillos registren eventos del espacio."
+        }
+      ]
+    },
+    {
+      "id": "ap05",
+      "nivel": "B1",
+      "titulo": "The Spacing Effect",
+      "texto": "Many students prepare for exams by studying for hours the night before. This strategy, often called cramming, can feel productive, and it sometimes leads to an acceptable score the next morning. However, research on memory shows that information learned this way tends to disappear quickly. A different approach, known as spaced practice, usually produces much longer-lasting results.\n\nThe basic idea is simple. Instead of reviewing material many times in one long session, a learner spreads the same amount of study across several shorter sessions, with breaks of a day or more between them. The German psychologist Hermann Ebbinghaus described this pattern in the 1880s after testing his own memory of lists of meaningless syllables. Since then, the effect has been confirmed in many experiments with learners of different ages and with many kinds of material, from foreign vocabulary to scientific facts.\n\nWhy does spacing help? One explanation is that a short delay allows some forgetting to happen. When learners then have to work a little harder to recall the information, the memory becomes stronger. In other words, the moment of mild difficulty is not a sign of failure but part of the learning process. Unfortunately, because spaced study feels harder, many learners believe it is less effective than it really is.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"spreads\" in the passage is closest in meaning to",
+          "opciones": ["covers", "distributes", "repeats", "shares with others"],
+          "correcta": 1,
+          "explicacion": "\"Spreads the same amount of study across several shorter sessions\" significa repartir o distribuir el estudio en varias sesiones. \"Covers\" atrae porque \"spread\" se usa para cubrir una superficie (untar mantequilla, por ejemplo), pero aquí se habla de tiempo."
+        },
+        {
+          "enunciado": "According to paragraph 2, what did Ebbinghaus use in his research?",
+          "opciones": ["Lists of syllables that had no meaning", "Vocabulary from a foreign language", "Students preparing for exams", "Mathematics problems of different levels"],
+          "correcta": 0,
+          "explicacion": "El texto dice que Ebbinghaus probó su propia memoria con \"lists of meaningless syllables\". El vocabulario extranjero aparece en el mismo párrafo, pero como material de experimentos posteriores."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It challenges the findings described in paragraph 2.", "It gives another example of the experiments in paragraph 2.", "It describes the history of the research in paragraph 2.", "It offers a possible explanation for the effect described in paragraph 2."],
+          "correcta": 3,
+          "explicacion": "El párrafo 3 abre con \"Why does spacing help?\" y propone \"One explanation\" para el efecto descrito antes. No cuestiona los hallazgos: los da por buenos y trata de explicarlos."
+        },
+        {
+          "enunciado": "What does the passage suggest about learners who find spaced practice difficult?",
+          "opciones": ["They are probably using the method incorrectly.", "They will remember less than students who cram.", "They may underestimate how well the method works.", "They need breaks of at least one week."],
+          "correcta": 2,
+          "explicacion": "El último párrafo dice que la dificultad es parte del aprendizaje y que muchos creen, por error, que el método funciona peor de lo que funciona. La primera opción atrae, pero el texto presenta la dificultad como normal, no como señal de mal uso."
+        },
+        {
+          "enunciado": "Why does the author mention that cramming \"sometimes leads to an acceptable score the next morning\"?",
+          "opciones": ["To recommend cramming for short-term goals", "To admit a short-term benefit before explaining its main weakness", "To show that Ebbinghaus's research was mistaken", "To describe the results of a particular experiment"],
+          "correcta": 1,
+          "explicacion": "El autor reconoce una ventaja inmediata y luego, con \"However\", explica que lo aprendido así se olvida rápido. La primera opción exagera: el texto no recomienda estudiar a última hora."
+        }
+      ]
+    },
+    {
+      "id": "ap06",
+      "nivel": "B1",
+      "titulo": "The Birth of the Piano",
+      "texto": "For centuries, one of the most important keyboard instruments in Europe was the harpsichord. When a player pressed a key, a small piece of quill or leather plucked a string. The harpsichord produced a bright, clear sound, but it had one serious limitation: pressing a key harder did not make the note much louder. Musicians could not easily move from soft to loud passages simply by changing their touch.\n\nAround 1700, an instrument maker in Florence named Bartolomeo Cristofori found a solution. Instead of plucking the strings, his instrument used small hammers covered in leather that struck the strings and then immediately fell back, allowing the strings to keep vibrating. Because the force of each hammer depended on how hard the key was pressed, the player could now control the volume of every note. The instrument became known in Italian as a harpsichord 'with soft and loud,' and the Italian words for 'soft and loud' eventually gave us the name pianoforte, or simply piano.\n\nThe new instrument did not become popular immediately. For several decades, many musicians continued to prefer the harpsichord, and early pianos were expensive and difficult to build. By the late eighteenth century, however, composers were increasingly writing music full of gradual and sudden changes in volume, and the piano slowly replaced the older instrument in homes and concert halls.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"touch\" in the passage is closest in meaning to",
+          "opciones": ["sense of feeling", "communication", "way of pressing the keys", "small amount"],
+          "correcta": 2,
+          "explicacion": "En música, \"touch\" es la manera en que el intérprete presiona las teclas, y el texto lo relaciona con tocar más suave o más fuerte. \"Communication\" y \"small amount\" son sentidos reales de \"touch\" (keep in touch, a touch of), pero no encajan aquí."
+        },
+        {
+          "enunciado": "According to paragraph 2, what was special about the hammers in Cristofori's instrument?",
+          "opciones": ["They were made of quill instead of leather.", "They plucked the strings more gently.", "They stayed pressed against the strings to make the sound longer.", "They struck the strings with a force controlled by the player."],
+          "correcta": 3,
+          "explicacion": "El párrafo 2 dice que la fuerza del martillo dependía de cuán fuerte se presionaba la tecla. La tercera opción invierte el dato: los martillos se retiraban de inmediato para dejar vibrar la cuerda."
+        },
+        {
+          "enunciado": "How does paragraph 2 relate to paragraph 1?",
+          "opciones": ["It describes a solution to the problem presented in paragraph 1.", "It gives another example of the problem in paragraph 1.", "It explains why the harpsichord in paragraph 1 was more popular.", "It describes the history of the harpsichord in more detail."],
+          "correcta": 0,
+          "explicacion": "El párrafo 1 presenta la limitación del clavecín y el párrafo 2 empieza con \"found a solution\". La tercera opción atrae porque el clavecín siguió siendo preferido un tiempo, pero eso aparece en el párrafo 3."
+        },
+        {
+          "enunciado": "What does the passage suggest about music written in the late eighteenth century?",
+          "opciones": ["It was usually performed on the harpsichord.", "It would have been difficult to perform well on a harpsichord.", "It was written mainly for concerts in Florence.", "It was generally quieter than earlier music."],
+          "correcta": 1,
+          "explicacion": "Si esa música estaba llena de cambios de volumen y el clavecín no permitía cambiar el volumen con el toque, era difícil tocarla bien en ese instrumento. La primera opción contradice el texto, que dice que en esa época el piano reemplazó al clavecín."
+        },
+        {
+          "enunciado": "Why does the author mention the Italian words for \"soft and loud\"?",
+          "opciones": ["To explain where the modern name of the instrument comes from", "To show that Cristofori wanted to replace the harpsichord completely", "To suggest that the piano was first popular outside Italy", "To describe the sound of the earliest pianos"],
+          "correcta": 0,
+          "explicacion": "El texto dice que esas palabras \"eventually gave us the name pianoforte, or simply piano\". La última opción atrae porque \"soft and loud\" parece describir un sonido, pero el autor las cita para explicar el origen del nombre."
+        }
+      ]
+    },
+    {
+      "id": "ap07",
+      "nivel": "B1",
+      "titulo": "Why Cities Are Warmer",
+      "texto": "On a summer evening, a person who drives from the countryside into a large city may notice that the air becomes warmer. This is not imagination. Cities are often noticeably warmer than the rural areas around them, a pattern that scientists call the urban heat island effect. The difference is usually greatest at night, when the countryside cools quickly but the city stays warm for hours.\n\nSeveral features of cities produce this effect. Roads, parking lots, and dark rooftops absorb large amounts of sunlight during the day and release that heat slowly after the sun goes down. Tall buildings standing close together can trap warm air and block cooling breezes. In addition, cities usually have fewer trees and other plants. Plants cool their surroundings in two ways: they provide shade, and they release water vapor from their leaves, a process that uses heat energy. Finally, cars, factories, and air conditioners all give off heat of their own.\n\nBecause the effect is caused largely by human design, it can also be reduced by design. Some cities are planting more trees along streets, painting roofs in light colors that reflect sunlight, and covering buildings with 'green roofs' of soil and plants. These changes can make neighborhoods more comfortable and reduce the energy needed for air conditioning in hot weather.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"features\" in the passage is closest in meaning to",
+          "opciones": ["news articles", "parts of the face", "advertisements", "characteristics"],
+          "correcta": 3,
+          "explicacion": "\"Several features of cities\" son características de las ciudades, como el asfalto o los edificios altos. \"News articles\" y \"parts of the face\" son sentidos reales de \"features\", pero no encajan con lo que se enumera después."
+        },
+        {
+          "enunciado": "According to paragraph 2, how do plants cool the area around them?",
+          "opciones": ["By absorbing sunlight with their dark leaves", "By blocking breezes between buildings", "By providing shade and releasing water vapor", "By reflecting heat back into the sky"],
+          "correcta": 2,
+          "explicacion": "El texto dice que las plantas enfrían de dos formas: dan sombra y liberan vapor de agua. Reflejar la luz es lo que hacen los techos claros del párrafo 3, no las plantas."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It adds further causes to those listed in paragraph 2.", "It proposes solutions that respond to causes described in paragraph 2.", "It questions whether the causes in paragraph 2 are accurate.", "It describes how the effect in paragraph 2 harms rural areas."],
+          "correcta": 1,
+          "explicacion": "Los árboles, los techos claros y los techos verdes responden a causas del párrafo 2: pocas plantas y superficies oscuras. La primera opción atrae porque el párrafo 3 también habla del diseño humano, pero no agrega causas nuevas."
+        },
+        {
+          "enunciado": "What does the passage suggest about a city street lined with many large trees?",
+          "opciones": ["It is likely to be cooler than a similar street without trees.", "It will stay warmer at night than streets without trees.", "It will need more energy for air conditioning.", "It is probably located outside the city."],
+          "correcta": 0,
+          "explicacion": "Como las plantas dan sombra y enfrían el aire, una calle con muchos árboles probablemente será más fresca. La segunda opción invierte la relación entre árboles y calor."
+        },
+        {
+          "enunciado": "Why does the author mention a person who \"drives from the countryside into a large city\"?",
+          "opciones": ["To argue that people should drive less in cities", "To show that cars are the main cause of the effect", "To introduce the effect with an experience readers can recognize", "To explain why rural areas cool quickly at night"],
+          "correcta": 2,
+          "explicacion": "El autor empieza con una experiencia cotidiana para presentar el efecto isla de calor. La segunda opción atrae por la palabra \"drives\", pero los autos son solo una de varias causas y aparecen en el párrafo 2."
+        }
+      ]
+    },
+    {
+      "id": "ap08",
+      "nivel": "B2",
+      "titulo": "The Logic of Comparative Advantage",
+      "texto": "Why do countries trade with each other, even when one of them can produce almost everything more efficiently than its partners? The answer lies in an idea that the British economist David Ricardo explained in the early nineteenth century: comparative advantage. The concept is often misunderstood because it seems to contradict common sense. If one producer is better at every task, it might appear to have nothing to gain from trade.\n\nRicardo's insight was that what matters is not absolute skill but opportunity cost, meaning what must be given up in order to produce something. Consider an architect who designs buildings brilliantly and also builds scale models faster than her assistant. Every hour she spends building models is an hour she cannot spend designing, which is far more valuable work. Although she is better at both tasks, it makes sense for her to concentrate on design and leave the models to her assistant, whose time costs the firm much less. As a result, the two of them together produce more than if each divided their time between both tasks.\n\nThe same reasoning applies to nations. A country gains by specializing in goods it can produce at a relatively low opportunity cost and trading for the rest. Economists widely accept this principle, although they continue to debate how its benefits and costs are distributed among workers and industries within each country.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"applies\" in the passage is closest in meaning to",
+          "opciones": ["is relevant", "submits a request", "is spread on a surface", "pays close attention"],
+          "correcta": 0,
+          "explicacion": "\"The same reasoning applies to nations\" significa que el mismo razonamiento es válido o pertinente para los países. \"Submits a request\" corresponde a \"apply for\" (postularse), un uso común pero distinto."
+        },
+        {
+          "enunciado": "According to paragraph 2, why should the architect leave model building to her assistant?",
+          "opciones": ["Her assistant builds models faster than she does.", "Time spent on models takes away time from more valuable design work.", "She does not have the skills to build models well.", "The firm does not allow architects to build models."],
+          "correcta": 1,
+          "explicacion": "El texto dice que cada hora haciendo maquetas es una hora que no dedica a diseñar, un trabajo mucho más valioso: ese es el costo de oportunidad. La primera opción invierte el dato, porque ella es más rápida que su asistente."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It presents evidence that contradicts the example in paragraph 2.", "It describes how Ricardo first developed the example in paragraph 2.", "It applies the reasoning of the example in paragraph 2 to countries.", "It explains why the assistant in paragraph 2 is paid less."],
+          "correcta": 2,
+          "explicacion": "El párrafo 3 empieza con \"The same reasoning applies to nations\": lleva la lógica del ejemplo individual al nivel de los países. La segunda opción atrae porque menciona a Ricardo, pero el texto no dice que él usara el ejemplo de la arquitecta."
+        },
+        {
+          "enunciado": "What does the passage suggest about the common-sense view described in paragraph 1?",
+          "opciones": ["It is correct for individuals but not for countries.", "It was first proposed by David Ricardo.", "It is accepted by most economists today.", "It fails to consider what is given up to produce something."],
+          "correcta": 3,
+          "explicacion": "El sentido común dice que quien es mejor en todo no gana con el comercio; el texto muestra que ese razonamiento ignora el costo de oportunidad. La primera opción es falsa: el ejemplo de la arquitecta prueba que el principio también vale para individuos."
+        },
+        {
+          "enunciado": "Why does the author mention an architect and her assistant?",
+          "opciones": ["To show that comparative advantage does not apply to individuals", "To describe how Ricardo discovered the principle", "To argue that assistants should earn higher salaries", "To illustrate an abstract principle with a familiar situation"],
+          "correcta": 3,
+          "explicacion": "El ejemplo vuelve concreta la idea abstracta de costo de oportunidad antes de aplicarla a los países. La primera opción dice lo contrario de lo que el ejemplo demuestra."
+        }
+      ]
+    },
+    {
+      "id": "ap09",
+      "nivel": "B2",
+      "titulo": "From Pidgin to Creole",
+      "texto": "When people who share no common language must interact regularly, for example in a busy trading port, they often develop a simplified way of communicating. Linguists call such a system a pidgin. A pidgin usually borrows most of its words from one language, has a small vocabulary, and has a reduced grammar, with few word endings and a fairly fixed word order. Importantly, a pidgin is no one's first language; everyone who uses it learned it later in life for a limited purpose, such as buying and selling goods.\n\nSomething remarkable can happen when a pidgin becomes the main language of a community. Children who grow up hearing it do not simply copy the limited system around them. Instead, as they acquire it as their native language, it tends to develop new grammatical structures, such as consistent ways to mark time and to build complex sentences, along with a much larger vocabulary. The result is called a creole: a full language, capable of expressing anything its speakers need.\n\nTok Pisin, widely spoken in Papua New Guinea, illustrates this process. It began as a pidgin based largely on English vocabulary, but today many people speak it as their first language, and it is used in newspapers, on the radio, and in government. Its history shows that the line between a simplified code and a complete language is not fixed.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"acquire\" in the passage is closest in meaning to",
+          "opciones": ["buy", "take control of", "learn", "collect"],
+          "correcta": 2,
+          "explicacion": "Con un idioma, \"acquire\" significa aprenderlo, sobre todo de forma natural en la infancia. \"Buy\" y \"take control of\" son sentidos comunes en negocios (adquirir una empresa), pero no se aplican a un idioma."
+        },
+        {
+          "enunciado": "According to paragraph 1, which of the following is true of a pidgin?",
+          "opciones": ["Its speakers learned it for a limited purpose.", "It has a larger vocabulary than the languages it comes from.", "It is the first language of children in trading ports.", "It has many word endings and a flexible word order."],
+          "correcta": 0,
+          "explicacion": "El párrafo 1 dice que todos aprenden el pidgin \"later in life for a limited purpose\". La tercera opción confunde el pidgin con el criollo: cuando los niños lo aprenden como primera lengua, deja de ser pidgin."
+        },
+        {
+          "enunciado": "How does paragraph 2 relate to paragraph 1?",
+          "opciones": ["It explains why most pidgins eventually disappear.", "It describes how the system defined in paragraph 1 can become a full language.", "It gives an example of a pidgin used for trade.", "It argues that the definition in paragraph 1 is incorrect."],
+          "correcta": 1,
+          "explicacion": "El párrafo 1 define el pidgin y el párrafo 2 explica cómo puede convertirse en un criollo, una lengua completa. No contradice la definición: la toma como punto de partida."
+        },
+        {
+          "enunciado": "What does the passage suggest about the role of children in the development of a language?",
+          "opciones": ["They simplify the languages they hear from adults.", "They usually prefer a pidgin to a creole.", "They cannot learn a pidgin as their first language.", "They can add structure that was missing from the language they heard."],
+          "correcta": 3,
+          "explicacion": "Según el párrafo 2, los niños no copian el sistema limitado: cuando lo adquieren, el idioma desarrolla gramática nueva. La primera opción invierte esa relación, porque los niños enriquecen el sistema, no lo simplifican."
+        },
+        {
+          "enunciado": "Why does the author mention that Tok Pisin is used \"in newspapers, on the radio, and in government\"?",
+          "opciones": ["To show that it now works as a complete language", "To explain how it spread from trading ports", "To suggest that English is no longer used in Papua New Guinea", "To describe where its vocabulary came from"],
+          "correcta": 0,
+          "explicacion": "Usarlo en prensa, radio y gobierno demuestra que el Tok Pisin ya sirve para todo tipo de comunicación, como un idioma completo. La última opción atrae porque el texto menciona el origen inglés de su vocabulario, pero en otra oración y con otro fin."
+        }
+      ]
+    },
+    {
+      "id": "ap10",
+      "nivel": "B2",
+      "titulo": "Towers That Catch the Wind",
+      "texto": "Long before electric air conditioning, builders in the hot, dry regions of Iran and the Persian Gulf developed an elegant way to cool buildings without burning any fuel. Rising above the rooftops of many traditional houses is a tall tower with openings near the top. This structure, known in Persian as a badgir, or 'windcatcher,' turns moving air into a natural ventilation system.\n\nThe tower works in two main ways. When a breeze blows, the openings facing the wind capture it and direct it down a shaft into the rooms below, while openings on the opposite side, where air pressure is lower, help pull stale air out. Even on a still day, the tower continues to function. Warm indoor air, being lighter than cool air, rises up the shaft and escapes, which draws fresher air into the house through lower openings, much as a chimney draws smoke upward.\n\nSome designs went further. In certain buildings, incoming air was guided over an underground channel of water or a shaded pool before entering the living spaces. As some of the water evaporated, it absorbed heat, and the air became noticeably cooler. Today, architects interested in reducing energy use are studying these structures closely, and modern versions appear in some contemporary buildings designed to stay comfortable in hot climates.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"still\" in the passage is closest in meaning to",
+          "opciones": ["continuing", "windless", "ordinary", "previous"],
+          "correcta": 1,
+          "explicacion": "\"A still day\" es un día sin viento, y por eso el texto explica que la torre funciona de otra manera. \"Continuing\" atrae porque \"still\" como adverbio significa \"todavía\", pero aquí es un adjetivo que describe el día."
+        },
+        {
+          "enunciado": "According to paragraph 2, what happens on the side of the tower facing away from the wind?",
+          "opciones": ["Cool air from the water channel enters the tower.", "Smoke from cooking fires is released.", "Breezes are captured and sent downward.", "Lower air pressure helps pull stale air out."],
+          "correcta": 3,
+          "explicacion": "El texto dice que en el lado opuesto, \"where air pressure is lower\", las aberturas ayudan a sacar el aire viciado. La tercera opción describe el lado que mira hacia el viento."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It describes an addition that increased the cooling effect explained in paragraph 2.", "It explains why the methods in paragraph 2 often failed.", "It contrasts windcatchers with modern air conditioning.", "It explains how the towers in paragraph 2 were built."],
+          "correcta": 0,
+          "explicacion": "\"Some designs went further\" anuncia una mejora: pasar el aire sobre agua para enfriarlo más. El texto nunca dice que los métodos del párrafo 2 fallaran."
+        },
+        {
+          "enunciado": "What does the passage suggest about windcatchers that were not connected to water?",
+          "opciones": ["They could not move any air on still days.", "They were built only after the designs that used water.", "They cooled the air less than designs that passed air over water.", "They are the type most often copied in modern buildings."],
+          "correcta": 2,
+          "explicacion": "Si pasar el aire sobre agua lo hacía \"noticeably cooler\", las torres sin agua enfriaban menos. La primera opción contradice el párrafo 2, que explica cómo la torre funciona incluso sin viento."
+        },
+        {
+          "enunciado": "Why does the author mention \"a chimney\"?",
+          "opciones": ["To explain why houses with windcatchers also had fireplaces", "To show that windcatchers were first used to remove smoke", "To compare the movement of warm air in the tower to a familiar example", "To argue that chimneys are more efficient than windcatchers"],
+          "correcta": 2,
+          "explicacion": "La chimenea es una comparación conocida para explicar cómo el aire caliente sube y sale por la torre. La segunda opción toma la comparación al pie de la letra: el texto no dice que las torres sirvieran para sacar humo."
+        }
+      ]
+    },
+    {
+      "id": "ap11",
+      "nivel": "B2",
+      "titulo": "Farming the Mountains: Andean Terraces",
+      "texto": "Anyone who travels through the Andes notices how little flat land there is. Yet for thousands of years, the peoples of these mountains have produced abundant harvests of potatoes, maize, and other crops. One key to this success is the agricultural terrace: a series of level steps cut into a hillside and held in place by stone walls. Terrace farming in the region began long before the Inca, although the Inca state built terraces on an enormous scale.\n\nTerraces solve several problems at once. By turning a slope into flat strips, they keep heavy rain from washing the soil downhill. Builders often placed layers of gravel and stones beneath the topsoil, allowing extra water to drain away instead of drowning the roots, while channels carried water from one terrace to the next. In addition, the stone walls absorb the sun's heat during the day and release it at night, which can help protect crops from frost in the cold mountain air.\n\nFor anthropologists, terraces reveal as much about social organization as about engineering. Building and maintaining them required many people to work together, often through traditional systems in which families contributed labor to shared projects and could expect help in return. Today, some communities and researchers are restoring abandoned terraces, arguing that this ancient technology still offers a practical way to farm steep land.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"level\" in the passage is closest in meaning to",
+          "opciones": ["advanced", "upper", "equal in importance", "flat"],
+          "correcta": 3,
+          "explicacion": "\"Level steps\" son escalones planos, horizontales; el párrafo 2 lo confirma con \"flat strips\". \"Advanced\" atrae porque \"level\" se usa para hablar de niveles de dificultad, pero aquí describe una superficie."
+        },
+        {
+          "enunciado": "According to paragraph 2, why did builders place gravel and stones beneath the topsoil?",
+          "opciones": ["To store heat for cold nights", "To let extra water drain away from the roots", "To make the walls stronger", "To carry water from one terrace to the next"],
+          "correcta": 1,
+          "explicacion": "El texto dice que esas capas permitían \"extra water to drain away instead of drowning the roots\". La última opción atrae porque está en la misma oración, pero es la función de los canales, no de la grava."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It gives more examples of the technical advantages in paragraph 2.", "It argues that the advantages in paragraph 2 have been exaggerated.", "It moves from the practical benefits of terraces to what they show about society.", "It explains why the Inca abandoned the terraces described in paragraph 2."],
+          "correcta": 2,
+          "explicacion": "El párrafo 2 trata de los beneficios agrícolas y el párrafo 3 pasa a lo que las terrazas revelan sobre la organización social. La última opción mezcla ideas: el texto habla de terrazas abandonadas, pero no dice que los incas las abandonaran."
+        },
+        {
+          "enunciado": "What does the passage suggest about crops planted directly on steep Andean slopes without terraces?",
+          "opciones": ["They would face greater risks from soil loss and frost.", "They would produce larger harvests of maize.", "They would need more stone walls than terraced fields.", "They were planted mainly by the Inca."],
+          "correcta": 0,
+          "explicacion": "Si las terrazas evitan que la lluvia arrastre el suelo y protegen de las heladas, los cultivos sin terrazas quedarían más expuestos a ambos problemas. Las demás opciones no tienen apoyo en el texto."
+        },
+        {
+          "enunciado": "Why does the author mention that terrace farming \"began long before the Inca\"?",
+          "opciones": ["To argue that Inca terraces were poorly built", "To make clear that the Inca were not the first to use the technique", "To explain why many terraces were later abandoned", "To show that the Inca state was smaller than earlier societies"],
+          "correcta": 1,
+          "explicacion": "La frase evita que el lector suponga que los incas inventaron las terrazas: ellos las ampliaron a gran escala, pero no fueron los primeros. La última opción contradice el texto, que habla de la escala \"enormous\" del Estado inca."
+        }
+      ]
+    },
+    {
+      "id": "ap12",
+      "nivel": "B2",
+      "titulo": "How Railroads Changed Time",
+      "texto": "Until the late nineteenth century, most towns set their clocks by the sun. Noon was simply the moment when the sun stood highest in the sky, so it arrived a little earlier in a town to the east than in a town farther west. For people who rarely traveled far, these small differences hardly mattered.\n\nThe spread of railroads changed that. A train crossing hundreds of kilometers passed through dozens of local times, and each railroad company tended to run its trains according to the time of a particular city. Passengers changing trains could find stations where different clocks showed different times, and creating reliable schedules became extremely complicated. In 1883, railroads in the United States and Canada responded by adopting a small number of standard time zones, within which every clock would show the same time.\n\nNotably, this change was made by private companies rather than by national governments. Many towns accepted the new system quickly because it was convenient, but others resisted for years, and the United States did not make standard time official by law until 1918. Meanwhile, in 1884, an international conference chose the meridian passing through Greenwich, England, as the starting point for measuring longitude around the world, laying the foundation for the global system of time zones used today.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"tended\" in the passage is closest in meaning to",
+          "opciones": ["was inclined", "took care", "refused", "was required"],
+          "correcta": 0,
+          "explicacion": "\"Tended to run its trains\" significa que la compañía solía o tendía a hacerlo así. \"Took care\" atrae porque \"tend\" también significa cuidar (tend a garden), pero ese sentido no va seguido de \"to\" más un verbo."
+        },
+        {
+          "enunciado": "According to paragraph 1, how did most towns determine noon before standard time?",
+          "opciones": ["By the schedule of the nearest railroad", "By an official clock in the national capital", "By the moment the sun was highest in the sky", "By an agreement between neighboring towns"],
+          "correcta": 2,
+          "explicacion": "El párrafo 1 dice que el mediodía era \"the moment when the sun stood highest in the sky\". La primera opción describe lo que vino después, con los ferrocarriles."
+        },
+        {
+          "enunciado": "How does paragraph 2 relate to paragraph 1?",
+          "opciones": ["It gives more examples of towns that used solar time.", "It explains why solar time was more accurate than standard time.", "It describes the conference that ended the use of local time.", "It explains how a new technology turned a minor issue into a serious problem."],
+          "correcta": 3,
+          "explicacion": "El párrafo 1 dice que las diferencias de hora \"hardly mattered\" y el párrafo 2 empieza con \"The spread of railroads changed that\". La tercera opción mezcla el párrafo 3, donde aparece la conferencia."
+        },
+        {
+          "enunciado": "What does the passage suggest about the United States between 1883 and 1918?",
+          "opciones": ["Standard time was required by national law.", "Some places probably continued to use local time.", "Railroads stopped using standard time zones.", "No international agreement about longitude existed yet."],
+          "correcta": 1,
+          "explicacion": "Si algunos pueblos se resistieron durante años y la ley llegó recién en 1918, es probable que algunos lugares siguieran con su hora local. La última opción es falsa: la conferencia internacional fue en 1884."
+        },
+        {
+          "enunciado": "Why does the author mention that the change was made \"by private companies rather than by national governments\"?",
+          "opciones": ["To criticize governments for acting too slowly", "To explain why the new system failed at first", "To show that railroads controlled the international conference", "To point out a surprising feature of how standard time began"],
+          "correcta": 3,
+          "explicacion": "\"Notably\" marca un dato llamativo: no fue un gobierno sino empresas privadas las que crearon el sistema. La primera opción exagera, porque el texto no critica a los gobiernos."
+        }
+      ]
+    },
+    {
+      "id": "ap13",
+      "nivel": "C1",
+      "titulo": "The Invention of Linear Perspective",
+      "texto": "Linear perspective, the technique of representing three-dimensional space on a flat surface by making parallel lines converge toward a single vanishing point, is now so familiar that it is easy to regard it as simply the correct way to draw. Yet it was formalized only in early fifteenth-century Florence. The architect Filippo Brunelleschi is credited with a celebrated demonstration in which a viewer, looking through a small hole in the back of a painted panel at the panel's reflection in a mirror, could compare the image directly with the actual building it depicted. Shortly afterward, Leon Battista Alberti codified the procedure in a treatise, likening the picture surface to an open window through which the viewer looks.\n\nEarlier painters had by no means been indifferent to depth; many employed overlapping forms and receding diagonals with considerable skill. What distinguished the new system was its mathematical consistency: every element in a scene was subordinated to a single, fixed point of view, so that the relative size of objects at different distances could be calculated rather than estimated.\n\nArt historians have nevertheless stressed that this consistency came at a price. The system presupposes a motionless observer looking with one eye, a condition that ordinary vision, binocular and constantly shifting, rarely satisfies. Perspective, in this view, is less a neutral transcription of reality than a powerful convention, one whose assumptions later artists, most notably the Cubists, would deliberately dismantle.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"convention\" in the passage is closest in meaning to",
+          "opciones": ["a large formal meeting", "an international agreement", "an accepted practice", "a new invention"],
+          "correcta": 2,
+          "explicacion": "Aquí \"convention\" es una práctica aceptada por costumbre, no una verdad natural; por eso el autor la opone a \"a neutral transcription of reality\". \"A large formal meeting\" es el sentido más conocido (un congreso), pero no encaja con la idea de supuestos que se pueden desmontar."
+        },
+        {
+          "enunciado": "According to paragraph 1, what did Alberti do?",
+          "opciones": ["He performed a demonstration using a mirror and a painted panel.", "He explained the method in writing and compared a picture to a window.", "He designed the building shown in Brunelleschi's panel.", "He rejected the idea of a single vanishing point."],
+          "correcta": 1,
+          "explicacion": "El texto dice que Alberti \"codified the procedure in a treatise\" y comparó el cuadro con una ventana abierta. La primera opción le atribuye a Alberti la demostración de Brunelleschi: es la trampa de confundir a los personajes."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It identifies a limitation of the consistency described in paragraph 2.", "It provides further evidence that earlier painters ignored depth.", "It explains how the Cubists improved the system described in paragraph 2.", "It describes the calculations mentioned in paragraph 2 in more detail."],
+          "correcta": 0,
+          "explicacion": "El párrafo 2 destaca la coherencia matemática del sistema y el párrafo 3 dice que esa coherencia \"came at a price\", es decir, tenía un costo. La tercera opción atrae por la mención de los cubistas, pero ellos desmontaron el sistema, no lo mejoraron."
+        },
+        {
+          "enunciado": "What does the passage suggest about paintings made before the fifteenth century?",
+          "opciones": ["They showed no sense of depth at all.", "They were more realistic than paintings that used perspective.", "They were based on the rules in Alberti's treatise.", "They could suggest depth without relying on a single unified system."],
+          "correcta": 3,
+          "explicacion": "El párrafo 2 dice que los pintores anteriores usaban superposiciones y diagonales con habilidad, pero sin la coherencia de un único punto de vista. La primera opción contradice \"by no means been indifferent to depth\"."
+        },
+        {
+          "enunciado": "Why does the author mention \"the Cubists\"?",
+          "opciones": ["To give an example of artists who rejected the assumptions of linear perspective", "To show that perspective was developed outside Florence", "To argue that Cubism represents reality more accurately than Renaissance painting", "To illustrate the mathematical consistency of the new system"],
+          "correcta": 0,
+          "explicacion": "Los cubistas aparecen como ejemplo de artistas que \"would deliberately dismantle\" los supuestos de la perspectiva. La tercera opción va más allá del texto: el autor no dice que el cubismo sea más fiel a la realidad."
+        }
+      ]
+    },
+    {
+      "id": "ap14",
+      "nivel": "C1",
+      "titulo": "Designing for Failure",
+      "texto": "A naive approach to engineering safety would be to make every component so strong that it never fails. In practice, this goal is both prohibitively expensive and impossible to guarantee, since materials contain hidden flaws and real-world loads are never fully predictable. Engineers have therefore increasingly adopted a different philosophy: rather than assuming that nothing will break, they design structures and machines so that the failure of any single part does not bring about the failure of the whole.\n\nThe central strategy is redundancy, the provision of multiple paths by which a load or a function can be carried. The main cables of a large suspension bridge, for instance, are not single solid bars but bundles of thousands of individual steel wires; if a few of them corrode or snap, the remaining wires share the load. Similarly, large passenger aircraft are equipped with several independent hydraulic systems, so that the loss of one does not deprive the pilots of control.\n\nRedundancy, however, introduces subtle complications of its own. Additional components add weight and cost, which are particularly consequential in aerospace design. More insidiously, a backup that quietly assumes the duties of a failed part can conceal the very damage it compensates for, allowing deterioration to accumulate unnoticed. For this reason, redundant systems are only as reliable as the inspection regimes that accompany them.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"regimes\" in the passage is closest in meaning to",
+          "opciones": ["political governments", "organized programs", "military rulers", "official reports"],
+          "correcta": 1,
+          "explicacion": "\"Inspection regimes\" son programas o sistemas organizados de inspección. \"Political governments\" es el uso más frecuente de \"regime\" en las noticias, pero no tiene relación con revisar puentes o aviones."
+        },
+        {
+          "enunciado": "According to paragraph 2, why are the main cables of a suspension bridge made of many wires?",
+          "opciones": ["Solid bars are too heavy to lift into place.", "Thin wires do not corrode as easily as solid bars.", "Wires are easier to inspect than solid bars.", "If some wires fail, the others can share the load."],
+          "correcta": 3,
+          "explicacion": "El texto dice que si algunos alambres se corroen o se rompen, \"the remaining wires share the load\". La segunda opción usa la palabra \"corrode\" del texto, pero el pasaje no dice que los alambres resistan mejor la corrosión."
+        },
+        {
+          "enunciado": "How does paragraph 3 relate to paragraph 2?",
+          "opciones": ["It provides additional examples of redundancy in bridges.", "It argues that redundancy should be abandoned in aerospace design.", "It qualifies the strategy presented in paragraph 2 by pointing out its drawbacks.", "It explains the historical origins of redundant design."],
+          "correcta": 2,
+          "explicacion": "El párrafo 3 empieza con \"however\" y señala costos y riesgos de la redundancia, matizando la estrategia del párrafo 2. La segunda opción exagera: el texto dice que el peso importa mucho en aeronáutica, no que haya que abandonar la redundancia."
+        },
+        {
+          "enunciado": "What does the passage suggest about a redundant system that is rarely inspected?",
+          "opciones": ["Damage could build up in it without anyone noticing.", "It will be lighter than a system without redundancy.", "It is safer than a system in which every part is extremely strong.", "It will fail completely as soon as one part breaks."],
+          "correcta": 0,
+          "explicacion": "Si el respaldo oculta la falla y la fiabilidad depende de la inspección, un sistema poco inspeccionado puede acumular daños sin que se note. La última opción contradice la idea central: la redundancia existe precisamente para que una sola falla no derribe el conjunto."
+        },
+        {
+          "enunciado": "Why does the author mention \"large passenger aircraft\"?",
+          "opciones": ["To show that redundancy is too expensive for aircraft", "To provide a second example of multiple paths for carrying a function", "To contrast machines with structures such as bridges", "To explain why hydraulic systems often fail"],
+          "correcta": 1,
+          "explicacion": "Los sistemas hidráulicos independientes son un segundo ejemplo de redundancia, esta vez de una función y no de una carga. La primera opción toma una idea del párrafo 3 y la exagera: el costo es un inconveniente, no una razón para descartar la redundancia."
+        }
+      ]
+    },
+    {
+      "id": "ap15",
+      "nivel": "C1",
+      "titulo": "The Strength of Weak Ties",
+      "texto": "It seems intuitive that the people most likely to help us find a new job are our closest friends, who know us well and are motivated to support us. In an influential 1973 paper, however, the sociologist Mark Granovetter proposed a counterintuitive alternative. Drawing on interviews with professional, technical, and managerial workers who had recently changed jobs, he observed that those who had found their positions through personal contacts had more often heard about them from people they saw only occasionally or rarely than from people they saw often. He called close relationships 'strong ties' and more distant ones 'weak ties.'\n\nGranovetter's explanation rested on the structure of social networks rather than on the goodwill of individuals. Close friends tend to know one another and to move in the same circles; consequently, the information they possess largely overlaps with what we already know. Acquaintances, by contrast, frequently belong to different social clusters altogether. They thus function as bridges, conveying news of opportunities that would otherwise never reach us.\n\nThe argument does not imply that strong ties are unimportant. Close relationships remain indispensable for emotional support and for situations demanding a high degree of trust. Rather, the theory highlights a structural paradox: the very closeness that makes a group cohesive also tends to isolate it from novel information circulating elsewhere.",
+      "preguntas": [
+        {
+          "enunciado": "The word \"rested\" in the passage is closest in meaning to",
+          "opciones": ["relaxed", "paused", "remained unchanged", "was based"],
+          "correcta": 3,
+          "explicacion": "\"Rested on the structure of social networks\" significa que la explicación se basaba en la estructura de las redes. \"Relaxed\" y \"paused\" corresponden a \"rest\" como descansar, el sentido más común, pero no al de \"rest on\"."
+        },
+        {
+          "enunciado": "According to paragraph 2, why are acquaintances a valuable source of information?",
+          "opciones": ["They often belong to social groups different from our own.", "They are more motivated than close friends to help us.", "They know many of the same people we know.", "They usually have more experience in finding jobs."],
+          "correcta": 0,
+          "explicacion": "El párrafo 2 dice que los conocidos pertenecen a \"different social clusters\" y funcionan como puentes. La tercera opción describe a los amigos cercanos, no a los conocidos."
+        },
+        {
+          "enunciado": "What is the function of paragraph 3 in relation to the rest of the passage?",
+          "opciones": ["It presents evidence that contradicts Granovetter's interviews.", "It prevents a possible misreading of the theory by noting the value of strong ties.", "It describes later studies that confirmed Granovetter's findings.", "It explains why Granovetter chose to study technical workers."],
+          "correcta": 1,
+          "explicacion": "El párrafo 3 aclara que la teoría \"does not imply that strong ties are unimportant\" y así evita una interpretación equivocada. No presenta evidencia contraria: reafirma la idea con un matiz."
+        },
+        {
+          "enunciado": "What does the passage suggest about a tightly knit group whose members interact mainly with one another?",
+          "opciones": ["It is likely to hear about new opportunities sooner than other groups.", "It offers its members little emotional support.", "It may miss useful information that circulates in other groups.", "It is made up mostly of weak ties."],
+          "correcta": 2,
+          "explicacion": "La paradoja final dice que la cercanía que une al grupo también lo aísla de la información nueva que circula en otros lugares. La segunda opción contradice el texto, que considera los lazos fuertes indispensables para el apoyo emocional."
+        },
+        {
+          "enunciado": "Why does the author mention that it \"seems intuitive\" that close friends would be the most helpful?",
+          "opciones": ["To support Granovetter's conclusion with everyday experience", "To argue that intuition is generally unreliable in sociology", "To present a common assumption that the research then challenges", "To explain why Granovetter interviewed only close friends"],
+          "correcta": 2,
+          "explicacion": "El autor plantea la creencia común y luego, con \"however\", presenta el hallazgo que la contradice. La segunda opción generaliza demasiado: el texto cuestiona una intuición concreta, no toda intuición."
+        }
+      ]
+    }
+  ]
+}

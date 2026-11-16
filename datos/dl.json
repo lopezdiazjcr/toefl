@@ -1,0 +1,619 @@
+{
+  "tipo": "dl",
+  "items": [
+    {
+      "id": "dl01",
+      "nivel": "A2",
+      "genero": "Notice",
+      "titulo": "Pool Closed for Cleaning",
+      "texto": "RIVERSIDE COMMUNITY POOL\n\nThe pool will be closed from Monday, June 9, to Wednesday, June 11, for cleaning.\nIt will open again on Thursday, June 12, at 7:00 a.m.\nThe locker rooms and the fitness room will stay open during this time.\nQuestions? Please ask at the front desk.",
+      "preguntas": [
+        {
+          "enunciado": "Why is the pool closed?",
+          "opciones": ["It is too cold to swim.", "Workers are cleaning it.", "There is a swimming competition.", "The locker rooms are being repaired."],
+          "correcta": 1,
+          "explicacion": "El aviso dice que la piscina cierra \"for cleaning\" (por limpieza). Los vestidores no se reparan: siguen abiertos."
+        },
+        {
+          "enunciado": "When can people swim in the pool again?",
+          "opciones": ["On Monday, June 9", "On Wednesday, June 11", "On Thursday, June 12", "On Friday, June 13"],
+          "correcta": 2,
+          "explicacion": "La piscina vuelve a abrir el jueves 12 de junio a las 7:00 a.m. El 11 de junio es el último día cerrado, no el de reapertura."
+        }
+      ]
+    },
+    {
+      "id": "dl02",
+      "nivel": "A2",
+      "genero": "Text messages",
+      "texto": "Sofia (4:15 p.m.): Hi Ken! Are we still meeting at the library at 5?\nKen (4:17 p.m.): Yes, but I'm on the bus and it's very slow. Can we make it 5:30?\nSofia (4:18 p.m.): No problem. I'll get us a table on the second floor.\nKen (4:19 p.m.): Thanks! I'll bring the notes from Tuesday's class.",
+      "preguntas": [
+        {
+          "enunciado": "Why does Ken want to change the time?",
+          "opciones": ["He forgot about the meeting.", "The library closes early.", "He has another class at 5.", "His bus is moving slowly."],
+          "correcta": 3,
+          "explicacion": "Ken escribe \"I'm on the bus and it's very slow\": llega tarde por el autobús. Nada indica que la biblioteca cierre temprano."
+        },
+        {
+          "enunciado": "What will Sofia do?",
+          "opciones": ["Find a table for them", "Bring the class notes", "Take the bus with Ken", "Call Ken at 5:30"],
+          "correcta": 0,
+          "explicacion": "Sofia dice \"I'll get us a table\", es decir, conseguirá una mesa. Los apuntes los lleva Ken, no ella."
+        }
+      ]
+    },
+    {
+      "id": "dl03",
+      "nivel": "A2",
+      "genero": "Menu",
+      "titulo": "Maple Corner Café · Lunch Menu",
+      "texto": "MAPLE CORNER CAFÉ\nLunch: 11:00 a.m. – 3:00 p.m.\n\nSOUPS\nTomato soup ............... $4.50\nChicken and rice soup ..... $5.00\n\nSANDWICHES (served with a side salad)\nCheese and tomato ......... $6.50\nTurkey .................... $7.50\nGrilled vegetable ......... $7.00\n\nDRINKS\nCoffee or tea ............. $2.00\nFresh orange juice ........ $3.50\n\nLunch special: any soup + any sandwich = $10.00",
+      "preguntas": [
+        {
+          "enunciado": "How much is the turkey sandwich?",
+          "opciones": ["$6.50", "$7.00", "$7.50", "$10.00"],
+          "correcta": 2,
+          "explicacion": "En la lista, \"Turkey\" cuesta $7.50. $10.00 es el precio del especial de sopa más sándwich."
+        },
+        {
+          "enunciado": "What comes with every sandwich?",
+          "opciones": ["A soup", "A salad", "A drink", "A glass of juice"],
+          "correcta": 1,
+          "explicacion": "El menú dice \"served with a side salad\": todos los sándwiches traen ensalada. La sopa solo viene si se pide el especial."
+        },
+        {
+          "enunciado": "A customer orders tomato soup and a grilled vegetable sandwich as the lunch special. How much does the customer pay?",
+          "opciones": ["$10.00", "$11.50", "$7.00", "$4.50"],
+          "correcta": 0,
+          "explicacion": "Con el especial, cualquier sopa más cualquier sándwich cuesta $10.00. $11.50 sería la suma de los dos precios por separado."
+        }
+      ]
+    },
+    {
+      "id": "dl04",
+      "nivel": "A2",
+      "genero": "Flyer",
+      "titulo": "Help Us Plant Trees!",
+      "texto": "HELP US PLANT TREES!\n\nSaturday, April 26\n9:00 a.m. – 12:00 p.m.\nOak Street Park (meet near the playground)\n\nWe will plant 50 new trees in the park.\nPlease bring gloves and a bottle of water.\nWe will provide all the tools.\nAfter the work, everyone gets a free lunch.\nFamilies and children are welcome!\n\nTo sign up, call Marta at 555-0142.",
+      "preguntas": [
+        {
+          "enunciado": "What should volunteers bring?",
+          "opciones": ["Tools and lunch", "Seeds and a shovel", "Gloves and water", "A hat and a ticket"],
+          "correcta": 2,
+          "explicacion": "El volante pide \"bring gloves and a bottle of water\". Las herramientas y el almuerzo los da la organización."
+        },
+        {
+          "enunciado": "What will volunteers receive after the work?",
+          "opciones": ["A free tree", "A new pair of gloves", "A park pass", "A free lunch"],
+          "correcta": 3,
+          "explicacion": "Dice \"After the work, everyone gets a free lunch\". Los guantes los traen los voluntarios; no se los regalan."
+        }
+      ]
+    },
+    {
+      "id": "dl05",
+      "nivel": "B1",
+      "genero": "Email",
+      "texto": "To: All residents, Pinewood Apartments\nFrom: Daniel Osei, Building Manager\nDate: March 3\nSubject: Water shut-off on Thursday\n\nDear residents,\n\nPlumbers will replace an old pipe in the basement this Thursday, March 6. Because of this, there will be no water in the building from 9:00 a.m. to 2:00 p.m.\n\nPlease fill a few bottles with water the night before. The laundry room will stay closed until 3:00 p.m. to give the machines time to restart safely.\n\nIf you have any questions, please call the office at extension 12.\n\nThank you for your patience,\nDaniel",
+      "preguntas": [
+        {
+          "enunciado": "Why did Daniel Osei write this email?",
+          "opciones": ["To announce that the laundry room will close permanently", "To inform residents about a temporary loss of water", "To ask residents to help repair a pipe", "To complain about how much water residents use"],
+          "correcta": 1,
+          "explicacion": "El correo avisa que no habrá agua de 9:00 a 2:00 el jueves por una reparación. La lavandería cierra solo ese día, no para siempre."
+        },
+        {
+          "enunciado": "When will residents be able to use the laundry room again?",
+          "opciones": ["At 9:00 a.m.", "At 2:00 p.m.", "At 3:00 p.m.", "The next morning"],
+          "correcta": 2,
+          "explicacion": "La lavandería sigue cerrada \"until 3:00 p.m.\". A las 2:00 p.m. vuelve el agua, pero las máquinas necesitan una hora más."
+        },
+        {
+          "enunciado": "What are residents asked to do on Wednesday night?",
+          "opciones": ["Store some water in bottles", "Call the office at extension 12", "Move their belongings out of the basement", "Leave their doors unlocked"],
+          "correcta": 0,
+          "explicacion": "El corte es el jueves 6 y el correo pide llenar botellas \"the night before\", es decir, el miércoles en la noche. Llamar a la oficina es solo para quien tenga preguntas."
+        }
+      ]
+    },
+    {
+      "id": "dl06",
+      "nivel": "B1",
+      "genero": "Schedule",
+      "titulo": "Campus Shuttle · Weekday Schedule",
+      "texto": "CAMPUS SHUTTLE · WEEKDAY SCHEDULE (Monday–Friday)\n\nStop | First bus | Last bus | Frequency\nMain Gate | 7:00 a.m. | 10:00 p.m. | every 15 min\nScience Building | 7:05 a.m. | 10:05 p.m. | every 15 min\nStudent Housing | 7:15 a.m. | 10:15 p.m. | every 15 min\nSports Center | 7:25 a.m. | 8:25 p.m. | every 30 min\n\nWeekends: one bus every 30 minutes, 9:00 a.m. – 6:00 p.m., Main Gate and Student Housing only.",
+      "preguntas": [
+        {
+          "enunciado": "A student wants to take the shuttle to the Sports Center at 9:00 p.m. on a Tuesday. What is true?",
+          "opciones": ["The shuttle stops there every 15 minutes at that time.", "The student has to pay extra for a late bus.", "The shuttle stops there only on weekends.", "There is no shuttle to the Sports Center at that time."],
+          "correcta": 3,
+          "explicacion": "El último autobús al Sports Center pasa a las 8:25 p.m., así que a las 9:00 ya no hay servicio. La frecuencia de 15 minutos corresponde a las otras paradas."
+        },
+        {
+          "enunciado": "What is suggested about the shuttle on weekends?",
+          "opciones": ["It runs later than on weekdays.", "It does not stop at the Science Building.", "It runs every 15 minutes.", "It starts at 7:00 a.m."],
+          "correcta": 1,
+          "explicacion": "Los fines de semana solo para en Main Gate y Student Housing, de modo que no pasa por el Science Building. Además termina a las 6:00 p.m., más temprano que entre semana."
+        }
+      ]
+    },
+    {
+      "id": "dl07",
+      "nivel": "B1",
+      "genero": "Advertisement",
+      "titulo": "For Sale: Desk and Chair",
+      "texto": "FOR SALE: Desk and chair, great for students!\n\nWooden desk (120 × 60 cm) with two drawers, plus a matching chair. Both are three years old and in very good condition. There is one small scratch on the top of the desk.\n\nPrice: $80 for both, or $60 for the desk only. The chair is not sold separately.\n\nI am moving abroad at the end of the month, so everything must go by May 30. You must pick up the items yourself (second floor, no elevator).\n\nText Amara at 555-0187 (after 6 p.m. only).",
+      "preguntas": [
+        {
+          "enunciado": "Why is Amara selling the desk and chair?",
+          "opciones": ["They are damaged.", "She bought new furniture.", "She is leaving the country.", "They are too big for her room."],
+          "correcta": 2,
+          "explicacion": "Amara escribe \"I am moving abroad\": se va a vivir a otro país. El rayón pequeño no es la razón de la venta."
+        },
+        {
+          "enunciado": "How much does the chair cost by itself?",
+          "opciones": ["$20", "$60", "$80", "It cannot be bought alone."],
+          "correcta": 3,
+          "explicacion": "El anuncio dice \"The chair is not sold separately\". $20 es la trampa: es la diferencia entre $80 y $60, pero la silla no se vende sola."
+        },
+        {
+          "enunciado": "What is suggested about buyers?",
+          "opciones": ["They will need to carry the items down the stairs.", "They can have the items delivered for free.", "They should contact Amara in the morning.", "They can pay for the items in June."],
+          "correcta": 0,
+          "explicacion": "El comprador debe recoger los muebles en un segundo piso sin ascensor, así que tendrá que bajarlos por las escaleras. Los mensajes son solo después de las 6 p.m."
+        }
+      ]
+    },
+    {
+      "id": "dl08",
+      "nivel": "B1",
+      "genero": "Social media post",
+      "texto": "Little Oven Bakery · 2 hours ago\n\nBig news, neighbors! Starting next Monday, we'll open at 6:30 a.m. instead of 8:00, so you can grab fresh bread on your way to work. To celebrate, every customer who comes in before 8:00 a.m. next week will get a free small coffee with any purchase.\n\nOur Sunday hours stay the same (9:00 a.m. – 1:00 p.m.).\nThanks for all your support this year!",
+      "preguntas": [
+        {
+          "enunciado": "What is the main purpose of the post?",
+          "opciones": ["To announce a change in opening time", "To advertise a new type of bread", "To thank customers for attending a special event", "To explain why the bakery will close on Sundays"],
+          "correcta": 0,
+          "explicacion": "La noticia principal es que abrirán a las 6:30 a.m. en lugar de las 8:00. El horario del domingo no cambia."
+        },
+        {
+          "enunciado": "How can a customer get a free coffee next week?",
+          "opciones": ["By coming in on Sunday", "By buying something before 8:00 a.m.", "By sharing the post with a friend", "By ordering bread online"],
+          "correcta": 1,
+          "explicacion": "El café gratis es para quien llegue antes de las 8:00 a.m. y compre algo (\"with any purchase\"). No basta con llegar temprano: hay que comprar."
+        }
+      ]
+    },
+    {
+      "id": "dl09",
+      "nivel": "B1",
+      "genero": "Form",
+      "titulo": "Westbrook Public Library · Library Card Application",
+      "texto": "WESTBROOK PUBLIC LIBRARY\nLibrary Card Application\n\nFull name: Lucía Fernández\nAddress: 48 Hill Road, Apt. 3B, Westbrook\nPhone: 555-0193\nCard type: [ ] Adult   [ ] Child (under 14)   [X] Student (valid school ID required)\n\nPlease bring this form and a document that shows your current address to the front desk.\nCards are free for Westbrook residents. Non-residents pay $25 per year.\nLost cards can be replaced for $3.",
+      "preguntas": [
+        {
+          "enunciado": "What type of card is Lucía applying for?",
+          "opciones": ["Adult", "Child", "Student", "Non-resident"],
+          "correcta": 2,
+          "explicacion": "La casilla marcada con X es \"Student\". \"Non-resident\" no es un tipo de tarjeta, sino una condición para pagar."
+        },
+        {
+          "enunciado": "According to the form, what must applicants bring with the form?",
+          "opciones": ["A recent photo", "Proof of their address", "A payment of $3", "Their old library card"],
+          "correcta": 1,
+          "explicacion": "El formulario pide \"a document that shows your current address\", es decir, un comprobante de domicilio. Los $3 son solo para reponer una tarjeta perdida."
+        },
+        {
+          "enunciado": "How much will Lucía most likely pay for her card?",
+          "opciones": ["Nothing", "$3", "$25", "$28"],
+          "correcta": 0,
+          "explicacion": "Lucía vive en Westbrook, así que es residente y la tarjeta es gratis. $25 es lo que pagan los no residentes."
+        }
+      ]
+    },
+    {
+      "id": "dl10",
+      "nivel": "B1",
+      "genero": "Receipt",
+      "texto": "HOME & GARDEN CORNER\nStore 12 · 210 Lake Avenue\nDate: 10/14 · 3:42 p.m.\n\nPlant pot (large) .......... $18.99\nPotting soil (10 kg) ....... $12.50\nGarden gloves .............. $6.00\nMember card discount ....... -$3.75\n\nSubtotal ................... $33.74\nTax ........................ $2.70\nTOTAL ...................... $36.44\nPaid by card\n\nReturns accepted within 30 days with this receipt.\nPlants and soil cannot be returned once opened.",
+      "preguntas": [
+        {
+          "enunciado": "Why did the customer receive a discount?",
+          "opciones": ["The customer paid by card.", "The soil bag was opened.", "The purchase was over $30.", "The customer has a member card."],
+          "correcta": 3,
+          "explicacion": "La línea del descuento dice \"Member card discount\": el cliente tiene tarjeta de socio. Pagar con tarjeta bancaria (\"Paid by card\") es otra cosa."
+        },
+        {
+          "enunciado": "Which item might the customer be unable to return?",
+          "opciones": ["The plant pot", "The garden gloves", "The potting soil, if the bag has been opened", "Any item after 10 days"],
+          "correcta": 2,
+          "explicacion": "El recibo dice que la tierra y las plantas no se devuelven una vez abiertas. Los demás artículos se aceptan durante 30 días, no 10."
+        }
+      ]
+    },
+    {
+      "id": "dl11",
+      "nivel": "B1",
+      "genero": "Instructions",
+      "titulo": "How to Use the Laundry Machines",
+      "texto": "HOW TO USE THE LAUNDRY MACHINES\n\n1. Load your clothes. Do not fill the washer more than three-quarters full.\n2. Add detergent to the small drawer on the left. Use only one cup.\n3. Tap your laundry card on the reader. A wash costs $2.25; a dryer cycle costs $1.50.\n4. Choose a temperature and press START.\n5. Remove your clothes within 10 minutes after the cycle ends. Clothes left longer may be placed on the table.\n\nProblems? Report broken machines using the form at the front office. Do not try to repair machines yourself.",
+      "preguntas": [
+        {
+          "enunciado": "How much does it cost to wash and dry one load of clothes?",
+          "opciones": ["$1.50", "$2.25", "$3.25", "$3.75"],
+          "correcta": 3,
+          "explicacion": "Lavar cuesta $2.25 y secar $1.50: en total $3.75. Las otras cifras son solo uno de los dos pasos o una suma mal hecha."
+        },
+        {
+          "enunciado": "What should users do if a machine stops working?",
+          "opciones": ["Open it and check the drawer", "Fill out a form at the front office", "Tap their card on the reader again", "Move their clothes to the table"],
+          "correcta": 1,
+          "explicacion": "Las instrucciones piden reportar las máquinas dañadas con el formulario de la oficina y no intentar repararlas."
+        },
+        {
+          "enunciado": "What is suggested about clothes left in a machine for 20 minutes after the cycle ends?",
+          "opciones": ["Someone else may take them out of the machine.", "They will be washed again for free.", "They will be sent to the front office.", "The owner will have to pay an extra $1.50."],
+          "correcta": 0,
+          "explicacion": "La ropa que se deja más de 10 minutos \"may be placed on the table\", lo que implica que otra persona puede sacarla. No se menciona ningún cobro extra."
+        }
+      ]
+    },
+    {
+      "id": "dl12",
+      "nivel": "B1",
+      "genero": "Review",
+      "titulo": "Review: Casa Nori",
+      "texto": "★★★★☆ Great food, slow service\nReviewed by Priya M.\n\nI had dinner at Casa Nori last Friday with two friends. The fish tacos were excellent, and the portions were large enough to share. The prices were fair, too: about $15 per person. The only problem was the service. We waited almost 40 minutes for our food, and the waiter forgot our drinks twice. The restaurant was very busy, so maybe we chose a bad night. I would definitely go back, but next time I'll try a weekday.",
+      "preguntas": [
+        {
+          "enunciado": "What did Priya dislike about the restaurant?",
+          "opciones": ["The size of the portions", "The price of the meal", "The speed of the service", "The taste of the tacos"],
+          "correcta": 2,
+          "explicacion": "Priya dice que el único problema fue el servicio: esperaron casi 40 minutos. Elogia las porciones, el precio y los tacos."
+        },
+        {
+          "enunciado": "What does Priya suggest about the restaurant?",
+          "opciones": ["It is probably less crowded on weekdays.", "It is too expensive for students.", "It should change its menu.", "It is closed on Fridays."],
+          "correcta": 0,
+          "explicacion": "Fue un viernes muy concurrido y piensa volver \"on a weekday\", lo que sugiere que entre semana hay menos gente. De hecho, ella cenó allí un viernes."
+        }
+      ]
+    },
+    {
+      "id": "dl13",
+      "nivel": "B1",
+      "genero": "Web page",
+      "titulo": "Harbor Science Museum · Plan Your Visit",
+      "texto": "HARBOR SCIENCE MUSEUM · Plan Your Visit\n\nHours: Tuesday–Sunday, 10:00 a.m. – 5:00 p.m. Closed Mondays.\nLate night: Thursdays until 8:00 p.m.\n\nTickets\nAdults: $16\nStudents and seniors (65+): $11\nChildren under 5: free\nPlanetarium show: add $5 (sold at the museum only)\n\nGeneral admission is free on the first Sunday of every month. Planetarium shows are not included.\n\nGetting here: Parking is limited. We recommend the Number 9 bus, which stops in front of the main entrance.",
+      "preguntas": [
+        {
+          "enunciado": "On which day is the museum open the latest?",
+          "opciones": ["Tuesday", "Thursday", "Sunday", "Monday"],
+          "correcta": 1,
+          "explicacion": "Los jueves el museo abre hasta las 8:00 p.m.; los demás días cierra a las 5:00. Los lunes está cerrado."
+        },
+        {
+          "enunciado": "On a regular Tuesday, how much would a student pay to enter the museum and see a planetarium show?",
+          "opciones": ["$11", "$21", "$5", "$16"],
+          "correcta": 3,
+          "explicacion": "El estudiante paga $11 y el planetario cuesta $5 más: $16 en total. $21 sería el precio de un adulto más el planetario."
+        },
+        {
+          "enunciado": "What is suggested about visiting on the first Sunday of the month?",
+          "opciones": ["Entry is free, but the planetarium still costs extra.", "The museum closes earlier than usual.", "Planetarium tickets can be bought online.", "Only children can enter for free."],
+          "correcta": 0,
+          "explicacion": "Ese día la entrada general es gratis, pero \"Planetarium shows are not included\", así que el planetario se sigue pagando."
+        }
+      ]
+    },
+    {
+      "id": "dl14",
+      "nivel": "B2",
+      "genero": "Email",
+      "texto": "To: Students in BIO 210\nFrom: Dr. Helena Novak\nDate: October 8\nSubject: Office hours and lab report deadline\n\nHello everyone,\n\nI will be attending a conference next week, so my office hours on Tuesday, October 14, are canceled. Instead, I will hold extra hours on Friday, October 17, from 1:00 to 4:00 p.m. in Room 305.\n\nBecause several of you asked for more time, the deadline for the second lab report has also moved from October 15 to October 20. Please note that this date is final: reports submitted after the new deadline will lose ten percent of their grade per day.\n\nIf you cannot come on Friday, email me to arrange a video call.\n\nBest,\nDr. Novak",
+      "preguntas": [
+        {
+          "enunciado": "Why was the lab report deadline changed?",
+          "opciones": ["Dr. Novak will be at a conference on October 15.", "The lab was closed for repairs.", "Office hours were moved to Friday.", "Students requested more time."],
+          "correcta": 3,
+          "explicacion": "La profesora dice \"Because several of you asked for more time\". El congreso explica la cancelación de las horas de consulta, no el cambio de fecha."
+        },
+        {
+          "enunciado": "What is suggested about a report submitted on October 21?",
+          "opciones": ["It will be accepted without any penalty.", "It will receive a lower grade.", "It must be delivered to Room 305.", "It will not be graded at all."],
+          "correcta": 1,
+          "explicacion": "El 21 es un día después del nuevo plazo, así que el informe pierde un diez por ciento de la nota. Se califica, pero con descuento."
+        }
+      ]
+    },
+    {
+      "id": "dl15",
+      "nivel": "B2",
+      "genero": "Memo",
+      "texto": "MEMO\nTo: All staff\nFrom: Grace Mwangi, Finance Department\nDate: February 2\nRe: New process for travel expenses\n\nStarting March 1, all travel expenses must be submitted through the online expense system rather than on paper forms. Paper forms will no longer be accepted after that date, with no exceptions.\n\nEach claim must include a photo or scan of the original receipt. Claims over $500 also require written approval from your department head before you submit them.\n\nTraining sessions on the new system will be held on February 18 and 20 in Conference Room B. Attendance is optional but strongly recommended for anyone who travels regularly.\n\nReimbursements will continue to be paid within ten business days.",
+      "preguntas": [
+        {
+          "enunciado": "What is the main purpose of the memo?",
+          "opciones": ["To announce a change in how expense claims are submitted", "To reduce the amount staff can spend on travel", "To invite staff to a conference", "To explain why reimbursements have been delayed"],
+          "correcta": 0,
+          "explicacion": "El memo anuncia que los gastos de viaje se presentarán en un sistema en línea y no en papel. Los plazos de reembolso no cambian."
+        },
+        {
+          "enunciado": "What is required for a hotel claim of $650?",
+          "opciones": ["A paper form signed by the finance department", "Attendance at a training session", "An image of the receipt and approval from a department head", "A reimbursement request within ten business days"],
+          "correcta": 2,
+          "explicacion": "Todo reclamo necesita foto o escaneo del recibo, y los de más de $500 exigen además la aprobación escrita del jefe de departamento. La capacitación es opcional."
+        },
+        {
+          "enunciado": "What can be inferred about a paper form submitted on March 3?",
+          "opciones": ["It will be processed more slowly.", "It will be rejected.", "It must include the original receipt.", "It will be paid within ten days."],
+          "correcta": 1,
+          "explicacion": "Desde el 1 de marzo los formularios en papel ya no se aceptan, \"with no exceptions\". No se procesan más lento: simplemente se rechazan."
+        }
+      ]
+    },
+    {
+      "id": "dl16",
+      "nivel": "B2",
+      "genero": "Invoice",
+      "texto": "COPPER LANE PRINT SHOP\nInvoice 2047\nDate issued: September 2\nBill to: Tomás Herrera, Herrera Design Studio\n\nDescription | Qty | Unit price | Amount\nBusiness cards (box of 250) | 4 | $22.00 | $88.00\nColor posters, large | 10 | $6.50 | $65.00\nRush service (24 hours) | 1 | $20.00 | $20.00\n\nTotal due: $173.00\nPayment due by: September 16\n\nA late fee of 5% will be added to unpaid balances after the due date. Payment can be made by bank transfer or in person at our store.",
+      "preguntas": [
+        {
+          "enunciado": "Why was Tomás charged $20.00?",
+          "opciones": ["He ordered extra business cards.", "He asked for his order to be completed quickly.", "He paid after the due date.", "He wanted the posters delivered to his studio."],
+          "correcta": 1,
+          "explicacion": "Los $20.00 corresponden a \"Rush service (24 hours)\", un servicio urgente. El recargo por pago tardío es un porcentaje, no una cifra fija."
+        },
+        {
+          "enunciado": "How much will Tomás owe if he pays on September 20?",
+          "opciones": ["$173.00", "$8.65", "$193.00", "$181.65"],
+          "correcta": 3,
+          "explicacion": "Después del 16 de septiembre se suma un 5 %: $173.00 + $8.65 = $181.65. $8.65 es solo el recargo, no el total."
+        }
+      ]
+    },
+    {
+      "id": "dl17",
+      "nivel": "B2",
+      "genero": "Text messages",
+      "texto": "Leo (9:02 a.m.): Movers just called. The truck can't come on Saturday, only Friday afternoon or Sunday morning.\nHana (9:05 a.m.): Friday's impossible for me. I have exams until 6.\nLeo (9:06 a.m.): Same for Rafa, he works on Fridays. Sunday, then?\nRafa (9:10 a.m.): Sunday works. But the new place only gives us the keys at noon.\nHana (9:11 a.m.): So the truck would have to wait outside with all our stuff...\nLeo (9:13 a.m.): I'll ask if they can start loading at 10 and drive over at 12.\nRafa (9:14 a.m.): Good idea. If it costs more, I'm happy to split it.",
+      "preguntas": [
+        {
+          "enunciado": "What problem are the roommates discussing?",
+          "opciones": ["Their new apartment will not be available until next week.", "The moving company can no longer come on the planned day.", "They cannot afford to rent a truck.", "Rafa lost the keys to the new apartment."],
+          "correcta": 1,
+          "explicacion": "Leo informa que el camión ya no puede ir el sábado y deben elegir otro día. Las llaves se entregan el domingo al mediodía, no la semana siguiente."
+        },
+        {
+          "enunciado": "Why is Friday not a good option?",
+          "opciones": ["The truck is not available that day.", "The new apartment is closed on Fridays.", "Two of the roommates are busy that afternoon.", "The movers charge more on Fridays."],
+          "correcta": 2,
+          "explicacion": "Hana tiene exámenes hasta las 6 y Rafa trabaja los viernes. El camión sí estaría disponible el viernes por la tarde."
+        },
+        {
+          "enunciado": "What will Leo probably do next?",
+          "opciones": ["Contact the moving company again", "Pick up the keys at noon", "Cancel the move", "Pay the extra cost by himself"],
+          "correcta": 0,
+          "explicacion": "Leo dice \"I'll ask if they can start loading at 10\": volverá a hablar con la empresa de mudanzas. Es Rafa quien ofrece compartir el costo extra."
+        }
+      ]
+    },
+    {
+      "id": "dl18",
+      "nivel": "B2",
+      "genero": "Notice",
+      "titulo": "Main Library Renovation",
+      "texto": "NOTICE: MAIN LIBRARY RENOVATION\n\nFrom January 6 to March 28, the second and third floors of the Main Library will be closed for renovation. During this period:\n\n- Books from these floors can still be requested online and collected at the ground-floor service desk within 48 hours.\n- Group study rooms will be temporarily relocated to the Student Center, Level 1. Reservations made before January 6 remain valid.\n- Printing will be available on the ground floor only.\n\nWe apologize for any inconvenience. When the work is complete, the renovated floors will offer 200 additional study seats.",
+      "preguntas": [
+        {
+          "enunciado": "How can students get books that are kept on the closed floors?",
+          "opciones": ["They can borrow them only after March 28.", "They can collect them at the Student Center.", "They can find them on the ground-floor shelves.", "They can request them online and pick them up downstairs."],
+          "correcta": 3,
+          "explicacion": "Los libros se piden en línea y se recogen en el mostrador de la planta baja en 48 horas. El Student Center recibe las salas de estudio, no los libros."
+        },
+        {
+          "enunciado": "What is suggested about a study room that a student reserved in December for January 15?",
+          "opciones": ["It has been canceled.", "It must be booked again online.", "It will be located in the Student Center.", "It will be on the third floor."],
+          "correcta": 2,
+          "explicacion": "Las reservas hechas antes del 6 de enero siguen vigentes, pero las salas se trasladan al Student Center. El tercer piso estará cerrado."
+        }
+      ]
+    },
+    {
+      "id": "dl19",
+      "nivel": "B2",
+      "genero": "Web page",
+      "titulo": "Northgate Car Club · FAQ",
+      "texto": "NORTHGATE CAR CLUB · Frequently Asked Questions\n\nHow do I join?\nSign up online with a driver's license that you have held for at least two years. Approval usually takes one business day.\n\nHow much does it cost?\nMembership is $9 per month. Cars cost $11 per hour or $65 per day, including fuel and insurance.\n\nWhat if I return the car late?\nPlease extend your booking in the app before it ends. Late returns without an extension are charged $25 plus the regular hourly rate.\n\nCan someone else drive the car I booked?\nOnly if that person is also a member and is added to the booking before the trip starts.",
+      "preguntas": [
+        {
+          "enunciado": "What is required to become a member?",
+          "opciones": ["Owning a car for at least two years", "Paying $65 in advance", "Being approved within one hour", "Having had a driver's license for at least two years"],
+          "correcta": 3,
+          "explicacion": "Se necesita una licencia de conducir obtenida hace al menos dos años. La aprobación tarda un día hábil, no una hora."
+        },
+        {
+          "enunciado": "A member books a car for three hours but returns it one hour late without extending the booking. Not counting the monthly fee, how much will the member pay?",
+          "opciones": ["$33", "$44", "$58", "$69"],
+          "correcta": 3,
+          "explicacion": "Tres horas cuestan $33; la hora de retraso sin extensión suma $25 más la tarifa normal de $11: 33 + 25 + 11 = $69. $58 olvida cobrar la hora extra."
+        },
+        {
+          "enunciado": "What is suggested about a friend who is not a member?",
+          "opciones": ["The friend can drive if the member is also in the car.", "The friend cannot drive a car that a member booked.", "The friend can drive after paying $9.", "The friend can drive if added to the booking in the app."],
+          "correcta": 1,
+          "explicacion": "Solo puede manejar otra persona si también es socia y está agregada a la reserva. Agregarla no basta si no es socia."
+        }
+      ]
+    },
+    {
+      "id": "dl20",
+      "nivel": "B2",
+      "genero": "Advertisement",
+      "titulo": "Part-Time Research Assistant",
+      "texto": "PART-TIME RESEARCH ASSISTANT · Department of Psychology\n\nWe are looking for a reliable student to help with a study on sleep and memory from February to May.\n\nDuties: scheduling participants, running short computer tasks, and entering data.\nHours: 10–12 hours per week, including some early mornings (7:00–9:00 a.m.).\nPay: $16 per hour.\n\nRequirements: current undergraduate student; strong organizational skills; experience with spreadsheets. Previous research experience is helpful but not required.\n\nTo apply, send a one-page résumé and your weekly class schedule to Dr. Amir Haddad by January 20.",
+      "preguntas": [
+        {
+          "enunciado": "What is required for the position?",
+          "opciones": ["Previous research experience", "Availability on weekends", "A graduate degree in psychology", "Experience with spreadsheets"],
+          "correcta": 3,
+          "explicacion": "Entre los requisitos está \"experience with spreadsheets\". La experiencia en investigación ayuda, pero el anuncio aclara que \"not required\"."
+        },
+        {
+          "enunciado": "What can be inferred about the job?",
+          "opciones": ["Applicants who cannot work early in the morning may not be suitable.", "It will continue through the summer.", "It is open only to psychology majors.", "It pays more to applicants with experience."],
+          "correcta": 0,
+          "explicacion": "El horario incluye algunas mañanas de 7:00 a 9:00, así que quien no pueda madrugar probablemente no sirva para el puesto. El trabajo termina en mayo."
+        }
+      ]
+    },
+    {
+      "id": "dl21",
+      "nivel": "B2",
+      "genero": "Schedule",
+      "titulo": "Regional Conference on Sustainable Design · Day 2",
+      "texto": "DAY 2 · SATURDAY, MAY 17\n\n8:30–9:00   Registration and coffee (Lobby)\n9:00–10:00   Keynote: “Building with Local Materials,” Prof. Ingrid Larsen (Hall A)\n10:15–11:30   Workshops (choose one):\n   A) Low-cost insulation (Room 2)\n   B) Designing for hot climates (Room 3) · FULL\n12:00–1:00   Lunch (Garden Terrace; if it rains, Hall B)\n1:00–2:30   Panel: Water-saving buildings (Hall A)\n3:00   Closing remarks and certificates (Hall A)\n\nNote: Certificates are given only to participants who attend at least one workshop.",
+      "preguntas": [
+        {
+          "enunciado": "Which workshop still has places available?",
+          "opciones": ["Low-cost insulation", "Designing for hot climates", "Water-saving buildings", "Building with local materials"],
+          "correcta": 0,
+          "explicacion": "El taller B aparece como \"FULL\", así que solo queda el A, sobre aislamiento de bajo costo. Las otras dos opciones son un panel y la conferencia principal, no talleres."
+        },
+        {
+          "enunciado": "Where will lunch be served if it is raining?",
+          "opciones": ["On the Garden Terrace", "In Hall A", "In Hall B", "In the lobby"],
+          "correcta": 2,
+          "explicacion": "El programa dice \"if it rains, Hall B\". La terraza es el lugar previsto solo si hace buen tiempo."
+        },
+        {
+          "enunciado": "What is suggested about a participant who attends only the keynote and the panel?",
+          "opciones": ["The participant will not receive a certificate.", "The participant must pay for lunch.", "The participant will need to register again.", "The participant can join Workshop B in the afternoon."],
+          "correcta": 0,
+          "explicacion": "Los certificados son solo para quien asiste al menos a un taller, y la conferencia principal y el panel no son talleres."
+        }
+      ]
+    },
+    {
+      "id": "dl22",
+      "nivel": "B2",
+      "genero": "Review",
+      "titulo": "Nice Location, Misleading Photos",
+      "texto": "★★☆☆☆ Nice location, misleading photos\nReviewed by Kwame A. · Stayed 3 nights\n\nThe apartment is in a perfect spot, just five minutes on foot from the old town and the train station. However, the photos on the listing must be several years old. The kitchen looked nothing like the pictures: two of the burners didn't work, and there was no microwave, although one was listed. To be fair, the host answered messages quickly and offered a partial refund, which I accepted. I'd only recommend this place to travelers who plan to eat out and mainly need somewhere central to sleep.",
+      "preguntas": [
+        {
+          "enunciado": "What was Kwame's main complaint?",
+          "opciones": ["The apartment was far from the train station.", "The host did not respond to his messages.", "The apartment did not match its description.", "The apartment was too expensive for its size."],
+          "correcta": 2,
+          "explicacion": "Kwame se queja de que la cocina no se parecía a las fotos y faltaba el microondas anunciado. Elogia la ubicación y la rapidez del anfitrión."
+        },
+        {
+          "enunciado": "What does Kwame suggest about the apartment?",
+          "opciones": ["It is a poor choice for guests who want to cook.", "It should be avoided by all travelers.", "It is better for long stays than for short ones.", "It has recently been renovated."],
+          "correcta": 0,
+          "explicacion": "Solo lo recomienda a quien piense comer fuera, porque la cocina funciona mal. No dice que nadie deba alojarse allí."
+        }
+      ]
+    },
+    {
+      "id": "dl23",
+      "nivel": "C1",
+      "genero": "Email",
+      "texto": "To: Dr. Mariana Castillo\nFrom: Program Committee, Coastal Ecology Symposium\nDate: April 11\nSubject: Your proposal: decision and next steps\n\nDear Dr. Castillo,\n\nWe are pleased to inform you that your proposal, “Seagrass Recovery After Dredging,” has been accepted, though as a poster rather than the oral presentation you requested. Given the volume of submissions this year, the committee could offer only a limited number of speaking slots.\n\nTo confirm your participation, please register by May 2. Presenters who have not registered by this date will be removed from the program. Posters must not exceed 90 × 120 cm and should be mounted in the Exhibition Hall before 9:00 a.m. on the opening day.\n\nShould a speaking slot become available due to a cancellation, we will contact you directly.\n\nKind regards,\nThe Program Committee",
+      "preguntas": [
+        {
+          "enunciado": "What is the main purpose of the email?",
+          "opciones": ["To reject Dr. Castillo's proposal", "To accept the proposal in a different format than she requested", "To invite Dr. Castillo to give the opening speech", "To ask Dr. Castillo to shorten her presentation"],
+          "correcta": 1,
+          "explicacion": "La propuesta se acepta, pero como póster y no como presentación oral, que era lo que ella había pedido. No es un rechazo."
+        },
+        {
+          "enunciado": "What will happen if Dr. Castillo registers on May 5?",
+          "opciones": ["She will be offered a speaking slot.", "She will have to pay a late fee.", "Her poster will be moved to another room.", "She will no longer be included in the program."],
+          "correcta": 3,
+          "explicacion": "Quien no se registre antes del 2 de mayo \"will be removed from the program\". El correo no menciona ningún recargo por inscripción tardía."
+        },
+        {
+          "enunciado": "What is implied about oral presentations at the symposium?",
+          "opciones": ["They were less popular than posters this year.", "They must be registered for before May 2.", "They will all take place on the opening day.", "Demand for them exceeded the available places."],
+          "correcta": 3,
+          "explicacion": "Por la cantidad de propuestas, el comité solo pudo ofrecer pocos espacios para hablar: hubo más interesados que lugares. La fecha del 2 de mayo aplica a todos los participantes."
+        }
+      ]
+    },
+    {
+      "id": "dl24",
+      "nivel": "C1",
+      "genero": "Memo",
+      "texto": "MEMO\nTo: Customer Support Team\nFrom: Ji-woo Park, Operations Director\nDate: June 23\nRe: Results of the flexible-schedule pilot\n\nThank you to everyone who took part in the three-month flexible-schedule pilot. Overall, the results were encouraging: average response times remained stable, and staff satisfaction scores rose noticeably. However, coverage during the first hour of the day fell below our minimum on several occasions.\n\nWe will therefore make flexible scheduling permanent from August 1, on one condition: each team must ensure that at least two members are available between 8:00 and 9:00 a.m. Team leaders should submit a rotation plan for this period by July 15.\n\nRequests to change your regular hours can be discussed with your team leader.",
+      "preguntas": [
+        {
+          "enunciado": "Why will each team need at least two members available between 8:00 and 9:00 a.m.?",
+          "opciones": ["Staff members asked to start work earlier.", "Response times became slower during the pilot.", "Too few people were working early in the day during the pilot.", "Customers complained about the new schedule."],
+          "correcta": 2,
+          "explicacion": "El memo dice que la cobertura de la primera hora quedó por debajo del mínimo varias veces. Los tiempos de respuesta, en cambio, se mantuvieron estables."
+        },
+        {
+          "enunciado": "What are team leaders asked to do?",
+          "opciones": ["Approve every request to change working hours", "Submit a rotation plan by July 15", "End the pilot on August 1", "Measure staff satisfaction again"],
+          "correcta": 1,
+          "explicacion": "Los líderes deben entregar un plan de turnos para esa franja antes del 15 de julio. El 1 de agosto el horario flexible se vuelve permanente; no termina."
+        }
+      ]
+    },
+    {
+      "id": "dl25",
+      "nivel": "C1",
+      "genero": "Instructions",
+      "titulo": "Community Arts Fund · How to Apply",
+      "texto": "COMMUNITY ARTS FUND · How to Apply\n\nGrants of up to $3,000 are available for projects that bring free arts activities to the neighborhood.\n\n1. Read the eligibility rules. Individuals and non-profit groups may apply; businesses may apply only in partnership with a non-profit.\n2. Complete the online application, including a detailed budget. Applications without a budget will not be reviewed.\n3. Attach two letters of support from community members. Letters from relatives are not accepted.\n4. Submit by 5:00 p.m. on October 31. Late applications will be held over for the following funding round.\n\nDecisions are announced within eight weeks. Successful applicants receive 75% of the grant upfront and the remainder after submitting a final report.",
+      "preguntas": [
+        {
+          "enunciado": "Under what condition can a local business apply?",
+          "opciones": ["If it offers free activities", "If it applies together with a non-profit organization", "If it requests less than $3,000", "If it includes two letters from relatives"],
+          "correcta": 1,
+          "explicacion": "Las empresas solo pueden postular \"in partnership with a non-profit\". Las cartas de familiares, además, no se aceptan."
+        },
+        {
+          "enunciado": "What will happen to an application submitted on November 2?",
+          "opciones": ["It will be rejected permanently.", "It will be reviewed immediately.", "It will be considered in the next round.", "It will receive only 75% of the grant."],
+          "correcta": 2,
+          "explicacion": "Las solicitudes tardías \"will be held over for the following funding round\": pasan a la siguiente convocatoria, no se descartan."
+        },
+        {
+          "enunciado": "A group is awarded a grant of $2,000. How much will it receive before submitting its final report?",
+          "opciones": ["$500", "$2,000", "$3,000", "$1,500"],
+          "correcta": 3,
+          "explicacion": "Se entrega el 75 % por adelantado: 75 % de $2,000 = $1,500. Los $500 restantes llegan después del informe final."
+        }
+      ]
+    },
+    {
+      "id": "dl26",
+      "nivel": "C1",
+      "genero": "Notice",
+      "titulo": "Lease Renewals",
+      "texto": "NOTICE TO TENANTS: LEASE RENEWALS\n\nLeases ending between September 1 and December 31 are now eligible for renewal. Tenants who wish to stay must return the signed renewal form to the management office no later than 60 days before their current lease expires.\n\nPlease note the following changes:\n- Monthly rent will increase by 3%, as permitted under the terms of your original lease.\n- Renewals will be offered for 12 months only; six-month terms have been discontinued.\n- Tenants who renew early, at least 90 days before their lease expires, will have their parking fee waived for the first three months.\n\nTenants who do not intend to renew must give written notice by the same 60-day deadline. Units not renewed by then may be offered to applicants on the waiting list.",
+      "preguntas": [
+        {
+          "enunciado": "What is the main purpose of the notice?",
+          "opciones": ["To explain the renewal process and the new lease terms", "To announce that parking fees will be eliminated", "To warn tenants that their leases have already expired", "To advertise empty apartments to new applicants"],
+          "correcta": 0,
+          "explicacion": "El aviso explica cómo y cuándo renovar y qué cambia en los contratos. El estacionamiento gratis es solo un beneficio temporal por renovar temprano."
+        },
+        {
+          "enunciado": "A tenant's lease ends on November 30. What would the tenant gain by returning the form in early August?",
+          "opciones": ["A smaller rent increase", "A six-month lease", "Three months without a parking fee", "Priority on the waiting list"],
+          "correcta": 2,
+          "explicacion": "Principios de agosto es más de 90 días antes del 30 de noviembre, así que cuenta como renovación temprana y se perdona el estacionamiento por tres meses. Los contratos de seis meses ya no existen."
+        },
+        {
+          "enunciado": "What is implied about the 3% rent increase?",
+          "opciones": ["It was already allowed by the original lease.", "It applies only to six-month leases.", "It can be avoided by renewing early.", "It was decided after tenants complained."],
+          "correcta": 0,
+          "explicacion": "El aviso dice que el aumento es \"as permitted under the terms of your original lease\": el contrato original ya lo contemplaba. Renovar temprano solo exime del estacionamiento."
+        }
+      ]
+    }
+  ]
+}

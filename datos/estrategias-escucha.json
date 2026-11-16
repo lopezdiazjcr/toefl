@@ -1,0 +1,169 @@
+{
+  "lr": {
+    "titulo": "Listen and Choose a Response",
+    "subtitulo": "Listening · Elegir la respuesta",
+    "resumen": "Usted oye una sola frase corta, como una pregunta, un pedido o un comentario, y elige cuál de cuatro respuestas escritas suena más natural. La frase no aparece en pantalla, así que todo depende de entender qué quiere la persona que habla.",
+    "formato": [
+      "Oye una frase corta que no se muestra en pantalla y elige la mejor de cuatro respuestas escritas.",
+      "Hay entre 15 y 19 preguntas de este tipo. En los exámenes de práctica de ETS hubo 8 en el primer módulo y 8 en el segundo.",
+      "El audio suena una sola vez, el reloj corre por pregunta y no se puede volver a preguntas anteriores.",
+      "Toda la sección de Listening tiene unas 47 preguntas en unos 29 minutos, incluidas algunas de prueba que no cuentan y que usted no puede identificar.",
+      "Las voces pueden tener acento norteamericano, británico, australiano o neozelandés, y el audio puede estar generado por IA o grabado por actores."
+    ],
+    "califica": "Cada respuesta es correcta o incorrecta. Listening es adaptativo por etapas: su desempeño en el primer módulo decide si el segundo es más fácil o más difícil, y el resultado se reporta en la escala de 1 a 6 (4–4.5 equivale a B2 y 5–5.5 a C1).",
+    "regla": "Antes de fijarse en las palabras, identifique qué hace la frase (pedir, ofrecer, quejarse, dar una noticia) y elija la respuesta que cumple esa función, aunque no repita ninguna palabra del audio.",
+    "pasos": [
+      "Escuche el arranque y la entonación: “Could you…”, “Would you mind…”, “Why don't we…”, “I'm afraid…” le dicen la función antes de que termine la frase.",
+      "Resuma mentalmente la frase en español en tres o cuatro palabras: “me pide un favor”, “se queja del frío”, “me ofrece llevarme”.",
+      "Si es una pregunta con wh-, fíjese en cuál es: when pide un momento, where un lugar, how long una duración, how often una frecuencia. La trampa favorita responde a otra wh-.",
+      "Descarte las opciones que repiten una palabra o un sonido del audio sin responder: es la trampa más común.",
+      "Revise el tiempo verbal y la persona: una respuesta en pasado a una pregunta sobre mañana, o sobre “ella” cuando le preguntaron a usted, no sirve.",
+      "Acepte respuestas indirectas o con otra pregunta: a “Can you open the lab?” la correcta puede ser “I think Mark has the keys.” Pregúntese si alguien diría eso en una conversación real.",
+      "Decida y avance: el reloj corre por pregunta y no podrá volver."
+    ],
+    "errores": [
+      "Elegir la opción que repite una palabra que sí entendió: “jam” por “jammed”, “show” por “snow”, “close” (cerca) por “closing” (cerrar).",
+      "Interpretar al revés “Would you mind…?”: “Not at all” significa “con gusto”; un “Yes” significaría que sí le molesta.",
+      "No distinguir “can” de “can't”: “can” suele sonar débil y corto, mientras que “can't” lleva acento y vocal plena, aunque la t final casi no se oiga.",
+      "Tomar los modismos al pie de la letra: “Tell me about it” significa “estoy de acuerdo”, no “cuénteme”; “a lot on your plate” significa “mucho trabajo”.",
+      "Descartar la respuesta correcta porque es indirecta o porque contesta con otra pregunta."
+    ],
+    "frases": [
+      "Not at all. / Go ahead. → respuestas a “Would you mind…?” o “Mind if I…?” que significan “adelante”",
+      "Tell me about it. / You can say that again. → estoy totalmente de acuerdo",
+      "I'm afraid… → forma cortés de dar una mala noticia o decir que no",
+      "I'd love to, but… → rechazo amable",
+      "Count me in. → cuente conmigo",
+      "It slipped my mind. → se me olvidó"
+    ],
+    "ejemplo": {
+      "en": "You hear: \"Any chance you could drop this package off at the post office?\"\n\n(A) I dropped it on the way home.\n(B) About two kilos, I think.\n(C) I'm heading that way anyway, so sure.\n(D) Yes, I posted the photos online.\n\nAnswer: (C)",
+      "es": "La frase es un pedido de favor y (C) lo acepta. (A) repite “drop”, (B) responde cuánto pesa el paquete y (D) empieza con “Yes”, pero confunde “post office” con “posted”."
+    },
+    "fuente": { "texto": "ETS · TOEFL iBT Test Specifications 2026", "url": "https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-test-specifications-2026.pdf" }
+  },
+  "lc": {
+    "titulo": "Listen to a Conversation",
+    "subtitulo": "Listening · Conversación",
+    "resumen": "Usted escucha una conversación corta entre dos personas en una situación cotidiana o de campus y responde dos preguntas. Casi siempre alguien tiene un problema o una necesidad, y la conversación avanza hacia una solución o una decisión.",
+    "formato": [
+      "Una conversación de unos 8 a 10 turnos entre dos personas.",
+      "Dos preguntas por conversación: idea principal o problema, un detalle, lo que alguien da a entender, o lo que alguien hará después.",
+      "En los exámenes de práctica de ETS hubo dos conversaciones en el primer módulo y una en el segundo.",
+      "La conversación suena una sola vez y las preguntas aparecen al final. Puede tomar notas.",
+      "No se puede volver a preguntas anteriores y el reloj corre por pregunta."
+    ],
+    "califica": "Cada pregunta es de opción múltiple y vale como correcta o incorrecta. Su desempeño en el primer módulo decide si el segundo es más fácil o más difícil, y el resultado de Listening se reporta en la escala de 1 a 6.",
+    "regla": "Siga el problema y la decisión: quién necesita qué, qué le proponen y qué decide hacer al final.",
+    "pasos": [
+      "Use la línea de presentación (quiénes hablan y dónde) para anticipar el tema: un estudiante con un profesor suele hablar de una tarea, una nota o un plazo.",
+      "En los dos primeros turnos, anote en pocas palabras el motivo de la conversación: suele ser la respuesta a la pregunta de idea principal.",
+      "Tome notas en dos columnas: a la izquierda lo que dice o necesita cada persona; a la derecha los datos concretos (días, lugares, cantidades, nombres).",
+      "Atienda los giros: “Actually…”, “Well, the thing is…”, “But…”, “Oh, I didn't know that”. Ahí suele cambiar el plan, y ahí suele caer una pregunta.",
+      "Para las preguntas de implicación (“What does the man imply…?”), piense en lo que la persona quiere decir sin decirlo: “I've got a lab until six” puede significar “no puedo a esa hora”.",
+      "Para las de predicción (“What will the woman probably do next?”), busque la última decisión o compromiso: “I guess I'll…”, “Let me…”, “I'll go ahead and…”."
+    ],
+    "errores": [
+      "Perder el hilo con las formas reducidas: “gonna” (going to), “wanna” (want to), “gotta” (have got to), “kinda” (kind of).",
+      "No oír las terminaciones -ed y -s que cambian el sentido: “I wanted to change” (ya no lo quiere) frente a “I want to change”; “the class” frente a “the classes”.",
+      "Confundir números parecidos: “thirteen” lleva el acento al final y “thirty” al principio.",
+      "Caer en falsos cognados: “actually” es “en realidad” (no “actualmente”), “attend” es “asistir”, “assist” es “ayudar”, “library” es “biblioteca”.",
+      "Escribir frases completas en las notas y perderse el turno siguiente."
+    ],
+    "frases": [
+      "Actually, … → corrección o dato inesperado",
+      "The thing is… → introduce el problema real",
+      "I was wondering if… → pedido cortés",
+      "Why don't you…? / Have you tried…? → sugerencia",
+      "I guess I'll… / I'll go ahead and… → decisión: pista para la pregunta de predicción"
+    ],
+    "ejemplo": {
+      "en": "Woman: Hi, Professor Grant. Do you have a minute? It's about the lab report.\nMan: Sure, Ana. What's up?\nWoman: Well, the thing is, my partner's been sick all week, so we haven't finished the data section.\nMan: I see. Is she coming back on Monday?\nWoman: She thinks so.\nMan: Then you can both take until Wednesday. Just send me an email so I have it in writing.\n\nWhat will the woman probably do next?\n(A) Finish the data section by herself\n(B) Send the professor an email about the new deadline\n(C) Visit her partner on Monday\n(D) Ask another student to join her group\n\nAnswer: (B)",
+      "es": "La pregunta de predicción se responde con la última instrucción: el profesor le pide que le escriba un correo. Observe también “the thing is”, que introduce el problema y responde a una posible pregunta de idea principal."
+    },
+    "fuente": { "texto": "ETS · TOEFL iBT Test Overview", "url": "https://www.eu.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf" }
+  },
+  "la": {
+    "titulo": "Listen to an Announcement",
+    "subtitulo": "Listening · Anuncio",
+    "resumen": "Una sola persona da un aviso breve, como los que se oyen en un campus, una biblioteca, una estación, un aeropuerto, una tienda o una oficina. Usted responde dos preguntas sobre para qué es el aviso, un dato concreto o lo que deben hacer quienes lo escuchan.",
+    "formato": [
+      "Un solo hablante da un aviso de unas 40 a 85 palabras.",
+      "Dos preguntas por anuncio: propósito o tema, un detalle, o lo que deben hacer los oyentes.",
+      "En los exámenes de práctica de ETS hubo un anuncio en cada módulo.",
+      "El aviso suena una sola vez, las preguntas aparecen al final y puede tomar notas.",
+      "No se puede volver a preguntas anteriores y el reloj corre por pregunta."
+    ],
+    "califica": "Cada pregunta es de opción múltiple y vale como correcta o incorrecta. Su desempeño en el primer módulo decide si el segundo es más fácil o más difícil, y el resultado de Listening se reporta en la escala de 1 a 6.",
+    "regla": "Escuche como si el aviso fuera para usted: qué cambió, por qué, y qué le piden hacer.",
+    "pasos": [
+      "Use la escena (dónde se oye el aviso) para anticipar el tipo de información: horarios en una estación, normas en una biblioteca, cambios en una oficina.",
+      "La primera o la segunda oración suele contener el propósito (“The library will close early today…”). Anótelo en cuatro o cinco palabras.",
+      "Anote los datos con su contexto, no sueltos: no basta con “six”; escriba “andén 6 (antes 2)”.",
+      "Atienda “instead of”, “rather than”, “no longer” y “still”: marcan lo que cambió y lo que sigue igual, que es donde están las trampas.",
+      "Marque las instrucciones: “please…”, “make sure…”, “you'll need to…”, “we recommend…”. Una de las preguntas suele ser qué deben hacer los oyentes.",
+      "Desconfíe de la opción que repite una palabra exacta del aviso pero cambia el dato (otra hora, otro lugar, el dato anterior al cambio)."
+    ],
+    "errores": [
+      "Confundir horas habladas: “ten fifteen” (10:15) no es “ten fifty” (10:50), y “half past” significa “y media”.",
+      "Perder palabras de cambio pronunciadas débilmente: “can” frente a “can't”, “will” contraído en “we'll”, “won't”.",
+      "Elegir el dato viejo (el andén o la hora anteriores) porque fue lo primero que se oyó.",
+      "Caer en falsos cognados: “eventually” es “con el tiempo” (no “eventualmente”), “actually” es “en realidad”, “sensible” es “sensato”."
+    ],
+    "frases": [
+      "Please note that… → dato importante",
+      "Due to… / Owing to… → causa",
+      "instead of / rather than → el cambio",
+      "no longer → algo que ya no aplica",
+      "We'd like to remind you that… → recordatorio",
+      "We apologize for any inconvenience. → cierre de cortesía, sin información nueva"
+    ],
+    "ejemplo": {
+      "en": "\"Attention, shoppers. Starting today, the bakery counter will close at seven instead of nine. Cakes ordered in advance can still be picked up until nine at the customer service desk.\"\n\nWhere can customers pick up a cake they ordered after seven o'clock?\n(A) At the bakery counter\n(B) At the customer service desk\n(C) At the main entrance\n(D) At any checkout\n\nAnswer: (B)",
+      "es": "“Instead of” marca el cambio de horario y “still” marca lo que sigue igual. La trampa es “the bakery counter”, que se oye primero pero cierra a las siete."
+    },
+    "fuente": { "texto": "ETS · TOEFL iBT Test Overview", "url": "https://www.eu.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf" }
+  },
+  "lt": {
+    "titulo": "Listen to an Academic Talk",
+    "subtitulo": "Listening · Charla académica",
+    "resumen": "Un profesor o una profesora da una explicación breve sobre un tema académico y usted responde cuatro preguntas. Es la tarea más larga de la sección: aquí las notas y las palabras señal marcan la diferencia.",
+    "formato": [
+      "Una charla de unas 100 a 250 palabras sobre un tema académico.",
+      "Cuatro preguntas por charla: idea principal, detalle, para qué se menciona un ejemplo, e inferencia.",
+      "En los exámenes de práctica de ETS hubo una charla en cada módulo.",
+      "La charla suena una sola vez, las preguntas aparecen al final y puede tomar notas.",
+      "No se puede volver a preguntas anteriores y el reloj corre por pregunta."
+    ],
+    "califica": "Cada pregunta es de opción múltiple y vale como correcta o incorrecta. Su desempeño en el primer módulo decide si el segundo es más fácil o más difícil, y el resultado de Listening se reporta en la escala de 1 a 6.",
+    "regla": "Escuche la estructura, no cada palabra: tema, explicación, ejemplo y cierre. Si sabe para qué sirve cada parte, puede responder las cuatro preguntas.",
+    "pasos": [
+      "Prepare la hoja antes de que empiece el audio: dos columnas, “idea principal” a la izquierda y “detalles / ejemplos” a la derecha.",
+      "Las primeras oraciones suelen anunciar el tema (“Today we're going to look at…”, “Let's talk about…”). Escríbalo arriba: es la base de la pregunta de idea principal.",
+      "Escuche las palabras señal: “so” y “the point is” (conclusión), “however” y “but” (contraste), “for example” y “take…” (ejemplo), “first… then…” (secuencia).",
+      "Cuando oiga un ejemplo, anote para qué sirve, no solo qué es: “→ prueba que X”. La pregunta “Why does the professor mention…?” pide la función del ejemplo.",
+      "Use abreviaturas y símbolos: → (causa), ≠ (contraste), ↑ ↓ (aumenta, disminuye). Nada de frases completas.",
+      "Para la inferencia, busque lo que el profesor da a entender sin decirlo: una comparación, un “surprisingly”, un “what most people don't realize”.",
+      "Al responder, elimine las opciones que son ciertas pero no responden a la pregunta y las que exageran (“always”, “only”, “never”)."
+    ],
+    "errores": [
+      "Intentar traducir cada palabra y perder la estructura de la charla.",
+      "No reconocer palabras que conoce por escrito: en inglés las vocales sin acento se reducen a un sonido débil (schwa), por eso “photograph” y “photography” suenan muy distintas.",
+      "Perderse en la unión entre palabras: “kind of” suena “kinda” y “pick it up” suena casi como una sola palabra.",
+      "Elegir como idea principal un detalle que se repitió mucho.",
+      "Caer en falsos cognados académicos: “realize” es “darse cuenta” (no “realizar”), “eventually” es “con el tiempo”, “consistent” es “constante” o “coherente”."
+    ],
+    "frases": [
+      "Today we're going to look at… → tema de la charla",
+      "Take…, for instance. / For example, … → ejemplo: anote para qué sirve",
+      "However, … / But here's the thing: … → contraste o giro",
+      "So, … / The point is… → conclusión",
+      "What most people don't realize is… → dato inesperado: posible pregunta de inferencia"
+    ],
+    "ejemplo": {
+      "en": "Professor: Some birds can find their way home across huge distances. How? One idea is that they can sense the Earth's magnetic field. For example, when researchers attached small magnets to homing pigeons, the birds got lost on cloudy days, but not on sunny ones. So the magnetic sense seems to work as a backup when the birds can't see the sun.\n\nWhy does the professor mention the experiment with magnets?\n(A) To show that pigeons prefer sunny weather\n(B) To support the idea that birds use the magnetic field when the sun is hidden\n(C) To explain how researchers train pigeons\n(D) To argue that magnets are harmful to birds\n\nAnswer: (B)",
+      "es": "La pregunta de propósito pide la función del ejemplo. “For example” introduce la prueba y “So” introduce la conclusión que esa prueba apoya; (A) usa palabras de la charla, pero no explica para qué se menciona el experimento."
+    },
+    "fuente": { "texto": "ETS · TOEFL iBT Test Specifications 2026", "url": "https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-test-specifications-2026.pdf" }
+  }
+}

@@ -1,0 +1,1125 @@
+{
+  "tipo": "lr",
+  "items": [
+    {
+      "id": "lr01",
+      "nivel": "A2",
+      "g": "f",
+      "enunciado": "What time does the bus leave?",
+      "opciones": [
+        "At the main station, I think.",
+        "I left my bag on the bus.",
+        "In about ten minutes.",
+        "Yes, it's a very big bus."
+      ],
+      "correcta": 2,
+      "explicacion": "La pregunta es “What time…?”, así que la respuesta debe dar un momento: “In about ten minutes”. “At the main station” responde a “where” y “I left my bag on the bus” solo repite palabras del audio."
+    },
+    {
+      "id": "lr02",
+      "nivel": "A2",
+      "g": "m",
+      "enunciado": "Would you like some coffee?",
+      "opciones": [
+        "No, thanks. I just had some.",
+        "The coffee shop is next door.",
+        "He drinks it every morning.",
+        "Because I was tired."
+      ],
+      "correcta": 0,
+      "explicacion": "Es un ofrecimiento y la respuesta lo rechaza con cortesía. “The coffee shop is next door” repite “coffee”, pero no acepta ni rechaza nada."
+    },
+    {
+      "id": "lr03",
+      "nivel": "A2",
+      "g": "f",
+      "enunciado": "Where did you put my keys?",
+      "opciones": [
+        "About an hour ago.",
+        "I put on my jacket.",
+        "Yes, I have my own keys.",
+        "They're on the kitchen table."
+      ],
+      "correcta": 3,
+      "explicacion": "“Where” pide un lugar: “on the kitchen table”. “About an hour ago” responde a “when” y “I put on my jacket” solo repite el verbo “put”."
+    },
+    {
+      "id": "lr04",
+      "nivel": "A2",
+      "g": "m",
+      "enunciado": "How was your weekend?",
+      "opciones": [
+        "I'll be away next weekend.",
+        "Pretty quiet. I mostly stayed home.",
+        "It was on Saturday.",
+        "Twice a month, usually."
+      ],
+      "correcta": 1,
+      "explicacion": "“How was…?” pide que describa algo que ya pasó. “I'll be away next weekend” habla del futuro y “It was on Saturday” responde a “when”."
+    },
+    {
+      "id": "lr05",
+      "nivel": "A2",
+      "g": "f",
+      "enunciado": "Can you help me carry these boxes?",
+      "opciones": [
+        "I carried mine to the car yesterday.",
+        "Sure. Where do you want them?",
+        "There are about six of them.",
+        "Yes, she helped me a lot."
+      ],
+      "correcta": 1,
+      "explicacion": "Es un pedido de ayuda; la respuesta acepta y pregunta dónde dejar las cajas. “Yes, she helped me a lot” empieza con “Yes”, pero habla de otra persona y del pasado."
+    },
+    {
+      "id": "lr06",
+      "nivel": "A2",
+      "g": "m",
+      "enunciado": "Is this seat taken?",
+      "opciones": [
+        "I took a taxi this morning.",
+        "The seats are blue.",
+        "At the front of the bus.",
+        "No, go ahead and sit down."
+      ],
+      "correcta": 3,
+      "explicacion": "“Is this seat taken?” pregunta si el asiento está ocupado; “No, go ahead” significa que está libre. “I took a taxi” repite el verbo “take” con otro sentido."
+    },
+    {
+      "id": "lr07",
+      "nivel": "A2",
+      "g": "f",
+      "enunciado": "I'm sorry I'm late.",
+      "opciones": [
+        "That's OK. We haven't started yet.",
+        "It's later than I thought.",
+        "I'll come tomorrow, then.",
+        "Yes, she's always late."
+      ],
+      "correcta": 0,
+      "explicacion": "Ante una disculpa, lo natural es tranquilizar a la persona: “That's OK”. “It's later than I thought” repite “late”, pero no responde a la disculpa."
+    },
+    {
+      "id": "lr08",
+      "nivel": "A2",
+      "g": "m",
+      "enunciado": "Do you want to get lunch together?",
+      "opciones": [
+        "I got it at the store.",
+        "Lunch was at noon yesterday.",
+        "I'd love to. Where should we go?",
+        "Together, they cost ten dollars."
+      ],
+      "correcta": 2,
+      "explicacion": "Es una invitación y la respuesta la acepta. Las otras opciones repiten “get”, “lunch” o “together” sin responder a la invitación."
+    },
+    {
+      "id": "lr09",
+      "nivel": "A2",
+      "g": "f",
+      "enunciado": "Whose jacket is this?",
+      "opciones": [
+        "It's in the closet.",
+        "About forty dollars.",
+        "Yes, it's a nice jacket.",
+        "I think it's Carlos's."
+      ],
+      "correcta": 3,
+      "explicacion": "“Whose” pregunta de quién es algo, y la respuesta da un dueño. “About forty dollars” responde a “how much” y un “Yes” no sirve para una pregunta con “whose”."
+    },
+    {
+      "id": "lr10",
+      "nivel": "A2",
+      "g": "m",
+      "enunciado": "How do I get to the post office?",
+      "opciones": [
+        "I got a letter today.",
+        "Go straight and turn left at the bank.",
+        "It opens at nine.",
+        "Yes, I went there."
+      ],
+      "correcta": 1,
+      "explicacion": "“How do I get to…?” pide indicaciones para llegar. “It opens at nine” responde a “when” y “I got a letter today” repite “get” con otro sentido."
+    },
+    {
+      "id": "lr11",
+      "nivel": "A2",
+      "g": "f",
+      "enunciado": "Thanks for the birthday card!",
+      "opciones": [
+        "My birthday is in May.",
+        "I'll send it tomorrow.",
+        "You're welcome. I'm glad you liked it.",
+        "Yes, I have a credit card."
+      ],
+      "correcta": 2,
+      "explicacion": "Ante un agradecimiento se responde “You're welcome”. “I'll send it tomorrow” no tiene sentido porque la tarjeta ya llegó, y “credit card” solo repite “card”."
+    },
+    {
+      "id": "lr12",
+      "nivel": "A2",
+      "g": "m",
+      "enunciado": "Can I borrow your pen for a second?",
+      "opciones": [
+        "There's one in the top drawer.",
+        "For a second time, yes.",
+        "I lent him my book yesterday.",
+        "It's a nice pen, isn't it?"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta indirecta: en lugar de prestar el suyo, le dice dónde encontrar un bolígrafo. “For a second time” repite “second” con otro sentido."
+    },
+    {
+      "id": "lr13",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Have you finished the report for Monday?",
+      "opciones": [
+        "Almost. I just need to add the charts.",
+        "I'll report it to the manager.",
+        "It finished at five.",
+        "Every Monday at nine."
+      ],
+      "correcta": 0,
+      "explicacion": "Le preguntan si terminó el informe; “Almost” responde y da un detalle. “It finished at five” repite “finish”, pero habla de otra cosa."
+    },
+    {
+      "id": "lr14",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Why don't we take a break?",
+      "opciones": [
+        "Because it was raining.",
+        "They broke it last week.",
+        "Good idea. I could use some coffee.",
+        "I'll take the bus home."
+      ],
+      "correcta": 2,
+      "explicacion": "“Why don't we…?” no pide una razón: es una sugerencia. Por eso “Because it was raining” es la trampa; lo natural es aceptar o rechazar la idea."
+    },
+    {
+      "id": "lr15",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Could you turn the music down a little?",
+      "opciones": [
+        "I turned it on this morning.",
+        "Oh, sorry. Is this better?",
+        "Down the hall, on the left.",
+        "Yes, I love this music too."
+      ],
+      "correcta": 1,
+      "explicacion": "Es un pedido; la respuesta se disculpa y baja el volumen. “Down the hall” repite “down” e “I love this music too” no cumple el pedido."
+    },
+    {
+      "id": "lr16",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "When is the assignment due?",
+      "opciones": [
+        "Professor Kim assigned it.",
+        "It's about ten pages long.",
+        "Yes, I did it already.",
+        "Not until next Friday."
+      ],
+      "correcta": 3,
+      "explicacion": "“When… due?” pide la fecha de entrega. “Professor Kim assigned it” responde a “who” y “ten pages long” responde a “how long”."
+    },
+    {
+      "id": "lr17",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Do you know where the printer paper is?",
+      "opciones": [
+        "Yes, I printed it this morning.",
+        "The new printer is really fast.",
+        "Ask Rosa. She ordered it last week.",
+        "About five dollars a box."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta indirecta: no sabe dónde está, pero indica quién puede saberlo. “Yes, I printed it” empieza con “Yes” y repite “print”, pero no dice dónde está el papel."
+    },
+    {
+      "id": "lr18",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "I can't believe how cold it is today.",
+      "opciones": [
+        "I believe it's Tuesday.",
+        "It was hot last summer.",
+        "You can borrow my notes.",
+        "I know. I should've worn a heavier coat."
+      ],
+      "correcta": 3,
+      "explicacion": "Es una queja sobre el clima y la respuesta muestra acuerdo. “I believe it's Tuesday” repite “believe” sin relación con el frío."
+    },
+    {
+      "id": "lr19",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Would you mind closing the window?",
+      "opciones": [
+        "Not at all. It's getting chilly.",
+        "The window faces the street.",
+        "I closed my account last month.",
+        "It's a beautiful view, isn't it?"
+      ],
+      "correcta": 0,
+      "explicacion": "Con “Would you mind…?”, “Not at all” significa “con gusto, lo hago”. Las demás opciones repiten “window” o “close” sin responder al pedido."
+    },
+    {
+      "id": "lr20",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "How long have you been living here?",
+      "opciones": [
+        "It's a really long street.",
+        "About three years now.",
+        "I'll stay here until June.",
+        "In a small apartment downtown."
+      ],
+      "correcta": 1,
+      "explicacion": "“How long” pide una duración. “In a small apartment downtown” responde a “where” e “I'll stay here until June” habla del futuro."
+    },
+    {
+      "id": "lr21",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "The copier's jammed again.",
+      "opciones": [
+        "I'd like some jam, please.",
+        "Again? I'll call the repair service.",
+        "The traffic was terrible today.",
+        "Can you make two copies for me?"
+      ],
+      "correcta": 1,
+      "explicacion": "Es una queja sobre una máquina atascada y la respuesta propone una solución. “Jam” suena como “jammed”, pero significa mermelada: es una trampa de sonido."
+    },
+    {
+      "id": "lr22",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Are you going to Sara's party on Saturday?",
+      "opciones": [
+        "I have to work that night, unfortunately.",
+        "She's going on Saturday.",
+        "It was a great party.",
+        "At her apartment, I think."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta indirecta: decir que tiene que trabajar significa que no irá. “It was a great party” está en pasado y “At her apartment” responde a “where”."
+    },
+    {
+      "id": "lr23",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Who's in charge of booking the meeting room?",
+      "opciones": [
+        "It's on the third floor.",
+        "I booked a flight home.",
+        "I charged my phone last night.",
+        "I think Daniel handles that."
+      ],
+      "correcta": 3,
+      "explicacion": "“Who” pide una persona. “I booked a flight” e “I charged my phone” repiten palabras del audio (“booking”, “charge”) con otro sentido."
+    },
+    {
+      "id": "lr24",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Should I bring anything to the dinner?",
+      "opciones": [
+        "I brought it yesterday.",
+        "Dinner is at seven.",
+        "Maybe some dessert, if you have time.",
+        "She'll bring her brother."
+      ],
+      "correcta": 2,
+      "explicacion": "Le preguntan qué llevar, y la respuesta sugiere algo concreto. “Dinner is at seven” responde a “when” e “I brought it yesterday” está en pasado."
+    },
+    {
+      "id": "lr25",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Excuse me, is this the line for tickets?",
+      "opciones": [
+        "Yes, I bought two tickets.",
+        "The show starts at eight.",
+        "The tickets cost twenty dollars.",
+        "No, this one's for information. Tickets are over there."
+      ],
+      "correcta": 3,
+      "explicacion": "La persona pregunta si está en la fila correcta; la respuesta le dice que no y adónde ir. Las otras opciones repiten “tickets”, pero no dicen si es la fila."
+    },
+    {
+      "id": "lr26",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "I left my umbrella on the train.",
+      "opciones": [
+        "The train leaves at noon every day.",
+        "Thanks, I'll take it with me.",
+        "Oh no. You should call the lost and found.",
+        "Yes, I bought it last week."
+      ],
+      "correcta": 2,
+      "explicacion": "Es una mala noticia y la respuesta reacciona y da un consejo. “The train leaves at noon” repite “train” y confunde “left” (dejé) con “leave” (salir)."
+    },
+    {
+      "id": "lr27",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Can you show me how to use this machine?",
+      "opciones": [
+        "I'll show her tomorrow.",
+        "Sorry, I've never used it either.",
+        "It's a very old machine.",
+        "I used to live near here."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta indirecta: decir que nunca la ha usado significa que no puede enseñarle. “I used to live near here” repite “use” con otro sentido."
+    },
+    {
+      "id": "lr28",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "What did you think of the new manager?",
+      "opciones": [
+        "She seems friendly and well organized.",
+        "I think she starts on Monday.",
+        "He manages a small team.",
+        "I'm thinking of a new job."
+      ],
+      "correcta": 0,
+      "explicacion": "“What did you think of…?” pide una opinión. “I think she starts on Monday” empieza con “I think”, pero da una fecha, no una opinión."
+    },
+    {
+      "id": "lr29",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "I'm thinking about taking a cooking class.",
+      "opciones": [
+        "Great idea. I think you'd really enjoy it.",
+        "I'm taking the bus to class.",
+        "Thanks, it smells delicious.",
+        "The class is in Room twelve."
+      ],
+      "correcta": 0,
+      "explicacion": "La persona comparte un plan y la respuesta lo apoya. “I'm taking the bus to class” repite “taking” y “class” sin relación con el plan."
+    },
+    {
+      "id": "lr30",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Do you happen to have change for a twenty?",
+      "opciones": [
+        "Things change so fast these days.",
+        "I happened to see him there.",
+        "Twenty minutes, more or less.",
+        "Let me check. I might have two tens."
+      ],
+      "correcta": 3,
+      "explicacion": "Le piden cambio de un billete de veinte. Las demás opciones repiten “change”, “happen” o “twenty” con otro sentido."
+    },
+    {
+      "id": "lr31",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Could we move the meeting to Thursday?",
+      "opciones": [
+        "We moved here in June.",
+        "I'm out of the office on Thursday.",
+        "The meeting went really well.",
+        "On the second floor, I think."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta indirecta: decir que no estará el jueves significa que ese día no le sirve. “We moved here in June” usa “move” con otro sentido."
+    },
+    {
+      "id": "lr32",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Where can I find the cleaning supplies?",
+      "opciones": [
+        "I cleaned it this morning.",
+        "They're about five dollars each.",
+        "Check the cabinet under the sink.",
+        "I found my glasses there."
+      ],
+      "correcta": 2,
+      "explicacion": "“Where” pide un lugar. “They're about five dollars each” responde a “how much” e “I cleaned it this morning” repite “clean”."
+    },
+    {
+      "id": "lr33",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "How often do you go to the gym?",
+      "opciones": [
+        "It's just down the street.",
+        "I went there with my brother.",
+        "Three or four times a week, if I can.",
+        "For about an hour."
+      ],
+      "correcta": 2,
+      "explicacion": "“How often” pide una frecuencia. “For about an hour” responde a “how long” e “It's just down the street” responde a “where”."
+    },
+    {
+      "id": "lr34",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Isn't the store supposed to open at nine?",
+      "opciones": [
+        "I'll open it for you.",
+        "The sign says they changed their hours.",
+        "Yes, I bought nine of them.",
+        "I'm supposed to call my mom."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta indirecta: explica por qué la tienda todavía no está abierta. Las otras opciones repiten “open”, “nine” o “supposed to”."
+    },
+    {
+      "id": "lr35",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Let me pay for dinner this time.",
+      "opciones": [
+        "I'll pay attention next time.",
+        "It's time for dinner.",
+        "She paid with a credit card.",
+        "Thanks, but it's my turn. You paid last time."
+      ],
+      "correcta": 3,
+      "explicacion": "Es un ofrecimiento y la respuesta lo rechaza con amabilidad. “Pay attention” significa “prestar atención”: repite “pay” con otro sentido."
+    },
+    {
+      "id": "lr36",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Did you get my email about the schedule?",
+      "opciones": [
+        "I did. I'll reply this afternoon.",
+        "I got here around eight.",
+        "Yes, I sent it to her yesterday.",
+        "She emails me every day."
+      ],
+      "correcta": 0,
+      "explicacion": "Le preguntan si recibió el correo; “I did” lo confirma. “I got here around eight” usa “get” con el sentido de “llegar”."
+    },
+    {
+      "id": "lr37",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "Do you need a ride to the airport tomorrow?",
+      "opciones": [
+        "My flight arrived late.",
+        "I rode my bike yesterday.",
+        "The airport is really big.",
+        "That's kind, but my brother's taking me."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta indirecta: rechaza el ofrecimiento explicando que su hermano ya se encarga del traslado. “I rode my bike” repite “ride” con otro sentido."
+    },
+    {
+      "id": "lr38",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "Which bus goes to the university?",
+      "opciones": [
+        "Take the number nine. It stops right in front.",
+        "I went to the university last year.",
+        "It costs about two dollars.",
+        "Every fifteen minutes."
+      ],
+      "correcta": 0,
+      "explicacion": "“Which bus” pide cuál, y la respuesta lo identifica. “Every fifteen minutes” responde a “how often” y “about two dollars” responde a “how much”."
+    },
+    {
+      "id": "lr39",
+      "nivel": "B1",
+      "g": "f",
+      "enunciado": "I'm afraid I can't make it to practice tonight.",
+      "opciones": [
+        "Practice makes perfect, right?",
+        "Don't be afraid. The dog is friendly.",
+        "No problem. Thanks for letting me know.",
+        "I made it myself."
+      ],
+      "correcta": 2,
+      "explicacion": "“I'm afraid” aquí significa “lamentablemente”, no “tengo miedo”: la persona avisa que no irá. Lo natural es aceptar el aviso."
+    },
+    {
+      "id": "lr40",
+      "nivel": "B1",
+      "g": "m",
+      "enunciado": "How much is a ticket to the museum?",
+      "opciones": [
+        "It opens at ten.",
+        "Twelve dollars, but students pay less.",
+        "I've been there many times.",
+        "It's next to the park."
+      ],
+      "correcta": 1,
+      "explicacion": "“How much” pide un precio. “It opens at ten” responde a “when” e “It's next to the park” responde a “where”."
+    },
+    {
+      "id": "lr41",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "You haven't seen my phone charger anywhere, have you?",
+      "opciones": [
+        "No, I haven't charged it yet.",
+        "Did you check the outlet by the sofa?",
+        "I've seen that movie twice.",
+        "It's a really fast charger."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta indirecta: contesta con otra pregunta que sugiere dónde buscar. “I haven't charged it yet” repite “charge” y no ayuda a encontrar el cargador."
+    },
+    {
+      "id": "lr42",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "I was wondering if you could cover my shift on Friday.",
+      "opciones": [
+        "I wonder what the weather will be like.",
+        "They covered the story on the news.",
+        "I'd like to, but I'm already working a double that day.",
+        "Friday's shift was pretty slow."
+      ],
+      "correcta": 2,
+      "explicacion": "“I was wondering if you could…” es un pedido muy cortés; la respuesta lo rechaza con un motivo. Las otras opciones repiten “wonder”, “cover” y “shift” con otro sentido."
+    },
+    {
+      "id": "lr43",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Weren't you supposed to submit that application yesterday?",
+      "opciones": [
+        "They extended the deadline until next week.",
+        "Yes, I'm supposed to be there at five.",
+        "The form is only two pages long.",
+        "I'll apply for a passport, too."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta indirecta: explica por qué todavía no la ha entregado. “I'm supposed to be there at five” repite “supposed to”, pero habla de otra cosa."
+    },
+    {
+      "id": "lr44",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "That presentation went on way too long.",
+      "opciones": [
+        "It's a long way from here.",
+        "I'll present it on Monday.",
+        "Sure, I'll tell you about it later.",
+        "Tell me about it. I nearly fell asleep."
+      ],
+      "correcta": 3,
+      "explicacion": "“Tell me about it” es un modismo que significa “ni me lo diga, estoy de acuerdo”. “Sure, I'll tell you about it later” toma la expresión al pie de la letra."
+    },
+    {
+      "id": "lr45",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Do you think we should hire more staff for the summer?",
+      "opciones": [
+        "Only if sales keep growing like last year.",
+        "We hired her last summer.",
+        "I think the staff room is upstairs.",
+        "The summer was hotter than usual."
+      ],
+      "correcta": 0,
+      "explicacion": "Le piden una opinión y la respuesta la da con una condición: sí, pero solo si las ventas siguen creciendo. “I think the staff room is upstairs” repite “think” y “staff”."
+    },
+    {
+      "id": "lr46",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "I'm having trouble logging in to the course website.",
+      "opciones": [
+        "The course starts next month.",
+        "I logged my hours yesterday.",
+        "Try resetting your password. That worked for me.",
+        "It's a well-designed website."
+      ],
+      "correcta": 2,
+      "explicacion": "La persona cuenta un problema y la respuesta ofrece una solución. “I logged my hours” repite “log” con otro sentido."
+    },
+    {
+      "id": "lr47",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Have you decided which apartment you're going to rent?",
+      "opciones": [
+        "I rented a car last weekend.",
+        "Yes, I decided to go next week.",
+        "The rent is due on the first.",
+        "I'm still waiting to hear back from one of the landlords."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta indirecta: decir que aún espera una respuesta significa que no ha decidido. “Yes, I decided to go next week” repite “decide”, pero no dice nada del apartamento."
+    },
+    {
+      "id": "lr48",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "Sorry, could you repeat the last part?",
+      "opciones": [
+        "I'll be there for the last part.",
+        "Sure. I said the deadline's been moved to Friday.",
+        "Yes, it's the last chapter of the book.",
+        "I'm sorry too. It was my fault."
+      ],
+      "correcta": 1,
+      "explicacion": "Le piden que repita algo, y la respuesta lo hace. “I'm sorry too” toma “Sorry” como disculpa, cuando aquí solo introduce el pedido."
+    },
+    {
+      "id": "lr49",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Mind if I open a window? It's stuffy in here.",
+      "opciones": [
+        "The window faces the parking lot.",
+        "I opened a new account last week.",
+        "Sure, I'll ask him if he minds.",
+        "Go ahead. I was about to ask the same thing."
+      ],
+      "correcta": 3,
+      "explicacion": "“Mind if I…?” pide permiso y “Go ahead” lo concede. “I'll ask him if he minds” cambia de persona: el permiso se lo piden a usted."
+    },
+    {
+      "id": "lr50",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "I heard they're closing the café on the first floor.",
+      "opciones": [
+        "It's close to the elevator.",
+        "Really? Where are we supposed to get coffee now?",
+        "I heard you the first time.",
+        "I'd like a coffee with milk, please."
+      ],
+      "correcta": 1,
+      "explicacion": "Es una noticia y la respuesta reacciona con sorpresa. “It's close to the elevator” confunde “closing” (cerrar) con “close” (cerca)."
+    },
+    {
+      "id": "lr51",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Who's going to take notes at the meeting today?",
+      "opciones": [
+        "Isn't it Kevin's turn this week?",
+        "I took notes in every class.",
+        "The meeting went on for hours.",
+        "In the conference room downstairs."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta indirecta con pregunta: sugiere que le toca a Kevin. “In the conference room downstairs” responde a “where” e “I took notes in every class” habla del pasado."
+    },
+    {
+      "id": "lr52",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "I'm not sure this color works for the living room.",
+      "opciones": [
+        "It worked fine yesterday.",
+        "The living room is bigger than the kitchen.",
+        "Maybe we could try something a little lighter.",
+        "I'm sure he'll be here soon."
+      ],
+      "correcta": 2,
+      "explicacion": "La persona duda del color, y la respuesta propone otra opción. “It worked fine yesterday” toma “works” como “funcionar”, como si se tratara de una máquina."
+    },
+    {
+      "id": "lr53",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "How did your job interview go?",
+      "opciones": [
+        "I went by train.",
+        "It's at two tomorrow.",
+        "Better than I expected. They want a second meeting.",
+        "I interviewed three people."
+      ],
+      "correcta": 2,
+      "explicacion": "“How did… go?” pregunta cómo le fue, no cómo viajó. “I went by train” toma “go” literalmente e “It's at two tomorrow” habla del futuro."
+    },
+    {
+      "id": "lr54",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "Would you rather eat in or go out tonight?",
+      "opciones": [
+        "I'm pretty tired, so let's just order something.",
+        "Yes, I'd rather.",
+        "I went out with my cousins on Friday.",
+        "The restaurant opened last spring."
+      ],
+      "correcta": 0,
+      "explicacion": "Es una pregunta de elección y la respuesta elige, de forma indirecta, quedarse en casa y pedir comida. Un “Yes” no sirve cuando se ofrecen dos opciones con “or”."
+    },
+    {
+      "id": "lr55",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "The forecast says it might snow this weekend.",
+      "opciones": [
+        "I'll show you how it works.",
+        "Then maybe we should postpone the hiking trip.",
+        "I might be a little late, sorry.",
+        "Last weekend went by really fast."
+      ],
+      "correcta": 1,
+      "explicacion": "La persona da una información y la respuesta saca una consecuencia lógica. “Show” suena parecido a “snow”, e “I might be a little late” repite “might”."
+    },
+    {
+      "id": "lr56",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "You look like you've got a lot on your plate.",
+      "opciones": [
+        "I'm not very hungry, actually.",
+        "Thanks, I like it a lot.",
+        "It's a plate my aunt gave me.",
+        "I do. Three deadlines this week alone."
+      ],
+      "correcta": 3,
+      "explicacion": "“A lot on your plate” significa tener muchas responsabilidades. “I'm not very hungry” y “a plate my aunt gave me” toman la expresión al pie de la letra."
+    },
+    {
+      "id": "lr57",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Is the parking lot behind the building still closed?",
+      "opciones": [
+        "Yes, the building is very old.",
+        "There were workers there when I came in this morning.",
+        "I'll close it before I leave.",
+        "It costs five dollars an hour."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta indirecta: que hubiera obreros sugiere que sigue cerrado. “Yes, the building is very old” empieza con “Yes”, pero habla del edificio."
+    },
+    {
+      "id": "lr58",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "I just found out I got the scholarship!",
+      "opciones": [
+        "Where did you find it?",
+        "I'll find out tomorrow.",
+        "The scholarship office closes at four.",
+        "That's wonderful news! You really deserve it."
+      ],
+      "correcta": 3,
+      "explicacion": "Es una buena noticia y la respuesta felicita. “Find out” significa “enterarse”; “Where did you find it?” lo confunde con “encontrar”."
+    },
+    {
+      "id": "lr59",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Could you take a look at my essay before I hand it in?",
+      "opciones": [
+        "I handed it in yesterday.",
+        "It looks like rain.",
+        "I can, but not until tomorrow morning.",
+        "I took a look at the menu."
+      ],
+      "correcta": 2,
+      "explicacion": "Es un pedido y la respuesta lo acepta con una condición. “I handed it in yesterday” cambia de persona: el ensayo es de quien habla."
+    },
+    {
+      "id": "lr60",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "Do you know why the train's been delayed?",
+      "opciones": [
+        "Something about a signal problem, I think.",
+        "About twenty minutes, they said.",
+        "Yes, I take it every day.",
+        "I'll train for the race."
+      ],
+      "correcta": 0,
+      "explicacion": "Le preguntan el motivo del retraso. “About twenty minutes” responde a “how long” y “Yes, I take it every day” no explica nada."
+    },
+    {
+      "id": "lr61",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "I'm thinking of switching to the evening class.",
+      "opciones": [
+        "Wouldn't that be hard with your work schedule?",
+        "I switched off the lights.",
+        "The evening was lovely.",
+        "It's a classic movie."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta indirecta: con una pregunta, expresa una preocupación por el plan. “I switched off the lights” repite “switch” con otro sentido."
+    },
+    {
+      "id": "lr62",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "We're running low on coffee in the break room.",
+      "opciones": [
+        "I run every morning before work.",
+        "I'll pick some up on my way in tomorrow.",
+        "The break room is on the third floor.",
+        "I'll take a short break, then."
+      ],
+      "correcta": 1,
+      "explicacion": "“Running low on” significa que algo se está acabando; la respuesta ofrece comprar más. “I run every morning” toma “run” literalmente."
+    },
+    {
+      "id": "lr63",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Are you coming to the team dinner, or do you have plans?",
+      "opciones": [
+        "The team played really well.",
+        "I planned it last month.",
+        "Dinner was at eight.",
+        "I'll be there, but I might be a little late."
+      ],
+      "correcta": 3,
+      "explicacion": "Es una pregunta de elección y la respuesta elige ir. Las otras opciones repiten “team”, “plans” o “dinner” sin decir si irá."
+    },
+    {
+      "id": "lr64",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "The elevator's out of order again.",
+      "opciones": [
+        "I ordered it online.",
+        "In alphabetical order, please.",
+        "Seriously? I guess we're taking the stairs.",
+        "I'd like to order the soup."
+      ],
+      "correcta": 2,
+      "explicacion": "“Out of order” significa “descompuesto”; la respuesta reacciona y busca otra salida. “I ordered it online” y “order the soup” repiten “order” con otro sentido."
+    },
+    {
+      "id": "lr65",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Do you want me to save you a seat?",
+      "opciones": [
+        "I saved some money last year.",
+        "The seats are very comfortable.",
+        "She wants to sit by the window.",
+        "That'd be great. I'm running a few minutes late."
+      ],
+      "correcta": 3,
+      "explicacion": "Es un ofrecimiento y la respuesta lo acepta con un motivo. “I saved some money” usa “save” con el sentido de “ahorrar”."
+    },
+    {
+      "id": "lr66",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "Have you heard back from the bank about the loan?",
+      "opciones": [
+        "I'll lend you some money.",
+        "The bank closes at five.",
+        "Not yet. They said it could take another week.",
+        "I heard it on the radio."
+      ],
+      "correcta": 2,
+      "explicacion": "Le preguntan si el banco ya respondió y “Not yet” lo contesta. “I heard it on the radio” repite “heard” e “I'll lend you some money” juega con “loan”."
+    },
+    {
+      "id": "lr67",
+      "nivel": "B2",
+      "g": "f",
+      "enunciado": "Do you mind if I bring a friend to the party?",
+      "opciones": [
+        "Not at all. The more, the merrier.",
+        "My friend brought a cake.",
+        "The party was a lot of fun.",
+        "I don't mind the loud music."
+      ],
+      "correcta": 0,
+      "explicacion": "“Not at all” concede el permiso y “the more, the merrier” significa “entre más, mejor”. “I don't mind the loud music” empieza parecido, pero habla de otra cosa."
+    },
+    {
+      "id": "lr68",
+      "nivel": "B2",
+      "g": "m",
+      "enunciado": "I'm sorry, but I think you're in my seat.",
+      "opciones": [
+        "I'm sorry to hear that.",
+        "Oh, I'm so sorry. Let me check my ticket.",
+        "Yes, I sat there last time.",
+        "I'll think about it."
+      ],
+      "correcta": 1,
+      "explicacion": "Es un reclamo cortés y la respuesta se disculpa y revisa el boleto. “I'm sorry to hear that” se usa ante una mala noticia, no ante este reclamo."
+    },
+    {
+      "id": "lr69",
+      "nivel": "C1",
+      "g": "f",
+      "enunciado": "So, are you still up for the hike on Saturday?",
+      "opciones": [
+        "I hiked that trail last summer.",
+        "I'm still up to chapter four.",
+        "Count me in, as long as it doesn't pour.",
+        "Prices went up again, didn't they?"
+      ],
+      "correcta": 2,
+      "explicacion": "“Be up for something” significa tener ganas de hacerlo, y “Count me in” confirma que irá. “Up to chapter four” repite “up” con otro sentido."
+    },
+    {
+      "id": "lr70",
+      "nivel": "C1",
+      "g": "m",
+      "enunciado": "I'm afraid the budget won't stretch to a new laptop this year.",
+      "opciones": [
+        "I stretch for ten minutes every morning.",
+        "Don't be afraid. It's just a meeting.",
+        "The new laptop is lighter than mine.",
+        "Then I'll have to make do with the old one a bit longer."
+      ],
+      "correcta": 3,
+      "explicacion": "“Won't stretch to” significa que el dinero no alcanza, y “make do with” significa arreglárselas con lo que hay. Las otras opciones toman “stretch” y “afraid” al pie de la letra."
+    },
+    {
+      "id": "lr71",
+      "nivel": "C1",
+      "g": "f",
+      "enunciado": "Let's touch base after the client call.",
+      "opciones": [
+        "I touched the screen, but nothing happened.",
+        "Sounds good. I'll swing by your office around three.",
+        "The base of the lamp is broken.",
+        "The client called yesterday."
+      ],
+      "correcta": 1,
+      "explicacion": "“Touch base” significa hablar brevemente para ponerse al día; la respuesta acepta y propone un momento. Las demás opciones toman “touch” y “base” literalmente."
+    },
+    {
+      "id": "lr72",
+      "nivel": "C1",
+      "g": "m",
+      "enunciado": "I could've sworn I left my notes on this desk.",
+      "opciones": [
+        "The cleaners came through about an hour ago.",
+        "I swear I'll be on time tomorrow.",
+        "The desk is made of solid oak.",
+        "I left the office early, too."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta indirecta: sugiere que el personal de limpieza pudo haber movido las notas. “I could've sworn” significa “estaba seguro”; “I swear I'll be on time” solo repite el verbo."
+    },
+    {
+      "id": "lr73",
+      "nivel": "C1",
+      "g": "f",
+      "enunciado": "Correct me if I'm wrong, but wasn't the report due today?",
+      "opciones": [
+        "You're wrong. It's due today.",
+        "You're right, but Karen gave us until Monday.",
+        "I corrected all the mistakes.",
+        "The report was really long."
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta confirma el dato y añade información nueva. “You're wrong. It's due today” se contradice: dice que se equivoca y repite lo mismo que él dijo."
+    },
+    {
+      "id": "lr74",
+      "nivel": "C1",
+      "g": "m",
+      "enunciado": "Something tells me the new policy isn't going down well.",
+      "opciones": [
+        "You can say that again. Half the team has complained already.",
+        "It went down to ten degrees last night.",
+        "I'll tell them about the policy.",
+        "Something's wrong with my phone."
+      ],
+      "correcta": 0,
+      "explicacion": "“Go down well” significa ser bien recibido, y “You can say that again” expresa acuerdo total. “It went down to ten degrees” toma “go down” literalmente."
+    },
+    {
+      "id": "lr75",
+      "nivel": "C1",
+      "g": "f",
+      "enunciado": "I wouldn't count on the shipment arriving before Friday.",
+      "opciones": [
+        "I counted the boxes twice.",
+        "The shipment arrived on Friday.",
+        "In that case, we'd better warn the client now.",
+        "I'd love to come on Friday."
+      ],
+      "correcta": 2,
+      "explicacion": "“I wouldn't count on it” significa “no confíe en que pase”, y la respuesta saca la consecuencia. “I counted the boxes” toma “count” como “contar”."
+    },
+    {
+      "id": "lr76",
+      "nivel": "C1",
+      "g": "m",
+      "enunciado": "You couldn't give me a hand with these files, could you?",
+      "opciones": [
+        "I gave him the files yesterday.",
+        "My hands are freezing.",
+        "No, I couldn't find them either.",
+        "I'm on a call in five minutes, but after that, sure."
+      ],
+      "correcta": 3,
+      "explicacion": "Es un pedido de ayuda muy cortés y la respuesta acepta para un poco después. “Give me a hand” significa “ayudarme”; “I couldn't find them either” responde a otra pregunta."
+    },
+    {
+      "id": "lr77",
+      "nivel": "C1",
+      "g": "f",
+      "enunciado": "Funny running into you here! Is this your neighborhood?",
+      "opciones": [
+        "Not really. I'm just meeting a friend nearby.",
+        "I ran out of milk this morning.",
+        "Yes, it was really funny.",
+        "The neighbors moved in last week."
+      ],
+      "correcta": 0,
+      "explicacion": "“Run into someone” significa encontrárselo por casualidad, y la pregunta es si vive en esa zona. “I ran out of milk” repite “run” con otro sentido."
+    },
+    {
+      "id": "lr78",
+      "nivel": "C1",
+      "g": "m",
+      "enunciado": "I'd hold off on booking the flights for now.",
+      "opciones": [
+        "I've already booked a table for four.",
+        "Hold on, I'll get a pen.",
+        "The flight was right on time.",
+        "Why? Do you think prices are going to drop?"
+      ],
+      "correcta": 3,
+      "explicacion": "“Hold off on” significa esperar antes de hacer algo, y lo natural es preguntar por qué. “Hold on” y “booked a table” repiten palabras con otro sentido."
+    },
+    {
+      "id": "lr79",
+      "nivel": "C1",
+      "g": "f",
+      "enunciado": "Between you and me, I don't think Ricardo's proposal will fly.",
+      "opciones": [
+        "He's flying to Toronto next week.",
+        "Sure, I'll sit between you two.",
+        "I have my doubts too. The numbers just don't add up.",
+        "I'll propose it at the meeting."
+      ],
+      "correcta": 2,
+      "explicacion": "Aquí “fly” significa funcionar o ser aprobado, y “between you and me” significa “en confianza”. Las otras opciones toman “fly” y “between” literalmente."
+    },
+    {
+      "id": "lr80",
+      "nivel": "C1",
+      "g": "m",
+      "enunciado": "Didn't I tell you the workshop had been canceled?",
+      "opciones": [
+        "I'll tell you when it's canceled.",
+        "If you did, it must have slipped my mind.",
+        "The workshop was really useful.",
+        "I canceled my subscription."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta indirecta: “it slipped my mind” significa “se me olvidó”, una forma cortés de reconocer el aviso. “The workshop was really useful” contradice que se canceló."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"
+  role="img" aria-label="Inglés Latinoamérica">
+  <!--
+    EL ÍCONO DE PESTAÑA, CON EL LOGO OFICIAL (1-sep).
+
+    NO ESTÁ DIBUJADO A MANO: los cuatro trazos de abajo salen tal cual de
+    `marca/simbolo.svg`, que a su vez se extrajo de `marca/logo-oficial.pdf`.
+    Antes acá vivía una reproducción hecha a ojo —círculo azul con "iL" y
+    "INGLÉS / LATAM"— que no era el logo. Si el logo cambia, se vuelve a
+    extraer del PDF; no se retoca acá.
+
+    DOS DECISIONES DE TAMAÑO CHICO, que es donde se juega un ícono:
+
+    1. Va sobre un CUADRADO AZUL con el símbolo en BLANCO, y no el símbolo
+       azul sobre nada como en el logo grande. Una pestaña puede ser blanca o
+       negra según el tema del navegador, y un símbolo azul marino desaparece
+       contra el oscuro. El cuadrado le pone su propio fondo y se ve igual en
+       los dos.
+    2. El PUNTO SE QUEDA DORADO. Es lo único que distingue esta marca a 16 px:
+       el resto del símbolo se vuelve una mancha, y el punto es lo que se
+       reconoce. Pintarlo blanco como el resto lo borraría.
+
+    Los colores son los del archivo (`marca/LEEME.md`): azul marino #123C63
+    y dorado #C9A227. El logo no se tiñe con el verde del panel.
+  -->
+  <rect width="512" height="512" rx="112" fill="#123C63"/>
+
+  <!--
+    El símbolo mide 150.72 × 194.84 y arranca en (37.24, 210.65) — es el
+    viewBox de `marca/simbolo.svg`. Se lleva al origen, se escala al 66% del
+    alto del ícono (deja aire alrededor para que no toque las esquinas
+    redondeadas) y se centra.
+  -->
+  <g transform="translate(125.2 87) scale(1.735) translate(-37.24 -210.65)">
+    <path transform="matrix(.75,0,0,.75,37.237504,210.6525)" d="M0 0H63.14C62.18 11.38 61.54 23.4 60.42 34.78 73.56 29.01 86.38 22.44 99.68 16.83 106.73 21.16 116.67 26.45 123.88 30.61 119.71 34.46 116.83 37.5 114.58 42.95 111.38 50.48 111.54 59.14 114.75 66.83 117.79 73.72 123.4 79.17 130.45 81.89 137.66 84.78 146.48 84.46 153.53 81.25 162.18 77.25 166.35 70.84 169.55 62.34 179.17 66.03 191.51 71.96 200.96 76.13 189.59 91.51 177.41 106.57 165.71 121.8 159.62 129.65 153.21 137.34 147.44 145.52V152.09 180.93C143.75 185.9 136.7 192.95 132.53 198.08 122.76 209.62 112.82 221.32 102.73 232.54 102.57 198.4 102.57 164.27 102.73 130.13 111.38 121.8 120.35 112.34 128.69 103.69 125 100.32 112.02 91.83 106.89 88.3L83.17 71.48C79.01 68.59 73.4 64.27 69.23 61.86 60.9 61.86 52.4 61.86 44.07 61.7 34.3 48.56 24.68 34.46 15.22 21.16 10.26 13.94 4.97 7.05 0 0Z" fill="#ffffff"/>
+    <path transform="matrix(.75,0,0,.75,0,0)" d="M98.53 412.28C109.75 411.96 123.05 412.28 134.27 412.28L134.43 540.65 98.53 540.49V412.28Z" fill="#ffffff"/>
+    <path transform="matrix(.75,0,0,.75,74.0175,273.8775)" d="M0 0C11.22-.32 24.36-.16 35.74 0 35.74 9.13 35.58 18.11 35.42 27.08 25.8 27.72 10.1 27.24 .16 27.24 0 18.43-.16 8.65 0 0Z" fill="#ffffff"/>
+    <path transform="matrix(.75,0,0,.75,140.7225,236.97751)" d="M0 0C10.9-1.92 21.16 5.45 22.92 16.19 24.84 26.92 17.47 37.18 6.73 38.94-4 40.7-14.1 33.49-15.86 22.76-17.79 12.18-10.57 1.92 0 0Z" fill="#C9A227"/>
+  </g>
+</svg>

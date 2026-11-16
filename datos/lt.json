@@ -1,0 +1,818 @@
+{
+  "tipo": "lt",
+  "items": [
+    {
+      "id": "lt01",
+      "nivel": "B1",
+      "escena": "Listen to part of a talk in a biology class.",
+      "guion": [
+        { "h": "Professor", "g": "f", "t": "Today I want to talk about a kind of camouflage that you've probably seen many times without noticing it. It's called countershading." },
+        { "h": "Professor", "g": "f", "t": "Here's the idea. Many animals are darker on their backs and lighter on their bellies. Why would that help? Well, think about light in nature. Sunlight usually comes from above. So the top of an animal's body is bright, and the bottom is in shadow." },
+        { "h": "Professor", "g": "f", "t": "Now, if an animal were all one color, that shadow underneath would make it look round and solid, which makes it easier to spot. But a darker back and a lighter belly balance out the light and the shadow. The animal looks flatter, and it blends into the background." },
+        { "h": "Professor", "g": "f", "t": "A great example is the penguin. When a penguin is swimming, a predator looking down from above sees its dark back against the dark, deep water. But a predator looking up from below sees its white belly against the bright surface. So the penguin is hard to see from either direction." },
+        { "h": "Professor", "g": "f", "t": "So countershading hides an animal's shape and helps it match the background. Next time, we'll look at animals that do the opposite and try to stand out." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the talk mainly about?",
+          "opciones": [
+            "A type of coloring that helps animals avoid being seen",
+            "How penguins hunt in deep water",
+            "Why some animals use bright colors to stand out",
+            "How sunlight affects the body temperature of animals"
+          ],
+          "correcta": 0,
+          "explicacion": "La profesora presenta el countershading como “a kind of camouflage” y explica cómo ayuda a que los animales no se vean. Los animales que llaman la atención son el tema de la próxima clase, no de esta."
+        },
+        {
+          "enunciado": "According to the professor, why is an animal that is all one color easier to spot?",
+          "opciones": [
+            "Its color does not match any background.",
+            "Its body reflects too much sunlight.",
+            "The shadow under its body makes it look round and solid.",
+            "Predators can see its back from below."
+          ],
+          "correcta": 2,
+          "explicacion": "Según la profesora, “that shadow underneath would make it look round and solid, which makes it easier to spot”. No dice que el animal refleje demasiada luz."
+        },
+        {
+          "enunciado": "Why does the professor mention the penguin?",
+          "opciones": [
+            "To give an example of an animal that does not use camouflage",
+            "To show how countershading works when seen from above and from below",
+            "To explain how predators find food in the ocean",
+            "To compare animals that live on land with animals that live in water"
+          ],
+          "correcta": 1,
+          "explicacion": "El pingüino ilustra cómo funciona desde arriba (espalda oscura contra el agua profunda) y desde abajo (vientre blanco contra la superficie brillante): “hard to see from either direction”."
+        },
+        {
+          "enunciado": "What will the professor probably discuss in the next class?",
+          "opciones": [
+            "More examples of birds that swim",
+            "How light travels through water",
+            "Animals that change color with the seasons",
+            "Animals whose colors make them easy to notice"
+          ],
+          "correcta": 3,
+          "explicacion": "Al cerrar dice “Next time, we'll look at animals that do the opposite and try to stand out”, es decir, animales cuyos colores los hacen notarse."
+        }
+      ]
+    },
+    {
+      "id": "lt02",
+      "nivel": "A2",
+      "escena": "Listen to part of a talk in an astronomy class.",
+      "guion": [
+        { "h": "Professor", "g": "m", "t": "Today's question is a simple one. Why does the Moon seem to change its shape during the month?" },
+        { "h": "Professor", "g": "m", "t": "First, remember that the Moon doesn't make its own light. It's like a mirror. The light we see is sunlight that bounces off it." },
+        { "h": "Professor", "g": "m", "t": "At every moment, the Sun lights up half of the Moon. The other half is dark. But as the Moon travels around the Earth, we see different amounts of the bright half." },
+        { "h": "Professor", "g": "m", "t": "Let me give you an example. When the Moon is between the Earth and the Sun, the bright side faces away from us, so we see almost nothing. That's called a new moon. About two weeks later, the Moon is on the other side of the Earth. Now the whole bright side faces us, and we see a full moon." },
+        { "h": "Professor", "g": "m", "t": "So the Moon isn't really changing shape. Only our view of it changes. The whole cycle, from one new moon to the next, takes about a month. Tonight, look at the sky and see which phase you can find." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the talk mainly about?",
+          "opciones": [
+            "How the Moon makes its own light",
+            "Why the Moon seems to change shape",
+            "How long it takes the Earth to go around the Sun",
+            "Why the Moon is closer to the Earth in some months"
+          ],
+          "correcta": 1,
+          "explicacion": "Desde el inicio la pregunta es “Why does the Moon seem to change its shape during the month?”, y todo lo demás responde a eso."
+        },
+        {
+          "enunciado": "According to the professor, where does the light of the Moon come from?",
+          "opciones": [
+            "From gases on the Moon's surface",
+            "From the stars near the Moon",
+            "From the Moon's own heat",
+            "From the Sun"
+          ],
+          "correcta": 3,
+          "explicacion": "El profesor dice “The light we see is sunlight that bounces off it”: la Luna refleja la luz del Sol y no produce luz propia."
+        },
+        {
+          "enunciado": "Why does the professor describe the Moon when it is between the Earth and the Sun?",
+          "opciones": [
+            "To explain why we see a new moon",
+            "To show how the Moon blocks the Sun's light",
+            "To explain how the Moon makes its own light",
+            "To explain why a full moon is so bright"
+          ],
+          "correcta": 0,
+          "explicacion": "En esa posición “the bright side faces away from us, so we see almost nothing. That's called a new moon”. El profesor no habla de eclipses."
+        },
+        {
+          "enunciado": "How does the professor explain the phases of the Moon?",
+          "opciones": [
+            "By comparing the Moon with other planets",
+            "By telling a story about early astronomers",
+            "By comparing the Moon to a mirror and describing two of its positions",
+            "By showing that the Moon's shape really changes during the month"
+          ],
+          "correcta": 2,
+          "explicacion": "Primero usa una comparación (“It's like a mirror”) y después da el ejemplo de dos posiciones: luna nueva y luna llena. Además aclara que la forma de la Luna no cambia de verdad."
+        }
+      ]
+    },
+    {
+      "id": "lt03",
+      "nivel": "B2",
+      "escena": "Listen to part of a lecture in a geology class.",
+      "guion": [
+        { "h": "Professor", "g": "f", "t": "Last week we looked at rocks that are worn away by wind and moving water. Today I want to look at a slower, quieter process, one that happens mostly underground: the formation of limestone caves." },
+        { "h": "Professor", "g": "f", "t": "Limestone is made mostly of a mineral called calcite. Calcite doesn't dissolve much in pure water, but rainwater isn't pure. As it falls, and especially as it soaks through soil, it picks up carbon dioxide. That turns it into a weak acid, called carbonic acid." },
+        { "h": "Professor", "g": "f", "t": "When this slightly acidic water seeps into cracks in limestone, it slowly dissolves the rock. Over thousands of years, small cracks widen into passages, and passages can grow into huge underground rooms." },
+        { "h": "Professor", "g": "f", "t": "Now, the same chemistry also works in reverse. Take stalactites, those icicle-shaped formations hanging from cave ceilings. When a drop of water reaches the open air of a cave, it releases some of its carbon dioxide. It can't hold as much calcite anymore, so it leaves a tiny ring of mineral behind. Drop after drop, that ring grows downward into a stalactite." },
+        { "h": "Professor", "g": "f", "t": "So the same water that carves out a cave also decorates it. Keep that in mind for Thursday's lab, when we'll test how acids react with different rock samples." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the lecture mainly about?",
+          "opciones": [
+            "How wind and water wear away rocks at the surface",
+            "Why limestone is a popular building material",
+            "How water both creates limestone caves and adds features to them",
+            "How scientists measure the age of caves"
+          ],
+          "correcta": 2,
+          "explicacion": "La profesora explica cómo el agua disuelve la caliza para formar cuevas y cómo la misma química construye estalactitas: “the same water that carves out a cave also decorates it”. El viento fue el tema de la semana pasada."
+        },
+        {
+          "enunciado": "According to the professor, what allows rainwater to dissolve limestone?",
+          "opciones": [
+            "It absorbs carbon dioxide and becomes slightly acidic.",
+            "It becomes warmer as it moves underground.",
+            "It picks up calcite as it falls through the air.",
+            "It moves quickly through large cracks."
+          ],
+          "correcta": 0,
+          "explicacion": "La lluvia “picks up carbon dioxide” y se convierte en “a weak acid, called carbonic acid”, que disuelve la caliza. El agua pura, en cambio, casi no la disuelve."
+        },
+        {
+          "enunciado": "Why does the professor mention stalactites?",
+          "opciones": [
+            "To show that caves form faster than most people think",
+            "To compare limestone with other kinds of rock",
+            "To explain why some caves eventually collapse",
+            "To show that the same chemical process can also build mineral formations"
+          ],
+          "correcta": 3,
+          "explicacion": "Las estalactitas muestran que “the same chemistry also works in reverse”: al soltar dióxido de carbono, la gota ya no puede retener tanta calcita y la deposita."
+        },
+        {
+          "enunciado": "How does the professor organize the information about caves?",
+          "opciones": [
+            "By comparing caves in different parts of the world",
+            "By explaining a process and then showing how it can work in reverse",
+            "By describing the history of cave exploration",
+            "By listing the steps of a laboratory experiment"
+          ],
+          "correcta": 1,
+          "explicacion": "Primero explica cómo el agua ácida disuelve la roca y luego dice “the same chemistry also works in reverse” para explicar cómo se forman las estalactitas."
+        }
+      ]
+    },
+    {
+      "id": "lt04",
+      "nivel": "B1",
+      "escena": "Listen to part of a talk in an art history class.",
+      "guion": [
+        { "h": "Professor", "g": "m", "t": "Today we're looking at a painting technique that was especially popular in Italy about five hundred years ago. It's called fresco, which comes from the Italian word for fresh." },
+        { "h": "Professor", "g": "m", "t": "In a fresco, the artist paints directly onto a wall covered with wet plaster. As the plaster dries, the paint becomes part of the wall itself. That's why frescoes can last for centuries." },
+        { "h": "Professor", "g": "m", "t": "But there's a catch. Once the plaster dries, the artist can't add more color in the same way. So painters had to plan carefully and work fast. Each morning, a worker spread fresh plaster on just the area the artist expected to finish that day." },
+        { "h": "Professor", "g": "m", "t": "And here's something interesting. If you look closely at some old frescoes, you can sometimes see faint lines where one day's section meets the next. Experts can use those lines to estimate how many days a painting took." },
+        { "h": "Professor", "g": "m", "t": "So fresco was demanding, but it gave artists colors that stayed bright for a very long time. Next, we'll compare it with painting on wooden panels." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the talk mainly about?",
+          "opciones": [
+            "The life of a famous Italian painter",
+            "How to repair old wall paintings",
+            "Why artists stopped painting on walls",
+            "A painting method that uses wet plaster"
+          ],
+          "correcta": 3,
+          "explicacion": "El tema es el fresco, una técnica en la que “the artist paints directly onto a wall covered with wet plaster”. No se habla de la vida de ningún pintor."
+        },
+        {
+          "enunciado": "Why did fresco painters have to work quickly?",
+          "opciones": [
+            "The paint lost its color in sunlight.",
+            "They could not add color in the same way after the plaster dried.",
+            "They had to finish the whole wall in one day.",
+            "Workers covered the entire wall with plaster every morning."
+          ],
+          "correcta": 1,
+          "explicacion": "“Once the plaster dries, the artist can't add more color in the same way”, por eso debían trabajar rápido. La trampa exagera: no pintaban toda la pared en un día, sino una sección por día."
+        },
+        {
+          "enunciado": "Why does the professor mention the faint lines in some frescoes?",
+          "opciones": [
+            "To show that many frescoes have been damaged",
+            "To explain why frescoes lose their color",
+            "To show how experts can tell how long a fresco took to paint",
+            "To point out a mistake that painters often made"
+          ],
+          "correcta": 2,
+          "explicacion": "Las líneas marcan dónde se une la sección de un día con la del siguiente, y “Experts can use those lines to estimate how many days a painting took”."
+        },
+        {
+          "enunciado": "What will the professor probably discuss next?",
+          "opciones": [
+            "Paintings made on wooden panels",
+            "How plaster is produced",
+            "Modern wall paintings in cities",
+            "Other Italian words used in art"
+          ],
+          "correcta": 0,
+          "explicacion": "Al final dice “Next, we'll compare it with painting on wooden panels”."
+        }
+      ]
+    },
+    {
+      "id": "lt05",
+      "nivel": "C1",
+      "escena": "Listen to part of a lecture in a psychology class.",
+      "guion": [
+        { "h": "Professor", "g": "f", "t": "Let me start with a question. If you had six hours to prepare for an exam, would you study for six hours the night before, or for one hour a day over six days? Most students say it doesn't matter, since the total time is the same. The research says otherwise." },
+        { "h": "Professor", "g": "f", "t": "This is known as the spacing effect. Spreading practice out over time generally leads to much better long-term memory than packing it into a single session. It was first described in the late eighteen hundreds by the German psychologist Hermann Ebbinghaus, who tested his own memory by learning long lists of nonsense syllables." },
+        { "h": "Professor", "g": "f", "t": "Ebbinghaus noticed that he needed fewer repetitions overall when he spread them across several days. Since then, the effect has been confirmed with all kinds of material, from foreign vocabulary to math problems." },
+        { "h": "Professor", "g": "f", "t": "So why does cramming feel so effective? Partly because, right after a long session, the material feels familiar, and that familiarity is easily mistaken for real learning. One widely accepted explanation is that, with spacing, you've partly forgotten the material by the next session, so you have to work to retrieve it. And it's precisely that effort that strengthens the memory." },
+        { "h": "Professor", "g": "f", "t": "Now, cramming isn't useless. It can get you through tomorrow's quiz. But if you'll need the material next semester, or in your career, spacing is by far the better investment." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the main topic of the lecture?",
+          "opciones": [
+            "The memory benefits of spreading study sessions over time",
+            "The life and career of Hermann Ebbinghaus",
+            "Why students forget material soon after an exam",
+            "How to memorize long lists of nonsense syllables"
+          ],
+          "correcta": 0,
+          "explicacion": "La conferencia trata del spacing effect: “Spreading practice out over time generally leads to much better long-term memory”. Ebbinghaus aparece solo como el origen de la idea."
+        },
+        {
+          "enunciado": "According to the professor, why does cramming often seem effective?",
+          "opciones": [
+            "It forces students to retrieve information with effort.",
+            "It allows students to study for more hours in total.",
+            "It works especially well for foreign vocabulary.",
+            "Recently studied material feels familiar, which can be mistaken for learning."
+          ],
+          "correcta": 3,
+          "explicacion": "Según la profesora, tras una sesión larga “the material feels familiar”, y esa familiaridad “is easily mistaken for real learning”. El esfuerzo por recordar ocurre con el estudio espaciado, no con el atracón."
+        },
+        {
+          "enunciado": "Why does the professor begin by asking about six hours of study?",
+          "opciones": [
+            "To find out how much time students usually spend studying",
+            "To suggest that six hours is the ideal amount of study time",
+            "To introduce a common belief that research contradicts",
+            "To explain how Ebbinghaus designed his experiments"
+          ],
+          "correcta": 2,
+          "explicacion": "La pregunta presenta lo que creen muchos estudiantes (que da igual porque el total de horas es el mismo) para luego decir “The research says otherwise”."
+        },
+        {
+          "enunciado": "What can be inferred about the professor's view of cramming?",
+          "opciones": [
+            "She believes it never helps students.",
+            "She thinks it has limited, short-term value.",
+            "She considers it better than spacing for difficult material.",
+            "She recommends it to students who are short on time."
+          ],
+          "correcta": 1,
+          "explicacion": "Ella dice “cramming isn't useless. It can get you through tomorrow's quiz”, pero que a largo plazo el espaciado es mucho mejor: le reconoce un valor limitado y de corto plazo, sin recomendarlo."
+        }
+      ]
+    },
+    {
+      "id": "lt06",
+      "nivel": "B2",
+      "escena": "Listen to part of a lecture in a history class.",
+      "guion": [
+        { "h": "Professor", "g": "m", "t": "When people think about the Industrial Revolution in Britain, they usually picture factories and steam engines. But before any of that could really take off, there was a more basic problem to solve: how to move heavy goods cheaply." },
+        { "h": "Professor", "g": "m", "t": "In the mid seventeen hundreds, most goods traveled by road, and the roads were terrible. They were muddy and full of holes, and in winter some became almost impossible to use. Moving something heavy, like coal, over land was slow and very expensive." },
+        { "h": "Professor", "g": "m", "t": "The solution was the canal. On water, a single horse walking along the bank could pull a boat carrying many times more weight than it could pull in a cart on a road. That made a huge difference to the cost of transport." },
+        { "h": "Professor", "g": "m", "t": "One of the best-known early examples is the Bridgewater Canal, which opened in the seventeen sixties. It was built to carry coal from the Duke of Bridgewater's mines to the growing city of Manchester. After it opened, the price of coal in Manchester dropped sharply." },
+        { "h": "Professor", "g": "m", "t": "Its success set off what's sometimes called canal mania, a period when investors rushed to build canals all over the country. Of course, within a few decades, a new technology, the railway, would begin to replace them. But we'll get to that next week." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the lecture mainly about?",
+          "opciones": [
+            "How steam engines changed British factories",
+            "The role canals played in moving goods in early industrial Britain",
+            "Why railways were better than canals",
+            "The life of the Duke of Bridgewater"
+          ],
+          "correcta": 1,
+          "explicacion": "El profesor explica que antes de las fábricas había que resolver “how to move heavy goods cheaply”, y que la solución fueron los canales. El ferrocarril queda para la próxima semana."
+        },
+        {
+          "enunciado": "According to the professor, what was the main advantage of canals?",
+          "opciones": [
+            "A horse could move much heavier loads on water than on a road.",
+            "Canals stayed open in winter, when roads were closed.",
+            "Boats traveled much faster than carts.",
+            "Canals connected factories directly to the sea."
+          ],
+          "correcta": 0,
+          "explicacion": "El profesor dice que “a single horse walking along the bank could pull a boat carrying many times more weight than it could pull in a cart on a road”. Nunca dice que los barcos fueran más rápidos."
+        },
+        {
+          "enunciado": "Why does the professor mention the Bridgewater Canal?",
+          "opciones": [
+            "To explain why canal building eventually stopped",
+            "To describe the design of early canal boats",
+            "To show that canals were built mainly for passengers",
+            "To give an example of a canal that lowered the cost of an important resource"
+          ],
+          "correcta": 3,
+          "explicacion": "El canal llevaba carbón a Manchester y, al abrirse, “the price of coal in Manchester dropped sharply”: es un ejemplo concreto de cómo los canales abarataron un recurso clave."
+        },
+        {
+          "enunciado": "What does the professor imply about railways?",
+          "opciones": [
+            "They were built before most canals.",
+            "They were too expensive to replace canals.",
+            "They eventually took over much of the work canals had done.",
+            "They were first used to carry coal to Manchester."
+          ],
+          "correcta": 2,
+          "explicacion": "Dice que “a new technology, the railway, would begin to replace them”: con el tiempo, el ferrocarril asumió buena parte del trabajo de los canales."
+        }
+      ]
+    },
+    {
+      "id": "lt07",
+      "nivel": "B1",
+      "escena": "Listen to part of a talk in an economics class.",
+      "guion": [
+        { "h": "Professor", "g": "f", "t": "Today's idea is one of the most important in economics, and you already use it every day. It's called opportunity cost." },
+        { "h": "Professor", "g": "f", "t": "Opportunity cost is the value of the best thing you give up when you make a choice. Because our time and money are limited, choosing one thing always means not choosing something else." },
+        { "h": "Professor", "g": "f", "t": "Let's look at an example. Imagine a student named Leo who has a free Saturday. He can work a shift at a restaurant and earn some money, or he can spend the day studying for a big exam. If he decides to study, the opportunity cost isn't just the hours. It's the money he would have earned at the restaurant." },
+        { "h": "Professor", "g": "f", "t": "Now notice something. Opportunity cost isn't only about money. If Leo goes to work instead, his opportunity cost might be a lower grade on the exam. And remember, it's the best alternative you give up, not every alternative." },
+        { "h": "Professor", "g": "f", "t": "So, the next time you make a decision, ask yourself two questions. What am I getting? And what am I giving up? Good decisions think about both." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the talk mainly about?",
+          "opciones": [
+            "How students can earn money on weekends",
+            "Why people should save more money",
+            "The idea that every choice involves giving something up",
+            "How restaurants decide how much to pay workers"
+          ],
+          "correcta": 2,
+          "explicacion": "La profesora define el costo de oportunidad: “choosing one thing always means not choosing something else”. Leo y el restaurante son solo el ejemplo."
+        },
+        {
+          "enunciado": "According to the professor, what is opportunity cost?",
+          "opciones": [
+            "The total price of everything a person buys",
+            "The value of the best alternative a person gives up",
+            "The money a person spends on education",
+            "The value of all the alternatives a person rejects"
+          ],
+          "correcta": 1,
+          "explicacion": "La definición es “the value of the best thing you give up”. La trampa de “todas las alternativas” la descarta ella misma: “not every alternative”."
+        },
+        {
+          "enunciado": "Why does the professor talk about a student named Leo?",
+          "opciones": [
+            "To show how opportunity cost works in a real decision",
+            "To prove that working is more valuable than studying",
+            "To explain why students get low grades",
+            "To describe a typical restaurant job"
+          ],
+          "correcta": 0,
+          "explicacion": "La historia de Leo muestra el concepto en una decisión concreta: si estudia, pierde el dinero del turno; si trabaja, quizá pierde una mejor nota."
+        },
+        {
+          "enunciado": "What does the professor suggest people do when they make decisions?",
+          "opciones": [
+            "Always choose the option that earns the most money",
+            "Avoid any choice that has an opportunity cost",
+            "Ask other people for advice",
+            "Think about both what they gain and what they lose"
+          ],
+          "correcta": 3,
+          "explicacion": "Al cierre recomienda preguntarse “What am I getting? And what am I giving up?”. Evitar todo costo de oportunidad es imposible según la misma charla."
+        }
+      ]
+    },
+    {
+      "id": "lt08",
+      "nivel": "B2",
+      "escena": "Listen to part of a lecture in an architecture class.",
+      "guion": [
+        { "h": "Professor", "g": "m", "t": "Long before air conditioning existed, people living in hot, dry regions found clever ways to keep buildings cool. Today I want to focus on one of the most elegant: the wind catcher." },
+        { "h": "Professor", "g": "m", "t": "A wind catcher is a tall tower that rises above the roof of a building, with openings near the top. Wind catchers have been used for centuries in parts of the Middle East, particularly in Iran, where some old cities are known for skylines full of these towers." },
+        { "h": "Professor", "g": "m", "t": "So how does it work? Basically, it does two jobs. First, the openings catch breezes blowing above the rooftops, where the air moves faster, and direct that air down into the rooms below. Second, when there's no wind, the tower can work like a chimney. Warm air inside the house rises and escapes through the top, pulling cooler air in from shaded courtyards or lower rooms." },
+        { "h": "Professor", "g": "m", "t": "Some designs went even further. In certain buildings, the air passed over a pool of water or an underground channel before entering the living space. As some of the water evaporated, the air became noticeably cooler." },
+        { "h": "Professor", "g": "m", "t": "Now, why should modern architects care? Because these towers cool buildings using no electricity at all, and a number of designers today are adapting the same principles for energy-efficient buildings." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the main topic of the lecture?",
+          "opciones": [
+            "The invention of modern air conditioning",
+            "The history of cities in the Middle East",
+            "Why buildings in hot regions have thick walls",
+            "How a traditional structure cools buildings without electricity"
+          ],
+          "correcta": 3,
+          "explicacion": "El profesor presenta el wind catcher como una forma de enfriar edificios sin aire acondicionado y concluye que “these towers cool buildings using no electricity at all”."
+        },
+        {
+          "enunciado": "According to the professor, how does a wind catcher work when there is no wind?",
+          "opciones": [
+            "It sends air over a pool of water.",
+            "It pushes warm air down into the rooms.",
+            "It lets warm air rise out of the top, which draws cooler air in.",
+            "It closes its openings to keep out the heat."
+          ],
+          "correcta": 2,
+          "explicacion": "Sin viento, la torre funciona como chimenea: “Warm air inside the house rises and escapes through the top, pulling cooler air in”. El agua es un recurso adicional de algunos diseños, no lo que pasa cuando no hay viento."
+        },
+        {
+          "enunciado": "Why does the professor mention pools of water and underground channels?",
+          "opciones": [
+            "To explain where people stored drinking water",
+            "To describe how some designs cooled the air even more",
+            "To show why wind catchers were built near rivers",
+            "To compare wind catchers with modern cooling systems"
+          ],
+          "correcta": 1,
+          "explicacion": "Los menciona como diseños que “went even further”: al pasar sobre el agua y evaporarla, “the air became noticeably cooler”."
+        },
+        {
+          "enunciado": "What can be inferred about the professor's opinion of wind catchers?",
+          "opciones": [
+            "He thinks they offer useful ideas for architects today.",
+            "He believes they work better than air conditioning in every climate.",
+            "He thinks they are too complicated to build today.",
+            "He considers them mainly decorative."
+          ],
+          "correcta": 0,
+          "explicacion": "Pregunta “why should modern architects care?” y responde que hoy se adaptan sus principios: los ve útiles. Nunca dice que superen al aire acondicionado en todos los climas."
+        }
+      ]
+    },
+    {
+      "id": "lt09",
+      "nivel": "A2",
+      "escena": "Listen to part of a talk in a music class.",
+      "guion": [
+        { "h": "Professor", "g": "f", "t": "Today we're going to answer a simple question. How can one guitar play so many different notes?" },
+        { "h": "Professor", "g": "f", "t": "When you pluck a string, it moves back and forth very quickly. We call this vibration. The speed of the vibration decides the pitch, which means how high or low a note sounds. Fast vibration gives a high note. Slow vibration gives a low note." },
+        { "h": "Professor", "g": "f", "t": "There are three easy ways to change the speed. First, the length of the string. When a guitar player presses a finger on a string, the part that vibrates gets shorter, and the note goes up." },
+        { "h": "Professor", "g": "f", "t": "Second, the thickness of the string. Look at a guitar, and you'll see that the strings are not all the same. The thick ones play low notes, and the thin ones play high notes." },
+        { "h": "Professor", "g": "f", "t": "Third, how tight the string is. When you turn the small pegs at the end of the guitar, you make a string tighter or looser. Tighter means higher. That's how musicians tune their instruments before they play." },
+        { "h": "Professor", "g": "f", "t": "So remember: short, thin, and tight strings give high notes. Next class, bring your instruments, and we'll try this ourselves." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the talk mainly about?",
+          "opciones": [
+            "How string instruments make high and low notes",
+            "How to choose a good guitar",
+            "The history of the guitar",
+            "Why guitars need new strings"
+          ],
+          "correcta": 0,
+          "explicacion": "La profesora explica cómo una guitarra produce notas altas y bajas: la velocidad de la vibración cambia según el largo, el grosor y la tensión de la cuerda."
+        },
+        {
+          "enunciado": "According to the professor, which kind of string plays low notes?",
+          "opciones": [
+            "A short string",
+            "A thick string",
+            "A tight string",
+            "A thin string"
+          ],
+          "correcta": 1,
+          "explicacion": "“The thick ones play low notes, and the thin ones play high notes.” Las cuerdas cortas y tensas, en cambio, dan notas altas."
+        },
+        {
+          "enunciado": "Why does the professor mention the small pegs on a guitar?",
+          "opciones": [
+            "To show where the strings are made",
+            "To explain why guitars break easily",
+            "To describe how to hold a guitar",
+            "To explain how musicians make strings tighter or looser"
+          ],
+          "correcta": 3,
+          "explicacion": "Al girar las clavijas, la cuerda queda “tighter or looser”; así afinan los músicos sus instrumentos."
+        },
+        {
+          "enunciado": "What will the students probably do in the next class?",
+          "opciones": [
+            "Listen to a famous guitar player",
+            "Buy new strings for their guitars",
+            "Practice changing notes on their own instruments",
+            "Write a short report about pitch"
+          ],
+          "correcta": 2,
+          "explicacion": "Al final pide “bring your instruments, and we'll try this ourselves”: van a practicar con sus propios instrumentos."
+        }
+      ]
+    },
+    {
+      "id": "lt10",
+      "nivel": "B1",
+      "escena": "Listen to part of a science podcast.",
+      "guion": [
+        { "h": "Host", "g": "m", "t": "Welcome back to the show. Have you ever noticed that a city feels hotter than the countryside around it, even on the same day? You're not imagining it. Scientists call this the urban heat island effect." },
+        { "h": "Host", "g": "m", "t": "There are a few main causes. The first is the materials cities are made of. Dark roads and concrete buildings absorb a lot of heat from the sun during the day. Then, at night, they slowly release that heat back into the air. That's why cities often stay warm long after sunset." },
+        { "h": "Host", "g": "m", "t": "The second cause is a lack of plants. Trees and other plants cool the air around them, partly by giving shade and partly by releasing water through their leaves. Cities usually have far fewer plants than rural areas, so they lose that natural cooling." },
+        { "h": "Host", "g": "m", "t": "So what can cities do? One popular idea is the green roof, a roof covered with soil and plants. Green roofs keep buildings cooler, and they also absorb rainwater. Other cities are painting roofs white or planting more trees along their streets." },
+        { "h": "Host", "g": "m", "t": "None of these solutions is perfect on its own, but together they can make a real difference, especially in summer. After the break, I'll talk with a city planner who's trying some of these ideas." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the main topic of this part of the podcast?",
+          "opciones": [
+            "How plants release water through their leaves",
+            "Why cities are often warmer than the areas around them",
+            "How to build a green roof",
+            "Why summers are getting longer"
+          ],
+          "correcta": 1,
+          "explicacion": "El presentador explica el urban heat island effect: por qué una ciudad se siente más caliente que el campo que la rodea, sus causas y algunas soluciones."
+        },
+        {
+          "enunciado": "According to the host, why do cities often stay warm at night?",
+          "opciones": [
+            "People use more electricity at night.",
+            "Trees block the cool evening winds.",
+            "Roads and buildings release heat they absorbed during the day.",
+            "White roofs reflect heat back into the streets."
+          ],
+          "correcta": 2,
+          "explicacion": "Las calles y el concreto absorben calor de día y “at night, they slowly release that heat back into the air”."
+        },
+        {
+          "enunciado": "Why does the host mention green roofs?",
+          "opciones": [
+            "To give an example of a way to reduce heat in cities",
+            "To explain why rainwater causes problems in cities",
+            "To show that plants grow better on top of buildings",
+            "To describe a solution that has completely solved the problem"
+          ],
+          "correcta": 0,
+          "explicacion": "Los techos verdes son “One popular idea” entre las soluciones. La última opción exagera: él aclara que “None of these solutions is perfect on its own”."
+        },
+        {
+          "enunciado": "What will probably happen after the break?",
+          "opciones": [
+            "The host will explain how to paint a roof white.",
+            "The host will answer questions from listeners.",
+            "The host will talk about heat in rural areas.",
+            "The host will interview someone who works in city planning."
+          ],
+          "correcta": 3,
+          "explicacion": "Al final dice “After the break, I'll talk with a city planner”: va a entrevistar a un planificador urbano."
+        }
+      ]
+    },
+    {
+      "id": "lt11",
+      "nivel": "B2",
+      "escena": "Listen to part of a lecture in an anthropology class.",
+      "guion": [
+        { "h": "Professor", "g": "f", "t": "Today I want to discuss one of the great achievements of human navigation. Centuries before modern instruments, Polynesian sailors crossed thousands of kilometers of open Pacific Ocean and settled islands that are tiny dots on a map. So how did they find them?" },
+        { "h": "Professor", "g": "f", "t": "The answer is a system often called wayfinding. Navigators didn't rely on any single clue. Instead, they combined many sources of information, and they memorized an enormous amount of it." },
+        { "h": "Professor", "g": "f", "t": "The stars were central. Navigators knew the points on the horizon where particular stars rose and set, and they used them like a compass at night. During the day, they paid attention to the ocean swells, the long, steady waves created by distant winds. An experienced navigator could feel changes in the swell through the movement of the canoe and tell when an island was disrupting the pattern." },
+        { "h": "Professor", "g": "f", "t": "Birds were another clue. Certain seabirds fly out to sea in the morning to fish and return to land in the evening. So if a navigator saw those birds at dusk, following them could lead to an island." },
+        { "h": "Professor", "g": "f", "t": "What's remarkable is that this knowledge was passed down orally, from teacher to student, over many years of training. And in recent decades, voyages using traditional canoes and these same methods have shown that the techniques really work." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the lecture mainly about?",
+          "opciones": [
+            "How Polynesian canoes were built",
+            "Why Polynesian sailors left their home islands",
+            "The methods Polynesian navigators used to find islands",
+            "How modern instruments improved ocean travel"
+          ],
+          "correcta": 2,
+          "explicacion": "La profesora pregunta “So how did they find them?” y dedica la charla a las técnicas de navegación: estrellas, oleaje y aves."
+        },
+        {
+          "enunciado": "According to the professor, how did navigators use ocean swells?",
+          "opciones": [
+            "They followed the swells straight to land.",
+            "They studied the swells to predict storms.",
+            "They used the swells to locate stars at night.",
+            "They noticed changes in the swells caused by nearby islands."
+          ],
+          "correcta": 3,
+          "explicacion": "Un navegante experto podía sentir el oleaje y “tell when an island was disrupting the pattern”. No seguía el oleaje directamente hasta la tierra."
+        },
+        {
+          "enunciado": "Why does the professor mention seabirds that return to land in the evening?",
+          "opciones": [
+            "To describe what navigators ate during long voyages",
+            "To explain another clue that could lead navigators to land",
+            "To show that birds also use the stars to navigate",
+            "To explain why voyages usually began in the morning"
+          ],
+          "correcta": 1,
+          "explicacion": "Las aves son “another clue”: como vuelven a tierra al anochecer, seguirlas a esa hora podía llevar a una isla."
+        },
+        {
+          "enunciado": "What can be inferred about becoming a navigator in traditional Polynesian society?",
+          "opciones": [
+            "It required a long period of learning from experienced teachers.",
+            "It was mainly learned from written guides.",
+            "It depended mostly on special instruments.",
+            "Most sailors could learn it in a short time."
+          ],
+          "correcta": 0,
+          "explicacion": "El conocimiento se transmitía “orally, from teacher to student, over many years of training”, así que ser navegante exigía un largo aprendizaje. No había guías escritas."
+        }
+      ]
+    },
+    {
+      "id": "lt12",
+      "nivel": "B1",
+      "escena": "Listen to part of a talk in a marketing class.",
+      "guion": [
+        { "h": "Professor", "g": "m", "t": "Let's talk about a basic mistake that many new businesses make. They try to sell their product to everyone. It sounds like a good idea, right? More customers, more sales. But in practice, it usually doesn't work." },
+        { "h": "Professor", "g": "m", "t": "That's why marketers use something called market segmentation. Segmentation means dividing a large market into smaller groups of customers who have similar needs. Then a company can choose which group, or segment, to focus on." },
+        { "h": "Professor", "g": "m", "t": "Let me give you an example. Imagine a small company that makes backpacks. One possible segment is university students. They want something light, with space for a laptop, at a low price. Another segment is serious hikers. They care about strong materials and comfort on long trips, and they're often willing to pay more." },
+        { "h": "Professor", "g": "m", "t": "If the company tries to design one backpack for both groups, it might end up pleasing neither. But if it picks one segment, it can design the right product, set the right price, and advertise in places where those customers actually spend their time." },
+        { "h": "Professor", "g": "m", "t": "So segmentation helps a company use its money and effort more wisely. In our next session, we'll look at how companies collect information about their segments." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the talk mainly about?",
+          "opciones": [
+            "How to design a comfortable backpack",
+            "Why new businesses need more money",
+            "How companies set prices for students",
+            "Why businesses divide customers into groups with similar needs"
+          ],
+          "correcta": 3,
+          "explicacion": "El profesor explica la segmentación: “dividing a large market into smaller groups of customers who have similar needs”. Las mochilas son solo el ejemplo."
+        },
+        {
+          "enunciado": "According to the professor, what do serious hikers care about in a backpack?",
+          "opciones": [
+            "Strong materials and comfort",
+            "A low price and light weight",
+            "Space for a laptop",
+            "A fashionable design"
+          ],
+          "correcta": 0,
+          "explicacion": "Los excursionistas “care about strong materials and comfort on long trips”. El precio bajo y el espacio para la computadora es lo que buscan los estudiantes."
+        },
+        {
+          "enunciado": "Why does the professor describe a company that makes backpacks?",
+          "opciones": [
+            "To show that backpacks are a growing business",
+            "To explain why students do not buy expensive products",
+            "To illustrate how different groups of customers want different things",
+            "To compare two companies that sell to hikers"
+          ],
+          "correcta": 2,
+          "explicacion": "Con las mochilas muestra que estudiantes y excursionistas quieren cosas distintas, y por eso conviene escoger un solo segmento."
+        },
+        {
+          "enunciado": "What does the professor imply about trying to sell a product to everyone?",
+          "opciones": [
+            "It is the fastest way for a new company to grow.",
+            "It can lead to a product that does not satisfy any group well.",
+            "It only works for companies that make backpacks.",
+            "It makes advertising less expensive."
+          ],
+          "correcta": 1,
+          "explicacion": "Dice que una mochila para ambos grupos “might end up pleasing neither”, y desde el inicio afirma que vender a todos “usually doesn't work”."
+        }
+      ]
+    },
+    {
+      "id": "lt13",
+      "nivel": "C1",
+      "escena": "Listen to part of a lecture in a linguistics class.",
+      "guion": [
+        { "h": "Professor", "g": "m", "t": "Here's a finding that surprises most people. When it comes to hearing the differences between speech sounds, young babies are, in a sense, better listeners than adults." },
+        { "h": "Professor", "g": "m", "t": "Every language relies on its own set of sound contrasts. Hindi, for example, has two different t sounds, made with the tongue in slightly different positions, and they can distinguish one word from another. To most English speakers, though, those two sounds seem identical." },
+        { "h": "Professor", "g": "m", "t": "Researchers tested this by playing pairs of sounds to infants and watching whether the babies noticed a change, for instance by turning their heads. Babies from English-speaking homes, at around six to eight months, could hear the difference between the two Hindi sounds quite well. But by around ten to twelve months, most of them no longer could." },
+        { "h": "Professor", "g": "m", "t": "So what happened? The babies didn't lose an ability because something went wrong. Rather, their brains were tuning in to the sounds that matter in the language around them and paying less attention to contrasts they never needed. Researchers call this perceptual narrowing." },
+        { "h": "Professor", "g": "m", "t": "It's a trade-off, really. By specializing early, infants become very efficient at processing their own language, at the cost of finding some foreign sounds harder later in life. And that partly explains why adult learners often struggle with pronunciation in a new language." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the lecture mainly about?",
+          "opciones": [
+            "How infants' ability to distinguish speech sounds changes during the first year",
+            "Why Hindi is difficult for English speakers to learn",
+            "How babies learn to say their first words",
+            "Methods for teaching pronunciation to adults"
+          ],
+          "correcta": 0,
+          "explicacion": "El profesor explica que los bebés pequeños distinguen contrastes de cualquier idioma y que, hacia el final del primer año, se especializan en los de su lengua: “perceptual narrowing”."
+        },
+        {
+          "enunciado": "According to the professor, what did researchers find about babies from English-speaking homes?",
+          "opciones": [
+            "They could not hear the Hindi contrast at any age.",
+            "They learned the Hindi contrast by twelve months.",
+            "They preferred Hindi sounds to English sounds.",
+            "Younger babies heard the Hindi contrast better than older babies did."
+          ],
+          "correcta": 3,
+          "explicacion": "Los bebés de seis a ocho meses distinguían bien los dos sonidos del hindi, pero “by around ten to twelve months, most of them no longer could”."
+        },
+        {
+          "enunciado": "Why does the professor mention the two t sounds in Hindi?",
+          "opciones": [
+            "To show that Hindi has more sounds than English",
+            "To give an example of a contrast that one language uses and another does not",
+            "To explain why Hindi speakers find English pronunciation difficult",
+            "To show how babies produce their first sounds"
+          ],
+          "correcta": 1,
+          "explicacion": "Los dos sonidos de t distinguen palabras en hindi, pero “To most English speakers, though, those two sounds seem identical”: es un contraste que una lengua usa y otra no."
+        },
+        {
+          "enunciado": "What does the professor imply about perceptual narrowing?",
+          "opciones": [
+            "It is a sign of a problem in a child's development.",
+            "It can be easily reversed with a little practice.",
+            "It is a useful adaptation, even though it comes at a cost.",
+            "It happens only to children who hear a single language."
+          ],
+          "correcta": 2,
+          "explicacion": "Aclara que no es una falla (“didn't lose an ability because something went wrong”) y lo llama “a trade-off”: ganan eficiencia en su lengua a cambio de que algunos sonidos extranjeros les cuesten más."
+        }
+      ]
+    },
+    {
+      "id": "lt14",
+      "nivel": "B2",
+      "escena": "Listen to part of a lecture in an engineering class.",
+      "guion": [
+        { "h": "Professor", "g": "f", "t": "If you've ever crossed a long bridge, you may have noticed metal strips across the road surface, often with teeth that fit together like fingers. Those aren't decoration. They're called expansion joints, and they solve a problem that every bridge engineer has to deal with." },
+        { "h": "Professor", "g": "f", "t": "The problem is temperature. Most materials, including steel and concrete, expand when they get warmer and contract when they cool down. The change in any small piece is tiny. But over the length of a long bridge, it adds up, and the bridge can grow or shrink by a noticeable amount between a cold winter night and a hot summer afternoon." },
+        { "h": "Professor", "g": "f", "t": "If the bridge were fixed rigidly at both ends, with no room to move, that expansion would have nowhere to go. The structure would build up enormous internal forces, and over time it could crack or buckle." },
+        { "h": "Professor", "g": "f", "t": "An expansion joint is basically a planned gap. It lets sections of the bridge slide slightly toward or away from each other while still giving cars a smooth surface. The finger design I mentioned allows the gap to open and close without leaving a hole in the road." },
+        { "h": "Professor", "g": "f", "t": "And this isn't only about bridges. You'll find the same principle in railway tracks, sidewalks, and large buildings. Whenever engineers design something big, they have to plan for the fact that it won't stay exactly the same size." }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the lecture mainly about?",
+          "opciones": [
+            "The different materials used to build bridges",
+            "How engineers allow structures to change size with temperature",
+            "Why bridges are more dangerous in summer",
+            "How to repair cracks in concrete"
+          ],
+          "correcta": 1,
+          "explicacion": "La profesora explica que los materiales se dilatan y se contraen con la temperatura, y que las juntas de dilatación permiten que el puente cambie de tamaño sin dañarse."
+        },
+        {
+          "enunciado": "According to the professor, what could happen to a bridge with no room to expand?",
+          "opciones": [
+            "It would become too slippery for cars.",
+            "It would shrink permanently in winter.",
+            "It could crack or bend because of internal forces.",
+            "It would need more metal strips across the road."
+          ],
+          "correcta": 2,
+          "explicacion": "Si el puente no pudiera moverse, “The structure would build up enormous internal forces, and over time it could crack or buckle”."
+        },
+        {
+          "enunciado": "Why does the professor mention metal strips with teeth that fit together like fingers?",
+          "opciones": [
+            "To show how bridges were decorated in the past",
+            "To explain why bridges are noisy when cars cross them",
+            "To describe a common cause of damage to bridges",
+            "To introduce a design feature that lets a gap open and close"
+          ],
+          "correcta": 3,
+          "explicacion": "Las tiras con dientes son las juntas de dilatación: “The finger design I mentioned allows the gap to open and close without leaving a hole in the road”. Ella aclara que “Those aren't decoration”."
+        },
+        {
+          "enunciado": "What does the professor imply about large structures in general?",
+          "opciones": [
+            "Engineers must plan for them to change size slightly.",
+            "They should be built only from steel.",
+            "They rarely change size as much as bridges do.",
+            "They need to be rebuilt every few decades."
+          ],
+          "correcta": 0,
+          "explicacion": "Cierra diciendo que, al diseñar algo grande, los ingenieros “have to plan for the fact that it won't stay exactly the same size”."
+        }
+      ]
+    }
+  ]
+}

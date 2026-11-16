@@ -1,0 +1,99 @@
+{
+  "rp": {
+    "titulo": "Listen and Repeat",
+    "subtitulo": "Speaking · Escuchar y repetir",
+    "resumen": "Usted escucha siete frases dichas en un lugar concreto (un museo, una biblioteca, un gimnasio) y repite cada una tal como la oyó. Las frases empiezan cortas y se van alargando. La tarea mide si usted reproduce inglés hablado con exactitud y con una pronunciación y un ritmo que se entienden sin esfuerzo.",
+    "formato": [
+      "La sección de Speaking tiene 11 tareas y dura unos 8 minutos: 7 frases de Listen and Repeat y 4 preguntas de Take an Interview. No es adaptativa.",
+      "Una escena breve le dice dónde está, qué papel tiene y quién le habla.",
+      "No hay tiempo de preparación: la frase termina y usted repite.",
+      "Tiene entre 8 y 12 segundos para grabar cada frase, según su largo.",
+      "Las frases crecen: las primeras tienen unas pocas palabras y las últimas son oraciones largas, con cláusulas."
+    ],
+    "califica": "Cada frase vale de 0 a 5. Un 5 es una repetición exacta y totalmente inteligible. Un 4 conserva el sentido aunque cambie una o dos palabras pequeñas, falle una marca de tiempo verbal o de número (una -ed, una -s) o sustituya una palabra. Un 3 tiene casi todas las palabras de contenido, pero el sentido ya no es exacto. Un 2 deja fuera buena parte de la frase, un 1 recupera solo unas pocas palabras y un 0 es silencio o algo que no se entiende. Los puntos de las 11 tareas de Speaking (de 0 a 55) se convierten a la escala de bandas de 1 a 6. Califica el motor de inteligencia artificial de ETS, con supervisión humana. Esta es una paráfrasis: la rúbrica oficial está en el enlace de la fuente.",
+    "regla": "Escuche la frase en bloques de sentido y devuélvala completa, con el mismo ritmo; si se le escapa una palabra, siga, porque una respuesta parcial también suma.",
+    "pasos": [
+      "No traduzca mientras escucha. Divida la frase en bloques de sentido (thought groups), de dos a cinco palabras cada uno: es mucho más fácil recordar tres bloques que catorce palabras sueltas.",
+      "Copie la música antes que las palabras: qué sílabas suenan fuertes, dónde están las pausas y qué palabras se dicen débiles y rápidas (a, the, to, for, can, of). Si el ritmo sale bien, las palabras suelen venir solas.",
+      "Empiece a hablar apenas termine la frase. La memoria auditiva se borra rápido; si espera, pierde el final.",
+      "Si se le olvida una palabra, no se detenga ni vuelva a empezar: diga el resto de la frase. Una repetición con un hueco pequeño recibe puntos; quedarse callado no recibe ninguno.",
+      "Respete las terminaciones. Si oyó «checked», «bikes» o «they've», dígalas así. No agregue ni quite -s, -ed ni contracciones: es justo lo que separa un 5 de un 4.",
+      "Practique con shadowing: ponga un audio corto y repítalo en voz alta casi al mismo tiempo que el hablante, imitando su ritmo y su entonación. Un estudio con aprendices de inglés encontró que esta práctica mejora la comprensibilidad y la fluidez (Foote y McDonough, 2017, Journal of Second Language Pronunciation).",
+      "Grábese y compare palabra por palabra con el original. Anote qué cambió (una -ed, un «the» de más) y repita solo esas frases hasta que salgan exactas."
+    ],
+    "errores": [
+      "Agregar una «e» antes de s + consonante: «espeak», «estudent», «estairs». Empiece directamente con una /s/ sostenida: «sss-tudent».",
+      "Comerse los grupos de consonantes finales y la -ed: «I work yesterday» en vez de «I worked yesterday». La -ed suena /t/ en «helped», /d/ en «cleaned» y /ɪd/ en «updated»; en la frase casi siempre se une con la palabra siguiente.",
+      "Pronunciar todas las vocales con fuerza. En inglés las palabras pequeñas se reducen a una vocal débil (schwa): «to» suena /tə/, «for» /fər/, «can» /kən/. Si las dice completas, la frase pierde su ritmo.",
+      "Hablar con el ritmo del español, sílaba por sílaba, en vez del ritmo del inglés, que alarga las palabras importantes y aprieta las demás entre ellas.",
+      "Mezclar sonidos que el español no distingue: b y v («berry» y «very»), sh y ch («shoes» y «choose») y la «th» de «the» o «think», que no es /d/, /t/ ni /s/.",
+      "Cambiar «he» por «she» (o al revés) o agregar palabras que no estaban, como «the» o «very», para que suene más natural. En esta tarea cualquier palabra de más cuenta como un cambio."
+    ],
+    "frases": [
+      "start · stairs · student · special · screen (sin «e» al inicio)",
+      "helped /t/ · cleaned /d/ · updated /ɪd/",
+      "a cup of coffee → /ə ˈkʌp əv ˈkɔfi/ (las palabras pequeñas, débiles)",
+      "checked in → «check-tin» · turn off → «tur-noff» (la consonante final se une con la vocal siguiente)",
+      "it's · they've · you'll · there's · don't (la contracción también se repite)"
+    ],
+    "ejemplo": {
+      "en": "Visitors who haven't booked a tour / can still join the next one / at the main entrance.\n\nVISitors who HAVen't BOOKED a TOUR / can STILL JOIN the NEXT one / at the MAIN ENtrance.",
+      "es": "Dieciséis palabras, pero solo tres bloques que recordar. Las mayúsculas marcan las sílabas fuertes; «who», «a», «can», «the» y «at» se dicen débiles y rápidas. Ojo con «booked a»: la -ed suena /t/ y se une con la «a» siguiente, como «bookta». Si se le escapa «still», diga el resto igual: perder una palabra pequeña cuesta poco; detenerse cuesta casi todo."
+    },
+    "fuente": {
+      "texto": "ETS · TOEFL iBT Speaking Rubrics (formato: TOEFL iBT Test Overview)",
+      "url": "https://www.ets.org/content/dam/ets-org/pdfs/toefl/speaking-rubrics.pdf"
+    }
+  },
+  "iv": {
+    "titulo": "Take an Interview",
+    "subtitulo": "Speaking · Entrevista",
+    "resumen": "Un entrevistador le presenta un estudio o una encuesta y le hace cuatro preguntas sobre el mismo tema. Las preguntas suelen ir de lo personal (su experiencia) a lo general (su opinión sobre un tema más amplio). Usted responde cada una en 45 segundos, sin tiempo de preparación.",
+    "formato": [
+      "Son 4 preguntas de un mismo tema: un estudio sobre hábitos de estudio, tecnología, trabajo, viajes, etc.",
+      "Tiene 45 segundos para responder cada pregunta.",
+      "No hay tiempo de preparación: la grabación empieza apenas termina la pregunta.",
+      "Las primeras preguntas suelen pedir su experiencia («Where do you usually study?»); las últimas, su opinión sobre un tema amplio («Some people think… Do you agree? Why or why not?»).",
+      "Es parte de la sección de Speaking: 11 tareas en unos 8 minutos (7 de Listen and Repeat y estas 4)."
+    ],
+    "califica": "Cada respuesta vale de 0 a 5. Un 5 responde a la pregunta y desarrolla bien la idea; se dice a buen ritmo, con pausas naturales, y se entiende sin esfuerzo, con un ritmo y una entonación que ayudan a transmitir el sentido; la gramática y el vocabulario son variados y precisos. Un 4 se parece, pero puede faltarle conectores o pedirle al oyente un pequeño esfuerzo. Un 3 desarrolla poco la idea, suena entrecortado o abusa de muletillas. Un 2 apenas se conecta con la pregunta o casi solo la repite. Un 1 se queda en palabras sueltas. El total de Speaking se reporta en la escala de bandas de 1 a 6, y califica el motor de inteligencia artificial de ETS, con supervisión humana. Esta es una paráfrasis: la rúbrica oficial está en el enlace de la fuente.",
+    "regla": "Conteste en la primera oración y use los 45 segundos para sostener esa respuesta: razón, ejemplo concreto y cierre.",
+    "pasos": [
+      "Empiece a hablar de inmediato con una respuesta directa: «I usually study at…», «I partly agree, because…». Puede retomar unas palabras de la pregunta para arrancar, pero no la repita entera para ganar tiempo.",
+      "Dé una razón con un conector claro: «The main reason is that…», «That's because…».",
+      "Baje a un ejemplo concreto de su vida: cuándo fue, quién estaba, qué pasó. Un ejemplo con detalles vale más que tres ideas generales.",
+      "Cierre volviendo a su respuesta con otras palabras: «So for me…», «That's why I think…».",
+      "Use los 45 segundos completos: a ritmo natural son unas 90 a 110 palabras. Si le sobra tiempo, agregue una concesión breve («Of course, some people…») o un detalle más del ejemplo.",
+      "Varíe el tipo de oraciones: mezcle frases cortas con otras que lleven «because», «when», «although» o «which». Evite las listas largas («I like A, B, C, D…»): una idea desarrollada puntúa más que cinco nombradas.",
+      "Tenga listas tres historias personales que sirvan para muchos temas, por ejemplo un trabajo o proyecto difícil, un viaje o una mudanza, y alguien que le enseñó algo. Adáptelas a la pregunta en vez de inventar desde cero en el momento."
+    ],
+    "errores": [
+      "Omitir el sujeto: «Is very important», «Is a good idea». En inglés el sujeto siempre va: «It's very important», «It's a good idea».",
+      "Confundir «he» y «she» (y «his» y «her») al hablar de otra persona: el oyente pierde el hilo de su ejemplo.",
+      "Quitar la -ed al contar el ejemplo: «Last year I work in a café» en vez de «I worked». Casi todos los ejemplos van en pasado, así que esa terminación se oye mucho.",
+      "Arrancar con «Well… eh… mmm» o repetir la pregunta completa antes de contestar: se pierden segundos y la respuesta suena entrecortada. Tenga un arranque fijo como «I'd say…» o «Honestly,…».",
+      "Traducir estructuras del español: «I have twenty years» (por «I'm twenty»), «it depends of» (por «it depends on»), «explain me» (por «explain to me»).",
+      "Hablar con el ritmo del español, todas las sílabas iguales, y con «e» antes de s + consonante («espend», «estudy»). Marque fuerte las palabras clave y deje débiles las pequeñas."
+    ],
+    "frases": [
+      "I'd say… / Honestly, I usually…",
+      "The main reason is that…",
+      "For example, last year I…",
+      "What I remember most is…",
+      "That's why I think…",
+      "I partly agree. On the one hand…, but on the other hand…",
+      "It really depends on…",
+      "Of course, some people might say…, but…",
+      "What I mean is…",
+      "So for me, …"
+    ],
+    "ejemplo": {
+      "en": "Q: Some people think it's better to spend money on experiences, like trips or concerts, than on things. Do you agree? Why or why not?\n\nYes, I agree, especially for young people.\nThe main reason is that experiences stay with you much longer than objects do.\nFor example, three years ago I used my savings to go on a trip to the mountains with my best friends. I don't remember most of the clothes I bought that year, but we still talk about that trip every time we meet.\nOf course, we all need some things, like a good laptop for work.\nBut when I have extra money, I'd rather create memories. So for me, experiences are the better investment.",
+      "es": "Cinco movimientos en unos 45 segundos: respuesta directa en la primera oración, razón con «The main reason is that», un ejemplo con cuándo, quién y qué pasó, una concesión breve que muestra matices («Of course…») y un cierre que vuelve a la respuesta. Son unas 95 palabras, la medida de una respuesta completa a ritmo natural."
+    },
+    "fuente": {
+      "texto": "ETS · TOEFL iBT Speaking Rubrics (formato: TOEFL iBT Test Overview)",
+      "url": "https://www.ets.org/content/dam/ets-org/pdfs/toefl/speaking-rubrics.pdf"
+    }
+  }
+}

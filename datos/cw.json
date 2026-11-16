@@ -1,0 +1,125 @@
+{
+  "tipo": "cw",
+  "items": [
+    {
+      "id": "cw01",
+      "nivel": "A2",
+      "tema": "insect biology",
+      "parrafo": "Honeybees live together in large groups called colonies. Each colony has one queen, and her main job is to lay eggs. The other bees are workers, and they do many different tasks. Some of them clean the hive, while others fly out to collect food from flowers. When a worker finds a good place with many flowers, it returns home and does a special dance. This dance shows the other bees where to go."
+    },
+    {
+      "id": "cw02",
+      "nivel": "A2",
+      "tema": "earth science",
+      "parrafo": "Water on Earth moves in a continuous path called the water cycle. When the sun heats oceans and lakes, some of the water turns into vapor and rises into the air. High in the sky, the vapor cools and forms clouds. Later, the water falls back to the ground as rain or snow. Rivers carry much of this water back to the sea, and the cycle starts again. Without this cycle, plants and animals on land would not have fresh water."
+    },
+    {
+      "id": "cw03",
+      "nivel": "A2",
+      "tema": "history of technology",
+      "parrafo": "The bicycle is one of the most popular ways to travel in cities around the world. The first models were heavy and did not have pedals, so riders pushed the ground with their feet. Later designs added pedals and a chain, which made the bicycle faster and much easier to use. Today, many people ride bicycles to work because they are cheap, quiet, and good for their health. Some cities have even built special lanes to keep riders safe."
+    },
+    {
+      "id": "cw04",
+      "nivel": "B1",
+      "tema": "marine biology",
+      "parrafo": "Coral reefs are underwater structures built by tiny animals that live in warm, shallow seas. Although they cover only a small part of the ocean floor, reefs support an enormous variety of marine life. Many fish depend on them for food and shelter, especially when they are young. Reefs also protect coastlines by reducing the force of waves during storms. However, rising ocean temperatures can cause corals to lose the algae that give them color and energy, a process known as bleaching."
+    },
+    {
+      "id": "cw05",
+      "nivel": "B1",
+      "tema": "psychology",
+      "parrafo": "Scientists have long known that sleep plays an important role in learning. During the night, the brain organizes the information it collected during the day and decides what to keep. Connections that are used often become stronger, while weaker ones may disappear. This is why students who sleep well after studying usually remember more than those who stay awake all night. Even a short nap in the afternoon can help people store new facts."
+    },
+    {
+      "id": "cw06",
+      "nivel": "B1",
+      "tema": "ancient history",
+      "parrafo": "The ancient Romans built one of the largest road networks in history. Their roads connected cities across the empire and allowed soldiers to travel quickly from one region to another. Engineers placed layers of stone and gravel beneath the surface so that water could drain away. As a result, many of these roads remained in use for centuries. Merchants also benefited, since goods could be moved more safely and at lower cost."
+    },
+    {
+      "id": "cw07",
+      "nivel": "B1",
+      "tema": "geology",
+      "parrafo": "A volcano is an opening in the surface of the planet through which melted rock escapes. Deep underground, this rock is called magma, and it collects in large chambers. When pressure inside a chamber becomes too high, the magma pushes upward and breaks through the surface. Once it reaches the air, it is known as lava. Some eruptions are gentle and slow, while others are violent enough to throw ash many kilometers into the sky."
+    },
+    {
+      "id": "cw08",
+      "nivel": "B1",
+      "tema": "botany",
+      "parrafo": "Plants produce their own food through a process called photosynthesis. Inside their leaves, special structures capture energy from sunlight and use it to change water and carbon dioxide into sugar. Oxygen is released into the air during this process. Animals, including humans, need this oxygen to survive, so plants are essential to life on land. They also provide food, either directly or indirectly, for nearly every other living thing on the planet."
+    },
+    {
+      "id": "cw09",
+      "nivel": "B1",
+      "tema": "economics",
+      "parrafo": "In economics, the price of a product often depends on supply and demand. When many people want something but only a small amount is available, the price usually rises. On the other hand, if there is more of a product than buyers need, sellers often lower the price. This simple idea helps explain why fresh fruit can be cheaper in summer, when farms harvest large quantities. Prices then rise again in winter, when the same fruit must be shipped from far away."
+    },
+    {
+      "id": "cw10",
+      "nivel": "B1",
+      "tema": "zoology",
+      "parrafo": "Every year, millions of birds travel thousands of kilometers between their summer and winter homes. These long journeys are known as migration, and they usually follow the same routes each season. Birds use several clues to find their way, such as the position of the sun and the shape of the land below them. Some species can even sense the magnetic field of the planet. Young birds often learn the route by flying with older, more experienced members of their group."
+    },
+    {
+      "id": "cw11",
+      "nivel": "B2",
+      "tema": "urban studies",
+      "parrafo": "Cities are often several degrees warmer than the countryside that surrounds them, a pattern known as the urban heat island effect. Materials such as asphalt and concrete absorb heat during the day and release it slowly at night. In addition, tall buildings block the wind, which would otherwise carry warm air away. Planners are now testing solutions such as green roofs, reflective pavements, and more trees along streets, all of which can lower temperatures noticeably."
+    },
+    {
+      "id": "cw12",
+      "nivel": "B2",
+      "tema": "history of communication",
+      "parrafo": "The invention of movable type printing in the fifteenth century transformed the way knowledge spread across Europe. Before then, books were copied by hand, which made them rare and extremely expensive. Once printers could make hundreds of identical copies, prices fell and more people gained access to written texts. Over time, this contributed to rising literacy rates and to a faster exchange of scientific ideas among scholars in different countries."
+    },
+    {
+      "id": "cw13",
+      "nivel": "B2",
+      "tema": "educational psychology",
+      "parrafo": "Educational psychologists use the term cognitive load to describe the amount of mental effort that a task requires. Because working memory can hold only a few pieces of information at once, students may become overwhelmed when a lesson presents too many new ideas together. Teachers can reduce this problem by breaking complex material into smaller steps and by connecting new content to what learners already know. Short practice activities between steps also help students absorb each idea before moving on."
+    },
+    {
+      "id": "cw14",
+      "nivel": "B2",
+      "tema": "climate science",
+      "parrafo": "The ice sheets that cover Antarctica and Greenland contain valuable records of the climate of the distant past. As snow falls and is compressed into ice, it traps tiny bubbles of air from the atmosphere. By drilling deep into the ice and analyzing these bubbles, scientists can measure how much carbon dioxide the air contained long before modern instruments existed. Some cores reveal conditions from hundreds of thousands of years ago."
+    },
+    {
+      "id": "cw15",
+      "nivel": "B2",
+      "tema": "art history",
+      "parrafo": "Impressionism was an artistic movement that emerged in France during the second half of the nineteenth century. Rather than painting carefully detailed scenes in a studio, its members often worked outdoors to capture how natural light changed throughout the day. They used quick, visible brushstrokes and bright colors, and many critics at first considered their paintings unfinished. Today, however, these works are among the most admired in museums around the world."
+    },
+    {
+      "id": "cw16",
+      "nivel": "B2",
+      "tema": "medicine",
+      "parrafo": "Antibiotics are medicines that kill bacteria or stop them from multiplying. However, when these drugs are used too often or incorrectly, some bacteria survive because of small genetic differences. These survivors then reproduce and pass their resistance to the next generation. Over time, infections that were once easy to treat can become difficult to cure. For this reason, doctors recommend taking antibiotics only when they are truly needed and always completing the full treatment."
+    },
+    {
+      "id": "cw17",
+      "nivel": "B2",
+      "tema": "linguistics",
+      "parrafo": "Young children learn their first language with remarkable speed and without formal instruction. By listening to the speech around them, they gradually notice patterns in sounds, words, and sentence structure. Researchers have found that babies can distinguish sounds from almost any language, but this ability narrows within the first year as they focus on the sounds they hear most. Adults, by contrast, often struggle to hear differences that do not exist in their native language."
+    },
+    {
+      "id": "cw18",
+      "nivel": "C1",
+      "tema": "behavioral economics",
+      "parrafo": "Behavioral economists have shown that people rarely evaluate prices in isolation. Instead, their judgments are strongly influenced by whatever number they encounter first, a tendency known as anchoring. For instance, shoppers who see an expensive item before a moderately priced one tend to regard the second as a bargain, even when its price is above average. Sellers are well aware of this effect and often display premium products first for precisely this reason."
+    },
+    {
+      "id": "cw19",
+      "nivel": "C1",
+      "tema": "ecology",
+      "parrafo": "Beneath most forests lies an extensive network of fungi that connects the roots of neighboring trees. These fungi supply trees with water and mineral nutrients that roots alone would struggle to absorb. In exchange, the trees provide the fungi with sugars produced through photosynthesis. Some studies suggest that this network may even allow nutrients to move between trees, although the extent of such transfer remains a subject of scientific debate."
+    },
+    {
+      "id": "cw20",
+      "nivel": "C1",
+      "tema": "historiography",
+      "parrafo": "Historians studying societies without written records must rely on alternative sources of evidence. Oral traditions, such as genealogies and epic narratives passed down through generations, can preserve remarkably detailed accounts of past events. Nevertheless, scholars must interpret them with care, because each retelling may adapt the story to the concerns of a new audience. Comparing these accounts with archaeological findings often helps researchers distinguish durable historical facts from details that were added much later."
+    }
+  ]
+}

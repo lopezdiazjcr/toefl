@@ -1,0 +1,114 @@
+{
+  "tipo": "we",
+  "items": [
+    { "id": "we01", "nivel": "A2",
+      "para": "Sam", "asunto": "Thanks for the birthday gift",
+      "situacion": "Your friend Sam sent you a novel for your birthday. You enjoyed it very much, and now you would like to read another book by the same author. Write an email to Sam.",
+      "puntos": [
+        "Thank Sam and explain when you read the book.",
+        "Describe what you liked most about it.",
+        "Ask if you can borrow another book by the same author."
+      ],
+      "modelo": "Hi Sam,\n\nThank you so much for the novel you sent for my birthday! I started reading it on the train last weekend, and I finished it in only three days because I couldn't stop.\n\nWhat I liked most was the main character. She is funny and brave, and she never gives up, even when everything goes wrong. The ending surprised me, too. I didn't expect the quiet old neighbor to be the person who helped her the whole time.\n\nDo you have any other books by the same author? If you do, could I borrow one the next time we meet? I promise to take good care of it and give it back within two weeks.\n\nThanks again for remembering my birthday.\n\nSee you soon,\nAna",
+      "notas": "Es un email a un amigo, así que el tono es cálido y sencillo (Hi Sam, See you soon) sin dejar de ser correcto. Cada punto tiene su párrafo y un detalle concreto: cuándo leyó el libro, qué le gustó del personaje y una promesa que hace el pedido más fácil de aceptar. Expresión útil: «I couldn't stop» (no podía parar de leer)." },
+
+    { "id": "we02", "nivel": "A2",
+      "para": "Mr. Peterson", "asunto": "Broken heater in apartment 4B",
+      "situacion": "The heater in your apartment stopped working two days ago, and the nights are getting cold. Your landlord, Mr. Peterson, is responsible for repairs in the building. Write an email to Mr. Peterson.",
+      "puntos": [
+        "Explain what the problem is and when it started.",
+        "Describe how the problem is affecting you.",
+        "Ask when someone can come to repair it."
+      ],
+      "modelo": "Dear Mr. Peterson,\n\nI am writing to let you know that the heater in my apartment, number 4B, stopped working on Monday night. I tried turning it off and on again, but now it only makes a loud noise and blows cold air.\n\nSince then, it has been very hard to sleep, because the bedroom gets really cold after ten o'clock. I am using extra blankets, but my roommate and I both have colds this week, and we are worried it will get worse.\n\nCould you please tell me when someone can come to repair it? I am home every day after four in the afternoon, and I can also leave a key with the building manager if that is easier for you.\n\nThank you for your help.\n\nBest regards,\nLaura Méndez",
+      "notas": "El tono es formal pero sencillo, como corresponde a un arrendador (Dear Mr. Peterson, Best regards). Da datos concretos (número de apartamento, día, qué hace el aparato) y termina el pedido ofreciendo una solución práctica (dejar la llave). Expresión útil: «I am writing to let you know that…» para abrir un reporte de problema." },
+
+    { "id": "we03", "nivel": "B1",
+      "para": "Customer Service Team", "asunto": "Damaged desk in order 58217",
+      "situacion": "You ordered a desk from an online furniture store. When it arrived, one of the legs was cracked and a bag of screws was missing from the box. Write an email to the store's customer service team.",
+      "puntos": [
+        "Explain what you ordered and when it arrived.",
+        "Describe the problems with the item.",
+        "Suggest how the store could solve the problem."
+      ],
+      "modelo": "Dear Customer Service Team,\n\nI am writing about order number 58217, a white wooden desk that I bought on your website on March 3. It was delivered yesterday afternoon, five days later than the date I was given.\n\nUnfortunately, when I opened the box, I found that one of the front legs was cracked in the middle. In addition, the small bag of screws listed in the instructions was not in the package, so I cannot put the desk together at all.\n\nI would really appreciate it if you could send me a new leg and the missing screws as soon as possible. If that is not possible, I would prefer to return the desk for a full refund. I have attached two photos that show the damage.\n\nThank you for your attention to this matter.\n\nSincerely,\nDaniel Rojas",
+      "notas": "Es una queja firme pero educada: no acusa, describe hechos verificables (número de pedido, fecha, qué pieza falla) y ofrece dos soluciones en orden de preferencia. Conectores como «Unfortunately» e «In addition» ordenan el texto. Expresión útil: «I would really appreciate it if you could…», mucho más cortés que «I want you to…»." },
+
+    { "id": "we04", "nivel": "B1",
+      "para": "Professor Nakamura", "asunto": "Missed office hours appointment",
+      "situacion": "Yesterday you had an appointment with Professor Nakamura during her office hours to discuss your research paper, but you did not arrive. Write an email to Professor Nakamura.",
+      "puntos": [
+        "Apologize and explain why you missed the appointment.",
+        "Describe the part of your paper that you need help with.",
+        "Ask for a new time to meet."
+      ],
+      "modelo": "Dear Professor Nakamura,\n\nI am very sorry that I missed our appointment yesterday at two o'clock. My bus broke down on the way to campus, and by the time the next one arrived, your office hours were already over. I should have emailed you right away, and I apologize for not doing so.\n\nI wanted to ask you about the method section of my research paper. I am not sure whether a survey of forty students is large enough, or whether I should also include a few interviews to support the results.\n\nWould it be possible to meet again this week? I am free on Wednesday after eleven and all day on Thursday, but I am happy to adjust to your schedule.\n\nThank you for your understanding.\n\nBest regards,\nMateo Silva",
+      "notas": "La disculpa es completa: explica la causa, reconoce el error («I should have emailed you right away») y no exagera. El segundo párrafo muestra que el estudiante preparó una pregunta concreta, y el tercero propone horarios sin imponerlos. Fíjese en «I apologize for not doing so»: después de la preposición for va -ing." },
+
+    { "id": "we05", "nivel": "B1",
+      "para": "Hannah", "asunto": "Re: Hiking club weekend trip",
+      "situacion": "Hannah, the organizer of your hiking club, has invited all members to a weekend trip to a mountain lake next month. You would like to go, but you have a question about the plan. Write an email to Hannah.",
+      "puntos": [
+        "Accept the invitation and explain why you are interested.",
+        "Describe something you can bring or do to help the group.",
+        "Ask a question about the trip."
+      ],
+      "modelo": "Hi Hannah,\n\nThanks for organizing the trip to the lake! Count me in. I joined the club in January, and I have been hoping for a longer hike ever since. Spending two days in the mountains sounds like the perfect way to get to know the other members better.\n\nI would be happy to help with the cooking on Saturday night. I have a small camping stove and a large pot, so I could prepare a simple pasta dinner for everyone if you think that would be useful.\n\nI just have one question. Will we be sleeping in tents near the lake, or is there a cabin we can use? I need to know whether I should borrow a tent from my cousin before the trip.\n\nSee you at the next meeting,\nJulia",
+      "notas": "El registro es amistoso pero organizado, adecuado para la responsable de un club. Acepta con entusiasmo («Count me in»), ofrece una ayuda concreta y explica por qué hace la pregunta, lo que muestra propósito. Expresión útil: «I would be happy to…» para ofrecer ayuda." },
+
+    { "id": "we06", "nivel": "B1",
+      "para": "Ms. Grant", "asunto": "Request to change my Thursday shift",
+      "situacion": "You work part-time at a bookstore. Next Thursday you have an important exam, but you are scheduled to work that morning. Write an email to your manager, Ms. Grant.",
+      "puntos": [
+        "Explain why you cannot work on Thursday.",
+        "Suggest a solution for covering your shift.",
+        "Ask whether the change is acceptable."
+      ],
+      "modelo": "Dear Ms. Grant,\n\nI am writing to ask if I could change my shift next week. I just found out that my final chemistry exam has been moved to Thursday at nine in the morning, which is exactly when I am scheduled to work. Unfortunately, the professor does not allow students to take it on a different day.\n\nI have already spoken with Kevin, and he has kindly offered to take my Thursday morning shift. In exchange, I could work his shift on Saturday afternoon, so the store would still have the same number of people every day.\n\nWould this arrangement be acceptable to you? If you would prefer a different solution, I am happy to discuss it. I could also stay late on Friday if the store needs extra help.\n\nThank you for your understanding.\n\nKind regards,\nSofía Herrera",
+      "notas": "Un buen pedido a un gerente llega con la solución resuelta: el modelo ya habló con un compañero y propone un intercambio que no perjudica a la tienda. El tono es respetuoso y flexible («If you would prefer a different solution…»). Fíjese en la cláusula «which is exactly when…», que une dos ideas sin repetir la hora." },
+
+    { "id": "we07", "nivel": "B2",
+      "para": "Ms. Novak", "asunto": "Noise from the renovation",
+      "situacion": "Your neighbor, Ms. Novak, recently started renovating her apartment. The drilling often continues late into the evening, which makes it hard for you to rest. You want to solve the problem in a friendly way. Write an email to Ms. Novak.",
+      "puntos": [
+        "Explain the problem politely.",
+        "Describe how the noise is affecting you.",
+        "Suggest a solution that could work for both of you."
+      ],
+      "modelo": "Dear Ms. Novak,\n\nI hope the renovation of your apartment is going well. I am writing because, over the past two weeks, the drilling and hammering have often continued until around eleven at night, and the sound carries quite clearly into my bedroom.\n\nI work early shifts at a bakery and need to be up by four, so the late noise has made it very difficult for me to get enough sleep. Last Tuesday I was so tired that I nearly missed my bus to work.\n\nI completely understand that the work has to be done, and I am not asking you to stop it. Would it be possible, though, for the noisiest tasks to finish by eight in the evening? If it helps, I would be glad to share my schedule so you know which days matter most.\n\nThank you for considering this.\n\nWarm regards,\nAndrea Costa",
+      "notas": "Es una queja a un vecino, así que el modelo cuida la relación: abre con un saludo amable, describe el problema con datos (horario, duración) y reconoce el derecho del otro antes de pedir («I am not asking you to stop it»). La sugerencia es concreta y negociable. Estructura útil: «Would it be possible, though, for X to…?»." },
+
+    { "id": "we08", "nivel": "B2",
+      "para": "Lucas", "asunto": "Re: Tips for my visit",
+      "situacion": "Your friend Lucas is visiting your city for three days next month. It is his first time there, and he has asked you for advice. Write an email to Lucas.",
+      "puntos": [
+        "Recommend one place he should visit and explain why.",
+        "Describe the best way to get around the city.",
+        "Suggest a time when the two of you could meet."
+      ],
+      "modelo": "Hi Lucas,\n\nI'm so glad you finally booked your trip! If you only have time for one thing, head to the old market district on Saturday morning. Most visitors only see the main square, but the market is where you get a real sense of the city: local farmers, street musicians, and the best fresh fruit juice you'll ever try.\n\nAs for getting around, I'd skip taxis altogether. Traffic can be terrible in the afternoon, while the metro is cheap, clean, and reaches almost every neighborhood worth seeing. Just buy a three-day card at the airport station so you don't have to wait in line every time.\n\nSince you arrive on Thursday, why don't we have dinner together on Friday night? I know a small place near my apartment that serves amazing grilled fish.\n\nCan't wait to see you,\nPaula",
+      "notas": "El registro es informal y natural (contracciones, «I'd skip taxis altogether»), pero cada recomendación viene con su razón, que es lo que la rúbrica llama elaboración. Los conectores «As for…» y «Since…» ordenan los tres puntos sin sonar a lista. Expresión útil: «worth seeing» (que vale la pena ver)." },
+
+    { "id": "we09", "nivel": "B2",
+      "para": "Dr. Mensah", "asunto": "Student assistant position for the bird study",
+      "situacion": "Your biology professor, Dr. Mensah, announced in class that she is looking for a student assistant for a summer research project on local bird populations. You are interested in the position. Write an email to Dr. Mensah.",
+      "puntos": [
+        "Explain why you are interested in the project.",
+        "Describe a skill or experience that would make you a good assistant.",
+        "Ask about the schedule or the responsibilities of the position."
+      ],
+      "modelo": "Dear Dr. Mensah,\n\nI was excited to hear in Tuesday's lecture that you are looking for a student assistant for your summer project on local bird populations. I am planning to specialize in ecology, and working on a real field study would give me the kind of hands-on experience that I cannot get in a classroom.\n\nLast year I volunteered for six months at the nature reserve outside town, where I helped the staff count and record migrating birds every weekend. As a result, I am comfortable getting up before sunrise, using binoculars and field guides, and entering observations carefully into a spreadsheet.\n\nCould you tell me a little more about the position? In particular, I would like to know how many hours per week it would involve and whether the work would take place mostly outdoors or in the lab.\n\nThank you for your time.\n\nSincerely,\nKenji Watanabe",
+      "notas": "El modelo convence con pruebas, no con adjetivos: en vez de decir «soy responsable», cuenta una experiencia concreta y la conecta con el puesto («As a result…»). Las preguntas finales usan orden de afirmación dentro de «I would like to know how many hours… it would involve». Registro formal y preciso, adecuado para un profesor." },
+
+    { "id": "we10", "nivel": "C1",
+      "para": "Ms. Lindqvist", "asunto": "Feedback on our Monday meetings",
+      "situacion": "Your team at work has a two-hour meeting every Monday morning. Many colleagues feel that the meeting is too long and takes time away from urgent tasks. Your manager, Ms. Lindqvist, has asked the team for feedback. Write an email to Ms. Lindqvist.",
+      "puntos": [
+        "Explain the main problem with the current meeting format.",
+        "Describe a specific change you would recommend.",
+        "Suggest how the team could test the change before making a final decision."
+      ],
+      "modelo": "Dear Ms. Lindqvist,\n\nThank you for inviting feedback on our Monday meetings. While I value the chance to hear from everyone, the current two-hour format has become difficult to justify. Much of the time is spent on updates that most of us have already read in the weekly report, and as a result, urgent client requests often go unanswered until noon.\n\nI would recommend shortening the meeting to forty-five minutes and focusing it exclusively on decisions and obstacles. Routine updates could be shared in writing by Friday afternoon, so that everyone arrives informed and ready to discuss what genuinely requires the group's input.\n\nBefore making a permanent change, perhaps we could try the new format for a month and then run a short anonymous survey. That way, the decision would rest on the team's actual experience rather than on individual impressions.\n\nKind regards,\nTomás Ferreira",
+      "notas": "Es una crítica a una práctica del jefe, así que el modelo empieza agradeciendo y reconociendo lo positivo («While I value…») antes de señalar el costo concreto. La propuesta es específica (45 minutos, solo decisiones y obstáculos) y el cierre reduce el riesgo con una prueba de un mes. Vocabulario preciso de nivel C1: «difficult to justify», «genuinely requires», «rather than on individual impressions»." }
+  ]
+}

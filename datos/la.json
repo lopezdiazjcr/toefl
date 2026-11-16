@@ -1,0 +1,509 @@
+{
+  "tipo": "la",
+  "items": [
+    {
+      "id": "la01",
+      "nivel": "A2",
+      "escena": "Listen to an announcement in a university library.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "f",
+          "t": "Attention, please. The library will close early today, at six o'clock, because of a staff meeting. The study rooms on the second floor are already closed. If you need to return books after six, please use the return box next to the main entrance. The library will open again tomorrow at eight in the morning, as usual. Thank you, and have a good evening."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the main purpose of the announcement?",
+          "opciones": [
+            "To invite students to a staff meeting",
+            "To explain how to reserve a study room",
+            "To announce new opening hours for next year",
+            "To tell visitors that the library is closing early today"
+          ],
+          "correcta": 3,
+          "explicacion": "Desde la primera oración el aviso dice que la biblioteca cerrará temprano hoy, a las seis. La reunión del personal es solo el motivo, no una invitación."
+        },
+        {
+          "enunciado": "What should people do if they want to return books after six o'clock?",
+          "opciones": [
+            "Leave them at the front desk",
+            "Use the box next to the main entrance",
+            "Take them to the second floor",
+            "Bring them back next week"
+          ],
+          "correcta": 1,
+          "explicacion": "El hablante pide usar el buzón de devoluciones que está junto a la entrada principal: “please use the return box next to the main entrance”."
+        }
+      ]
+    },
+    {
+      "id": "la02",
+      "nivel": "A2",
+      "escena": "Listen to an announcement at a sports center.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "m",
+          "t": "Good morning, everyone. We're sorry, but the swimming pool is closed today for cleaning. It will open again tomorrow morning at seven. The yoga class at ten will still take place, but it's moving from the small studio to the big room upstairs. The lockers on the first floor are free to use today. If you have any questions, please ask at the front desk. Thank you."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why is the swimming pool closed today?",
+          "opciones": [
+            "The water is too cold.",
+            "There is a swimming competition.",
+            "It is being cleaned.",
+            "The staff are in a meeting."
+          ],
+          "correcta": 2,
+          "explicacion": "El hablante dice que la piscina está cerrada hoy “for cleaning”, es decir, por limpieza."
+        },
+        {
+          "enunciado": "Where will the yoga class take place today?",
+          "opciones": [
+            "In the big room upstairs",
+            "In the small studio",
+            "Next to the swimming pool",
+            "At the front desk"
+          ],
+          "correcta": 0,
+          "explicacion": "La clase se mantiene, pero se muda “to the big room upstairs”. “The small studio” es el lugar de antes: es la trampa del dato viejo."
+        }
+      ]
+    },
+    {
+      "id": "la03",
+      "nivel": "B1",
+      "escena": "Listen to an announcement at a train station.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "f",
+          "t": "Attention, passengers traveling to Riverside. The ten fifteen train will now leave from platform six instead of platform two. This is because of repair work on the tracks near platform two. The train is also running about ten minutes late, so the new departure time is ten twenty-five. Passengers with bicycles should use the last car of the train. We apologize for any inconvenience."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What change is being announced?",
+          "opciones": [
+            "The train will leave from a different platform and a little later.",
+            "The train to Riverside has been canceled.",
+            "Bicycles are no longer allowed on the train.",
+            "Repair work will begin on platform six."
+          ],
+          "correcta": 0,
+          "explicacion": "El tren sale ahora del andén seis y con unos diez minutos de retraso. No se cancela, y las obras están cerca del andén dos, no del seis."
+        },
+        {
+          "enunciado": "What should passengers with bicycles do?",
+          "opciones": [
+            "Wait for the next train",
+            "Go to platform two",
+            "Get on the last car of the train",
+            "Buy a special ticket"
+          ],
+          "correcta": 2,
+          "explicacion": "El anuncio dice que quienes viajan con bicicleta deben usar el último vagón: “should use the last car of the train”."
+        }
+      ]
+    },
+    {
+      "id": "la04",
+      "nivel": "B1",
+      "escena": "Listen to an announcement in a museum.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "m",
+          "t": "Good afternoon, visitors. We'd like to remind you that our new exhibition on ancient maps is now open on the third floor. A free guided tour of the exhibition starts at three o'clock and lasts about forty minutes. Space is limited to twenty people, so if you're interested, please pick up a tour sticker at the information desk near the entrance. Photos are allowed, but please don't use flash."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the announcement mainly about?",
+          "opciones": [
+            "Changes to the museum's opening hours",
+            "A new exhibition and a free tour of it",
+            "A photography class for visitors",
+            "A new map of the museum"
+          ],
+          "correcta": 1,
+          "explicacion": "El anuncio presenta la nueva exposición de mapas antiguos y su visita guiada gratuita. La fotografía solo aparece como una regla al final."
+        },
+        {
+          "enunciado": "What should visitors do if they want to join the tour?",
+          "opciones": [
+            "Go to the third floor at four o'clock",
+            "Pay a small fee at the entrance",
+            "Sign up on the museum's website",
+            "Pick up a sticker at the information desk"
+          ],
+          "correcta": 3,
+          "explicacion": "Como el cupo es de veinte personas, hay que recoger una etiqueta en el mostrador de información. La visita es a las tres, no a las cuatro, y es gratuita."
+        }
+      ]
+    },
+    {
+      "id": "la05",
+      "nivel": "B1",
+      "escena": "Listen to an announcement at a university student center.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "f",
+          "t": "Hello, students. The spring career fair will be held next Wednesday in the student center, from ten in the morning until three in the afternoon. More than forty local companies will be there, and many of them are looking for summer interns. Please bring several copies of your résumé. If you'd like someone to check your résumé before the fair, the career office is offering short reviews on Monday and Tuesday afternoon. No appointment is needed."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the purpose of the announcement?",
+          "opciones": [
+            "To announce new summer classes",
+            "To advertise jobs at the university",
+            "To give details about an upcoming career fair",
+            "To explain how to write a résumé"
+          ],
+          "correcta": 2,
+          "explicacion": "El anuncio da la fecha, el lugar y recomendaciones para la feria de empleo de primavera. Los currículos se mencionan, pero no se explica cómo escribirlos."
+        },
+        {
+          "enunciado": "What can students do on Monday and Tuesday?",
+          "opciones": [
+            "Meet with local companies",
+            "Book an appointment with an adviser",
+            "Apply for a summer internship",
+            "Have their résumé reviewed"
+          ],
+          "correcta": 3,
+          "explicacion": "La oficina de empleo revisará currículos el lunes y el martes por la tarde. Como no hace falta cita, la opción de reservar una es la trampa."
+        }
+      ]
+    },
+    {
+      "id": "la06",
+      "nivel": "B1",
+      "escena": "Listen to an announcement in a store.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "m",
+          "t": "Attention, shoppers. The store will be closing in fifteen minutes. Please bring your final items to the checkout. Only registers one, two, and three are open at this time, so please use those. If you're picking up an online order, the pickup counter has already closed, but your order will be ready tomorrow from eight o'clock. Thank you for shopping with us, and have a great night."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why does the speaker make the announcement?",
+          "opciones": [
+            "To tell customers that the store will close soon",
+            "To advertise a special sale",
+            "To apologize for long lines",
+            "To explain how to order online"
+          ],
+          "correcta": 0,
+          "explicacion": "El aviso empieza diciendo que la tienda cierra en quince minutos y pide a los clientes pasar a las cajas."
+        },
+        {
+          "enunciado": "What does the speaker say about online orders?",
+          "opciones": [
+            "They must be picked up in fifteen minutes.",
+            "They can be picked up the next day.",
+            "They can be collected at register one.",
+            "They will be delivered to customers' homes."
+          ],
+          "correcta": 1,
+          "explicacion": "El mostrador de pedidos ya cerró, pero los pedidos estarán listos mañana desde las ocho. Los quince minutos se refieren al cierre de la tienda."
+        }
+      ]
+    },
+    {
+      "id": "la07",
+      "nivel": "B1",
+      "escena": "Listen to an announcement in an office building.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "f",
+          "t": "Good morning, everyone. This is a reminder that we'll have a fire drill today at eleven thirty. When the alarm sounds, please stop what you're doing and leave the building by the nearest stairway. Don't use the elevators. Once you're outside, go to the parking lot across the street and wait for your team leader to check your name. The drill should take about fifteen minutes."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the main topic of the announcement?",
+          "opciones": [
+            "A problem with the elevators",
+            "A fire drill that will take place today",
+            "A change to the parking rules",
+            "The arrival of new team leaders"
+          ],
+          "correcta": 1,
+          "explicacion": "Es un recordatorio del simulacro de incendio de las once y media. Los ascensores y el estacionamiento solo aparecen dentro de las instrucciones."
+        },
+        {
+          "enunciado": "What should employees do once they are outside?",
+          "opciones": [
+            "Wait in the parking lot until their names are checked",
+            "Return to their desks right away",
+            "Call their team leader",
+            "Wait next to the elevators"
+          ],
+          "correcta": 0,
+          "explicacion": "Afuera deben ir al estacionamiento de enfrente y esperar a que el líder de su equipo verifique su nombre."
+        }
+      ]
+    },
+    {
+      "id": "la08",
+      "nivel": "B2",
+      "escena": "Listen to an announcement at an airport.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "m",
+          "t": "Good evening, passengers on flight four twenty to Vancouver. Due to a late-arriving aircraft, boarding will now begin at eight forty-five instead of eight fifteen, and it will take place at gate twelve rather than gate nine. We'll board by group, starting with passengers who need extra time or are traveling with small children. To help us leave on time, please keep your carry-on bag under the seat in front of you, so the overhead bins have room for larger items."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why has boarding been delayed?",
+          "opciones": [
+            "The weather is bad.",
+            "The gate is being cleaned.",
+            "Too many passengers are waiting.",
+            "The plane arrived late."
+          ],
+          "correcta": 3,
+          "explicacion": "“Due to a late-arriving aircraft” significa que el avión llegó tarde; por eso el embarque empieza a las ocho cuarenta y cinco."
+        },
+        {
+          "enunciado": "What are passengers asked to do with their carry-on bags?",
+          "opciones": [
+            "Check them at gate nine",
+            "Place them in the overhead bins",
+            "Put them under the seat in front of them",
+            "Hand them to the gate staff"
+          ],
+          "correcta": 2,
+          "explicacion": "Piden dejar el equipaje de mano bajo el asiento delantero. “Overhead bins” aparece en el audio, pero esos compartimentos quedan para artículos más grandes."
+        }
+      ]
+    },
+    {
+      "id": "la09",
+      "nivel": "B2",
+      "escena": "Listen to an announcement in a student residence hall.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "f",
+          "t": "Hi, everyone. This is a message from Housing Services. On Thursday, the water in North Hall will be shut off from nine in the morning until about two in the afternoon while a pipe is replaced. During that time, residents are welcome to use the showers in the gym, which will stay open all day. We also suggest filling a bottle or two the night before. If the work finishes early, we'll send you a text message."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the main purpose of the announcement?",
+          "opciones": [
+            "To announce new opening hours for the gym",
+            "To ask residents to use less water",
+            "To explain why a pipe broke",
+            "To warn residents that the water will be off for several hours"
+          ],
+          "correcta": 3,
+          "explicacion": "Servicios de Vivienda avisa que el jueves no habrá agua en North Hall de nueve a dos mientras cambian una tubería. El gimnasio solo se menciona como alternativa."
+        },
+        {
+          "enunciado": "What does the speaker suggest that residents do?",
+          "opciones": [
+            "Stay in another residence hall",
+            "Avoid the gym on Thursday",
+            "Fill a bottle or two the night before",
+            "Text Housing Services when the work ends"
+          ],
+          "correcta": 2,
+          "explicacion": "El hablante sugiere llenar una o dos botellas la noche anterior. El gimnasio sí se puede usar, y el mensaje de texto lo envía Vivienda, no los residentes."
+        }
+      ]
+    },
+    {
+      "id": "la10",
+      "nivel": "B2",
+      "escena": "Listen to an announcement in a public library.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "m",
+          "t": "Good morning, library users. Starting Monday, all books on the ground floor can be borrowed using the new self-checkout machines near the exit. Staff will be at the machines all week to show you how they work. Please note that the front desk will still handle payments for late fees and requests for books from other libraries. Also, beginning next month, the fourth floor will become a completely silent zone, so phone calls will no longer be allowed there."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the main purpose of the announcement?",
+          "opciones": [
+            "To remind users to pay their late fees",
+            "To inform users about changes in library services",
+            "To explain how to request books from other libraries",
+            "To announce that the front desk will close"
+          ],
+          "correcta": 1,
+          "explicacion": "El anuncio presenta dos cambios: las nuevas máquinas de autopréstamo y la zona de silencio total. El mostrador sigue funcionando para multas y pedidos a otras bibliotecas."
+        },
+        {
+          "enunciado": "What will happen on the fourth floor next month?",
+          "opciones": [
+            "Phone calls will no longer be allowed there.",
+            "New self-checkout machines will be installed there.",
+            "It will be closed for repairs.",
+            "Staff will teach classes there."
+          ],
+          "correcta": 0,
+          "explicacion": "El cuarto piso será una zona de silencio total, así que ya no se permitirán llamadas. Las máquinas nuevas están en la planta baja, no en el cuarto piso."
+        }
+      ]
+    },
+    {
+      "id": "la11",
+      "nivel": "B2",
+      "escena": "Listen to an announcement at a science center.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "f",
+          "t": "Attention, visitors. We're sorry to announce that this afternoon's robotics workshop for teenagers has been canceled because our instructor is ill. If you've already paid for the workshop, you can either get a full refund at the ticket office or exchange your ticket for the same workshop next Saturday. In the meantime, the planetarium show at two o'clock still has a few seats available, and workshop ticket holders can attend it for free today."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "Why was the workshop canceled?",
+          "opciones": [
+            "The instructor is ill.",
+            "Not enough teenagers signed up.",
+            "The robots were not working.",
+            "The room is needed for another show."
+          ],
+          "correcta": 0,
+          "explicacion": "El anuncio dice que se canceló “because our instructor is ill”, es decir, porque el instructor está enfermo."
+        },
+        {
+          "enunciado": "What is offered to people with workshop tickets today?",
+          "opciones": [
+            "A discount on next month's workshops",
+            "A free robotics kit",
+            "A private tour of the science center",
+            "Free entry to the planetarium show"
+          ],
+          "correcta": 3,
+          "explicacion": "Además del reembolso o el cambio de fecha, quienes compraron el taller pueden ver gratis la función del planetario de las dos. Las demás ofertas no se mencionan."
+        }
+      ]
+    },
+    {
+      "id": "la12",
+      "nivel": "B2",
+      "escena": "Listen to an announcement at the start of a staff meeting.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "m",
+          "t": "Quick announcement before we start. From the first of next month, travel expenses will be submitted through the new online system instead of on paper forms. Receipts will need to be photographed and uploaded within ten days of the trip. The finance team is running two short training sessions next week, one on Tuesday morning and one on Thursday afternoon. Attendance isn't required, but if you travel regularly, I'd strongly recommend going to one."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What is the speaker mainly announcing?",
+          "opciones": [
+            "A cut in the travel budget",
+            "A new way to submit travel expenses",
+            "The arrival of a new finance manager",
+            "A schedule of upcoming business trips"
+          ],
+          "correcta": 1,
+          "explicacion": "Desde el próximo mes los gastos de viaje se presentarán en el nuevo sistema en línea en lugar de formularios de papel. Lo demás son detalles de ese cambio."
+        },
+        {
+          "enunciado": "What does the speaker recommend for employees who travel often?",
+          "opciones": [
+            "Submitting their receipts on paper",
+            "Keeping their receipts for ten years",
+            "Going to one of the training sessions",
+            "Traveling less during the first month"
+          ],
+          "correcta": 2,
+          "explicacion": "La capacitación no es obligatoria, pero el hablante la recomienda a quienes viajan con frecuencia: “I'd strongly recommend going to one”."
+        }
+      ]
+    },
+    {
+      "id": "la13",
+      "nivel": "C1",
+      "escena": "Listen to an announcement at the beginning of a university lecture.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "f",
+          "t": "Good evening, and thank you all for coming. Before we begin, a few housekeeping notes. Given the turnout, tonight's lecture is also being streamed to the overflow room across the hall, so if you're standing at the back, you may find a seat there more comfortable. The question-and-answer session will be moderated, so rather than raising your hand, please submit questions through the event page. Unfortunately, our speaker's flight was delayed, so she'll be joining us roughly twenty minutes behind schedule."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What can be inferred about tonight's event?",
+          "opciones": [
+            "The lecture has been moved to another date.",
+            "Most of the audience arrived late.",
+            "More people came than the room can comfortably hold.",
+            "The speaker will not be able to attend."
+          ],
+          "correcta": 2,
+          "explicacion": "“Given the turnout” y la sala adicional para quienes están de pie indican que llegó más gente de la esperada. La conferencista sí vendrá, solo unos veinte minutos tarde."
+        },
+        {
+          "enunciado": "How should audience members ask questions?",
+          "opciones": [
+            "By raising their hands",
+            "By sending them through the event page",
+            "By going to the overflow room",
+            "By writing them on a card before the talk"
+          ],
+          "correcta": 1,
+          "explicacion": "La sesión de preguntas será moderada: “rather than raising your hand”, hay que enviarlas por la página del evento. Levantar la mano es justo lo que no deben hacer."
+        }
+      ]
+    },
+    {
+      "id": "la14",
+      "nivel": "C1",
+      "escena": "Listen to an announcement on a commuter train.",
+      "guion": [
+        {
+          "h": "Speaker",
+          "g": "m",
+          "t": "Ladies and gentlemen, owing to a signal failure further down the line, this train will terminate at Central Station rather than continuing to Harbor Point. Passengers bound for stations beyond Central are advised to transfer to the replacement buses waiting outside the east exit. Tickets for this journey will be accepted on those buses at no extra charge. We expect normal service to resume later this evening, though delays may persist into tomorrow morning's rush hour."
+        }
+      ],
+      "preguntas": [
+        {
+          "enunciado": "What problem does the speaker describe?",
+          "opciones": [
+            "Central Station has been closed.",
+            "The replacement buses are running late.",
+            "Tickets are no longer valid on this line.",
+            "The train cannot complete its usual route."
+          ],
+          "correcta": 3,
+          "explicacion": "Por una falla de señales, el tren “will terminate at Central Station”: termina su recorrido ahí y no llegará a Harbor Point."
+        },
+        {
+          "enunciado": "What should passengers traveling beyond Central Station do?",
+          "opciones": [
+            "Take a bus from the east exit with their current ticket",
+            "Buy a new ticket for the bus",
+            "Stay on the train until service resumes",
+            "Get off at Harbor Point and transfer"
+          ],
+          "correcta": 0,
+          "explicacion": "Deben pasar a los buses de reemplazo de la salida este, y su boleto actual se acepta sin costo extra: “at no extra charge”."
+        }
+      ]
+    }
+  ]
+}

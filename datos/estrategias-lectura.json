@@ -1,0 +1,140 @@
+{
+  "cw": {
+    "titulo": "Complete the Words",
+    "subtitulo": "Reading · Completar palabras",
+    "resumen": "Es la primera tarea de cada módulo de Reading. Usted ve un párrafo académico en el que a 10 palabras les falta la segunda mitad y debe escribir las letras que faltan. Mide vocabulario, gramática y ortografía al mismo tiempo, y se resuelve en pocos minutos.",
+    "formato": [
+      "Un párrafo académico de unas 70 a 100 palabras.",
+      "La primera oración aparece completa. Después, a una de cada dos palabras le falta la segunda mitad, hasta que 10 palabras quedan incompletas; el final del párrafo vuelve a estar completo.",
+      "Usted ve la primera mitad de la palabra, redondeando hacia abajo: \"they\" se ve como \"th__\", \"and\" como \"a__\" y \"summer\" como \"sum___\".",
+      "Cada guion bajo es exactamente una letra: el número de guiones le dice cuántas letras debe escribir.",
+      "Cada palabra es un ítem que vale 1 punto. En las pruebas de práctica oficiales de ETS, este párrafo aporta 10 de los 20 ítems de cada módulo.",
+      "Reading completo: unos 50 ítems en unos 30 minutos (la cifra incluye ítems de prueba que no puntúan), en dos módulos. El segundo es más fácil o más difícil según cómo le fue en el primero."
+    ],
+    "califica": "Cada palabra completada vale 1 punto, y para contar debe quedar bien escrita y con la forma gramatical correcta (plural, tiempo verbal, terminación). Por eso la ortografía pesa tanto como el vocabulario. La sección de Reading se reporta en una escala de 1 a 6 en medias bandas: 6 = C2, 5–5.5 = C1, 4–4.5 = B2, 3–3.5 = B1, 2–2.5 = A2, 1–1.5 = A1.",
+    "regla": "Antes de escribir, decida qué clase de palabra falta (artículo, preposición, conector, verbo, sustantivo) y luego escriba la forma exacta que exige la oración.",
+    "pasos": [
+      "Lea con calma la primera oración, que está completa: le da el tema y suele adelantar palabras que reaparecen incompletas más adelante.",
+      "Recorra el párrafo una vez sin escribir para entender la idea general. No se quede atascado en el primer hueco.",
+      "En cada hueco, prediga la categoría. Muchas palabras incompletas son funcionales (the, and, of, to, with, which) o conectores (because, however, although); se resuelven por gramática, no por vocabulario.",
+      "Use el número de guiones como filtro: \"o_\" puede ser of, on u or; \"a__\" suele ser and, are o any; \"bec____\" (4 guiones) es because, pero \"bec___\" (3 guiones) es become o became. Elija la que encaja con la palabra siguiente.",
+      "Revise la concordancia: sujeto plural lleva verbo sin -s; después de can, may o will va el verbo base; después de a o an va un sustantivo singular; el tiempo verbal sigue al del resto de la oración.",
+      "Escriba siempre algo. Un hueco vacío vale cero seguro, y una conjetura razonable muchas veces acierta.",
+      "Si le sobra tiempo, relea el párrafo completo y revise la ortografía: letras dobles y terminaciones como -tion, -ly, -ed y -es."
+    ],
+    "errores": [
+      "Trasladar la ortografía del español: *gobernment* por government, *sesion* por session, *paralel* por parallel, *acommodate* por accommodate, *arquitecture* por architecture. En inglés, b y v no son intercambiables, muchas palabras llevan consonante doble y el sonido /k/ casi nunca se escribe \"qu\".",
+      "Escribir con minúscula lo que en inglés va con mayúscula: días, meses, idiomas y nacionalidades (Monday, January, Spanish, Mexican). En español van con minúscula; en inglés, nunca.",
+      "Dejarse engañar por falsos cognados al predecir el sentido: actually no es actualmente (es en realidad), library no es librería (es biblioteca), attend no es atender (es asistir a), assist no es asistir (es ayudar), sensible no es sensible (es sensato), carpet no es carpeta (es alfombra).",
+      "Suponer que todo \"t__\" o \"th__\" es the: puede ser to, that, they, them, then o this. Recuerde además que en inglés los sustantivos con sentido general no llevan artículo (Water is essential for life, no *The water is essential for life*).",
+      "Olvidar las terminaciones que el español marca de otra manera: la -s de tercera persona (it collects), la -s del plural (many bees) y la -ed del participio (was compressed).",
+      "Dejar huecos en blanco por miedo a equivocarse."
+    ],
+    "frases": [
+      "a__ → and · are · any",
+      "o_ → of · on · or",
+      "th__ → they · that · them · then · this",
+      "wh___ → which · where · while",
+      "bec____ → because   |   bec___ → become · became",
+      "ot___ → other   |   al__ → also"
+    ],
+    "ejemplo": {
+      "en": "Many cities are planting more trees along their streets. Trees gi__ shade i_ summer, a__ they al__ help cl___ the a__ that resi_____ breathe ev___ day. I_ addition, str____ with many trees tend to feel calmer and safer.\n\nAnswers: gi(ve) · i(n) · a(nd) · al(so) · cl(ean) · a(ir) · resi(dents) · ev(ery) · I(n) · str(eets)",
+      "es": "Después de \"summer,\" viene otra idea, así que \"a__\" es el conector and. Tras help va un verbo base (clean), y después de the hace falta un sustantivo de tres letras que se respira: air. \"resi_____\" debe ser un sujeto plural (residents), porque breathe no lleva -s."
+    },
+    "fuente": {
+      "texto": "ETS · TOEFL iBT Test Overview",
+      "url": "https://www.eu.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf"
+    }
+  },
+  "dl": {
+    "titulo": "Read in Daily Life",
+    "subtitulo": "Reading · Textos de la vida diaria",
+    "resumen": "Textos cortos que no son académicos (avisos, menús, correos, mensajes, horarios, formularios, facturas, publicaciones en redes) con 2 o 3 preguntas de opción múltiple. Mide si usted entiende lo práctico: para qué se escribió el texto, qué datos concretos da y qué se puede deducir de ellos.",
+    "formato": [
+      "Un texto no académico de 15 a 150 palabras: aviso, menú, correo electrónico, publicación en redes, formulario, horario, factura, recibo o cadena de mensajes.",
+      "Entre 2 y 3 preguntas por texto, cada una con 4 opciones y una sola respuesta correcta.",
+      "Tipos de pregunta: propósito (¿para qué se escribió?), detalle (con frecuencia horas, fechas o precios) e inferencia (¿qué se sugiere o se deduce?).",
+      "En las pruebas de práctica oficiales de ETS, cada módulo trae 2 de estos textos: uno con 2 preguntas y otro con 3.",
+      "Dentro de un módulo puede ir y volver entre preguntas, pero una vez que pasa al segundo módulo no puede regresar al primero."
+    ],
+    "califica": "Cada pregunta vale 1 punto y cuenta igual que una palabra de Complete the Words o una pregunta del texto académico. El puntaje sale de las respuestas correctas, así que nunca deje una pregunta sin responder. La sección se reporta en la escala de 1 a 6 de Reading.",
+    "regla": "Toda respuesta correcta se apoya en una línea concreta del texto (una hora, un precio, una condición): encuéntrela antes de marcar.",
+    "pasos": [
+      "Identifique el género en un par de segundos (correo, aviso, menú, chat) y lea el encabezado: quién escribe, a quién, la fecha y el asunto suelen dar el propósito.",
+      "Lea las preguntas antes de leer el texto a fondo, para saber qué dato está buscando.",
+      "En las preguntas de detalle, ubique la palabra clave (precio, día, hora) y lea la línea completa, incluidas las condiciones: only, except, after, until, per day, not included.",
+      "En las preguntas de propósito, piense en la acción principal del texto (anunciar un cambio, pedir algo, advertir, disculparse), no en un detalle secundario.",
+      "En las de inferencia, elija lo que se deduce con seguridad de una línea del texto. Descarte lo que exagera (always, all, permanently) o agrega información que el texto no da.",
+      "Cuando haya cifras, haga la cuenta. Muchas trampas son el precio de un solo artículo, el total sin descuento o la fecha anterior o posterior a la correcta.",
+      "No dedique más de un minuto a una pregunta: marque la mejor opción y siga. Puede volver dentro del mismo módulo."
+    ],
+    "errores": [
+      "Elegir la opción que repite palabras del texto. La trampa más común copia una frase literal pero cambia la relación: otro día, otra persona, otra condición.",
+      "Leer las fechas al estilo latinoamericano: en Estados Unidos 10/14 es 14 de octubre (mes/día). Y ojo con a.m. y p.m.: 12:00 p.m. es mediodía.",
+      "Caer en falsos cognados típicos de avisos y correos: attend es asistir a (no atender), assist es ayudar, actually es en realidad, library es biblioteca, carpet es alfombra, sensible es sensato.",
+      "Pasar por alto palabras cortas que cambian todo el sentido: only, not, except, until, at least, no later than.",
+      "Traducir el texto completo palabra por palabra. Gasta el tiempo que necesita para las demás tareas; busque solo el dato que pide la pregunta."
+    ],
+    "frases": [
+      "no later than = a más tardar",
+      "until further notice = hasta nuevo aviso",
+      "not sold separately = no se vende por separado",
+      "the fee will be waived = no se cobrará la tarifa",
+      "valid ID required = se requiere identificación vigente",
+      "payment due by = fecha límite de pago"
+    ],
+    "ejemplo": {
+      "en": "Notice on a gym door:\n\"The sauna will be closed on Saturday morning for repairs. It will reopen at 2:00 p.m. The showers are not affected.\"\n\nWhy was the notice written?\n(A) To announce new shower hours\n(B) To explain a temporary closure\n(C) To advertise a new sauna\n(D) To ask members to help with repairs\n\nAnswer: (B)",
+      "es": "La acción principal del aviso es informar que el sauna cierra unas horas. La opción (A) repite la palabra showers, pero el aviso dice que las duchas no cambian: es la trampa de la palabra repetida."
+    },
+    "fuente": {
+      "texto": "ETS · TOEFL iBT: contenido del examen",
+      "url": "https://www.ets.org/toefl/test-takers/ibt/about/content.html"
+    }
+  },
+  "ap": {
+    "titulo": "Read an Academic Passage",
+    "subtitulo": "Reading · Texto académico",
+    "resumen": "Un texto de divulgación académica de unas 200 palabras con 5 preguntas de opción múltiple. Es la tarea más larga del módulo, pero el texto es breve: lo que se evalúa es la precisión de su lectura, no la velocidad.",
+    "formato": [
+      "Un texto académico de unas 200 palabras sobre temas como ciencias, historia, sociedad o arte.",
+      "5 preguntas de 4 opciones: detalle, vocabulario en contexto, inferencia, relación entre ideas y propósito del autor.",
+      "En las pruebas de práctica oficiales de ETS, cada módulo cierra con este texto, después de Complete the Words (10 ítems) y dos textos de la vida diaria (2 y 3 preguntas): 20 ítems por módulo.",
+      "Reading completo: unos 50 ítems en unos 30 minutos. El segundo módulo es más fácil o más difícil según su desempeño en el primero, y no se puede volver al módulo 1."
+    ],
+    "califica": "Cada pregunta vale 1 punto. Reading se reporta en una escala de 1 a 6 en medias bandas, alineada con el MCER: 6 = C2, 5–5.5 = C1, 4–4.5 = B2, 3–3.5 = B1, 2–2.5 = A2, 1–1.5 = A1.",
+    "regla": "Cada respuesta correcta se puede señalar en una oración concreta del texto; si no la encuentra, probablemente está frente a la trampa.",
+    "pasos": [
+      "Lea el texto completo una vez para captar la idea de cada párrafo. No intente memorizar detalles: podrá volver a ellos.",
+      "Vocabulario en contexto: lea la oración entera, piense un sinónimo propio y pruebe cada opción dentro de la oración. Elija la que conserva el sentido, no la que es el significado más común de la palabra.",
+      "Detalle: ubique en el texto la palabra clave de la pregunta y busque la opción que dice lo mismo con otras palabras. La respuesta correcta casi siempre es una paráfrasis, no una copia.",
+      "Relación entre ideas: fíjese en los conectores (however, as a result, for example, in contrast). Le dicen si una idea causa, contradice o ilustra a otra.",
+      "Inferencia: la respuesta no está escrita literalmente, pero se sigue con seguridad de lo que dice el texto. Descarte lo que va más allá de la evidencia.",
+      "Propósito del autor (Why does the author mention…?): pregúntese qué función cumple ese dato en el párrafo: ejemplo, contraste, evidencia o definición.",
+      "Si una pregunta le toma más de un minuto, marque la mejor opción y avance. Puede volver a ella mientras siga en el mismo módulo."
+    ],
+    "errores": [
+      "Elegir en vocabulario el significado más conocido de la palabra y no el que tiene en esa oración: \"sound advice\" es un consejo sensato, no un consejo con sonido.",
+      "Dejarse llevar por falsos cognados que cambian el sentido de una oración: actually (en realidad), eventually (al final, no eventualmente), sensible (sensato), assist (ayudar), library (biblioteca).",
+      "Responder con lo que usted sabe del tema en lugar de con lo que dice el texto. La respuesta se basa solo en el pasaje.",
+      "Caer en opciones extremas: always, never, all y only suelen exagerar lo que afirma el autor.",
+      "Leer un contraste como si fuera una causa: although y however anuncian oposición, no explicación."
+    ],
+    "frases": [
+      "The word \"…\" in the passage is closest in meaning to…",
+      "According to paragraph 2, what is true about…?",
+      "What does the passage suggest about…?",
+      "Why does the author mention…?",
+      "How does paragraph 3 relate to paragraph 2?"
+    ],
+    "ejemplo": {
+      "en": "\"Early bridges were often built from timber, a material that was cheap and easy to shape. However, wooden structures decayed quickly in wet climates, so engineers gradually turned to stone.\"\n\nThe word \"decayed\" in the passage is closest in meaning to\n(A) grew\n(B) rotted\n(C) moved\n(D) cost\n\nAnswer: (B)",
+      "es": "However anuncia un problema de la madera, e \"in wet climates\" indica humedad: la madera se pudre. Al probar cada opción dentro de la oración, solo rotted conserva el sentido y explica por qué los ingenieros pasaron a la piedra."
+    },
+    "fuente": {
+      "texto": "ETS · TOEFL iBT Test Overview",
+      "url": "https://www.eu.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf"
+    }
+  }
+}

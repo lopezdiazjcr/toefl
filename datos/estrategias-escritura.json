@@ -1,0 +1,136 @@
+{
+  "bs": {
+    "titulo": "Build a Sentence",
+    "subtitulo": "Writing · Armar una oración",
+    "resumen": "Usted ve lo que dice una persona y la respuesta de otra con espacios en blanco. Debe ordenar fichas de una a tres palabras para formar una oración gramatical que responda con lógica. Es la tarea que más premia conocer el orden de palabras del inglés, sobre todo en las preguntas.",
+    "formato": [
+      "Son 10 ítems y abren la sección de Writing, que tiene 12 ítems en total, dura unos 23 minutos y no es adaptativa.",
+      "Cada ítem muestra una línea de la persona A y la respuesta de la persona B como un marco con espacios; algunas palabras ya vienen fijas al inicio, en medio o al final.",
+      "Las fichas son palabras sueltas o bloques de 2 o 3 palabras. A veces sobra una ficha que no encaja en ningún espacio: es el distractor.",
+      "La mayoría de las respuestas son preguntas: en la prueba de práctica 2 de ETS, 9 de las 10 respuestas fueron preguntas."
+    ],
+    "califica": "Cada ítem vale 1 punto y es todo o nada: si una sola ficha queda fuera de lugar, el ítem vale 0. Los 10 puntos de esta tarea se suman a los del email (0–5) y la discusión académica (0–5) para un puntaje bruto de 0 a 20, que se reporta en la escala de bandas de 1 a 6. La calificación la hace el motor automático de ETS con supervisión humana.",
+    "regla": "Mire primero el signo final: si es «?», necesita un auxiliar antes del sujeto; pero si la pregunta va dentro de otra (Do you know…, Could you tell me…), vuelve el orden de afirmación.",
+    "pasos": [
+      "Lea la línea de A para saber qué función cumple la respuesta: pedir algo, preguntar un dato, explicar, rechazar o sugerir.",
+      "Mire el signo final y las palabras fijas del marco. Un «?» con el primer espacio vacío casi siempre pide un auxiliar o una palabra interrogativa al inicio (do, can, have, what, how long, who).",
+      "Arme primero el núcleo: sujeto + verbo principal. Después acomode alrededor los auxiliares, los objetos y los complementos.",
+      "Si aparece Do you know, Could you tell me, I wonder, asked me o Have you checked, la segunda parte va en orden de afirmación y sin do/does/did: where the office is, no where is the office.",
+      "Lleve las preposiciones al final de las preguntas con who y what: Who did you send it to?, What is it about?, What was it like?",
+      "Identifique la ficha que sobra: suele ser un auxiliar extra (do, does, did), una forma verbal equivocada (went, to close, increased) o una palabra que tienta por el español (more, since, for, which).",
+      "Lea la oración completa mentalmente antes de pasar. Si suena traducida palabra por palabra del español, revise el orden."
+    ],
+    "errores": [
+      "Invertir el sujeto en una pregunta incrustada: «Do you know where is the library?» en lugar de «Do you know where the library is?».",
+      "Agregar do/does/did donde no van: «Can you tell me what time does it start?» o «How come did he leave?».",
+      "Conjugar el verbo después de did/does: «Did you went…?», «How much does it costs?».",
+      "Poner el adverbio de frecuencia después del verbo, como en español: «I have never time» en lugar de «I never have time».",
+      "Calcar estructuras del español: «more faster», «enough big», «Would you mind to close…?», «Since how long…?».",
+      "Usar which para personas («the student which won») o who's en lugar de whose («the one who's balcony»)."
+    ],
+    "frases": [
+      "Do you know where / when / if + sujeto + verbo…?",
+      "Could you tell me what time + sujeto + verbo…?",
+      "Have you ever + participio…?",
+      "How long have you been + -ing…?",
+      "Who are you going with? / What is it about? (preposición al final)",
+      "Would you mind + -ing…?",
+      "I never / usually / always + verbo…"
+    ],
+    "ejemplo": {
+      "en": "A: The new gym on campus opens next week.\nB: Do you know _ _ _?\nFichas: is · the membership · how much · does\nRespuesta: Do you know how much the membership is?",
+      "es": "Después de «Do you know», la pregunta va en orden de afirmación: how much + sujeto (the membership) + verbo (is). La ficha «does» sobra: es el distractor que atrae a quien arma una pregunta directa, y «how much is the membership» sería el orden de una pregunta directa, que aquí es un error."
+    },
+    "fuente": { "texto": "ETS · TOEFL iBT Test Overview", "url": "https://www.eu.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf" }
+  },
+
+  "we": {
+    "titulo": "Write an Email",
+    "subtitulo": "Writing · Escribir un email",
+    "resumen": "Usted recibe una situación de la vida diaria (con un profesor, un gerente, un vecino, un amigo o un servicio al cliente) y tres cosas que su email debe hacer. Tiene 7 minutos. Se evalúa que cumpla las tres tareas con detalle y con el tono justo para esa persona.",
+    "formato": [
+      "Es 1 ítem de la sección de Writing, con 7 minutos para escribir.",
+      "La pantalla muestra la situación, el destinatario, el asunto y tres tareas, normalmente con verbos como explain, describe, ask o suggest.",
+      "Se escribe en una caja de texto, sin corrector ortográfico ni autocompletado.",
+      "No hay un mínimo oficial de palabras; la muestra de puntaje 4 que publica ETS tiene unas 118 palabras. Apunte a 110–150."
+    ],
+    "califica": "Se califica de 0 a 5 con el motor automático de ETS y supervisión humana. En resumen (paráfrasis, no el texto oficial): un 5 desarrolla cada tarea con detalles que sirven al propósito del email, varía las estructuras, usa palabras precisas e idiomáticas, mantiene de principio a fin las convenciones sociales (cortesía, registro, forma de pedir) y casi no tiene errores. Un 4 desarrolla lo suficiente y tiene pocos errores; un 3 se queda corto en parte de la tarea y tiene errores que se notan; un 2 es limitado; un 1 es telegráfico o copia la consigna; un 0 está en blanco, fuera de tema o no está en inglés. Consulte la rúbrica oficial en el enlace.",
+    "regla": "Un párrafo por tarea, cada uno con un detalle concreto (fecha, número, causa o ejemplo), en el tono que usaría con esa persona en la vida real.",
+    "pasos": [
+      "Lea a quién le escribe y decida el registro antes de empezar: Dear Professor… o Dear Ms.… para lo formal; Hi + nombre para amigos y compañeros.",
+      "Identifique los tres verbos de las tareas (explain, describe, ask, suggest): cada uno será un párrafo, en el mismo orden.",
+      "Primer párrafo: diga en una oración por qué escribe y desarrolle la primera tarea con un dato concreto.",
+      "Segundo párrafo: describa con detalles específicos qué pasó, cuándo y cómo le afecta. Dos o tres oraciones bastan.",
+      "Tercer párrafo: haga el pedido o la sugerencia con una fórmula cortés (Could you…?, Would it be possible to…?, I would really appreciate it if…).",
+      "Cierre con una línea de agradecimiento y una despedida acorde al destinatario (Best regards, Kind regards, Thanks again, See you soon).",
+      "Guarde el último minuto para releer: concordancia sujeto-verbo, artículos, preposiciones, signos de pregunta y que ninguna oración quede sin sujeto."
+    ],
+    "errores": [
+      "Registro equivocado: «Hey teacher» o «I want that you send me…» con un profesor; o un tono de carta oficial con un amigo.",
+      "Omitir el sujeto: «Is very important that…» en lugar de «It is very important that…».",
+      "Usar artículo con sustantivos generales: «The patience is important» en lugar de «Patience is important».",
+      "Calcar preposiciones: «depend of», «interested on», «in the weekend» (lo correcto es depend on, interested in, on the weekend).",
+      "Poner infinitivo después de una preposición: «I look forward to see you» en lugar de «I look forward to seeing you».",
+      "Falsos cognados: actually no es «actualmente» (es «en realidad»), eventually no es «eventualmente» (es «al final»), assist es «ayudar»; asistir a una reunión es attend a meeting."
+    ],
+    "frases": [
+      "I am writing to let you know that… / I am writing about…",
+      "Unfortunately, … / In addition, … / As a result, …",
+      "Could you please let me know…? / Would it be possible to…?",
+      "I would really appreciate it if you could…",
+      "I am very sorry that… / I apologize for not…",
+      "Thanks for…! Count me in. / I would be happy to…",
+      "Thank you for your understanding. / Best regards, / Kind regards,"
+    ],
+    "ejemplo": {
+      "en": "Task: Ask your manager to change your shift.\nWeak: I want that you change my shift of Thursday.\nStrong: Would it be possible to switch my Thursday shift with Kevin's Saturday shift? He has already agreed to it.",
+      "es": "La versión fuerte pide con una fórmula cortés (Would it be possible to…), evita el calco «I want that you…» y agrega un detalle que le resuelve el problema al gerente. Eso es lo que la rúbrica llama elaboración al servicio del propósito."
+    },
+    "fuente": { "texto": "ETS · TOEFL iBT Writing Rubrics", "url": "https://www.ets.org/content/dam/ets-org/pdfs/toefl/writing-rubrics.pdf" }
+  },
+
+  "ad": {
+    "titulo": "Write for an Academic Discussion",
+    "subtitulo": "Writing · Participar en un foro académico",
+    "resumen": "Usted ve la pregunta de un profesor en un foro de clase y las respuestas de dos compañeros con posturas distintas. Tiene 10 minutos para publicar su propia contribución. Se premia una postura clara, explicada con razones y ejemplos concretos, que aporte algo que los compañeros no dijeron.",
+    "formato": [
+      "Es 1 ítem de la sección de Writing, con 10 minutos para escribir.",
+      "El profesor presenta un tema y termina con una pregunta, casi siempre con dos posturas posibles.",
+      "Dos estudiantes, identificados por su nombre, responden con opiniones opuestas.",
+      "ETS indica que una respuesta eficaz tiene al menos 100 palabras; su muestra de puntaje 5 tiene unas 123. Apunte a 120–150."
+    ],
+    "califica": "Se califica de 0 a 5 con el motor automático de ETS y supervisión humana. En resumen (paráfrasis, no el texto oficial): un 5 es una contribución relevante y muy clara, con explicaciones, ejemplos o detalles bien desarrollados, variedad de estructuras, vocabulario preciso y casi sin errores. A medida que baja el puntaje, el desarrollo es menos completo, las ideas cuestan más de seguir y los errores aumentan; un 0 está en blanco, fuera de tema, copiado o no está en inglés. Consulte la rúbrica oficial en el enlace.",
+    "regla": "Tome postura en la primera oración, apóyela con un ejemplo concreto propio y aporte una idea que ninguno de los dos compañeros mencionó.",
+    "pasos": [
+      "Lea primero la pregunta del profesor (la última oración de su texto): eso es lo que debe responder.",
+      "Lea a los dos estudiantes y resuma mentalmente en una línea qué dice cada uno. Elija la postura que pueda defender con un ejemplo real, aunque no sea la que más le guste.",
+      "Abra con su postura de forma explícita: In my view…, I would argue that…, I agree with [nombre] that…, but…",
+      "Nombre a un compañero por su nombre y diga en qué coincide o en qué no, sin repetir su argumento con otras palabras.",
+      "Desarrolle una razón nueva con un ejemplo concreto (lugar, momento, cifra, resultado): For example, last year…",
+      "Cierre con una oración que conecte el ejemplo con su postura (So…, This shows that…, For these reasons…).",
+      "Deje el último minuto para revisar artículos, concordancia y oraciones larguísimas unidas solo con comas."
+    ],
+    "errores": [
+      "Repetir con otras palabras lo que ya dijo un compañero, sin aportar una idea nueva.",
+      "Dar ejemplos vagos («many people think that…») en lugar de un caso concreto con detalles.",
+      "Unir oraciones largas solo con comas, como en español: separe con punto o use conectores (However, As a result, which).",
+      "Usar artículo con sustantivos generales: «The technology changes the society» en lugar de «Technology changes society».",
+      "Poner adjetivos en plural o después del sustantivo: «importants ideas», «a solution creative» (correcto: important ideas, a creative solution).",
+      "Confundir make y do: «do a mistake», «make an exercise» (correcto: make a mistake, do an exercise)."
+    ],
+    "frases": [
+      "In my view, … / I would argue that…",
+      "I agree with [Name] that…, but I would add that…",
+      "[Name] makes a good point about…; however, …",
+      "What neither of my classmates mentioned is…",
+      "For example, when I… / A good example is…",
+      "This shows that… / As a result, …",
+      "For these reasons, I believe…"
+    ],
+    "ejemplo": {
+      "en": "Question: Should universities require students to take courses outside their major?\nWeak: I agree with Laura. It is good to learn many things. It is very important for the students.\nStrong: I agree with Laura that these courses are valuable, but mainly because they teach students to explain ideas to people outside their field. For example, the art history course I took as an engineering student forced me to write clear essays, and I now use that skill in every lab report.",
+      "es": "La versión débil solo coincide y repite generalidades. La fuerte precisa por qué está de acuerdo (una razón que Laura no dio), la apoya con un ejemplo personal verificable y conecta el ejemplo con la postura. Además, evita el artículo innecesario de «the students» al hablar en general."
+    },
+    "fuente": { "texto": "ETS · TOEFL iBT Writing Rubrics", "url": "https://www.ets.org/content/dam/ets-org/pdfs/toefl/writing-rubrics.pdf" }
+  }
+}
