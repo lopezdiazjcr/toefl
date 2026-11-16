@@ -7,9 +7,12 @@
   <!--
     La plataforma vive en /toefl/ CON barra final: las rutas de css/ y js/ son
     relativas. Si alguien entra a /toefl sin barra, se la agregamos.
+    Y siempre en https: el micrófono no funciona en http.
   -->
   <script>
-    if (!/\/$/.test(location.pathname) && !/\.[a-z0-9]+$/i.test(location.pathname)) {
+    if (location.protocol === 'http:' && !/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname)) {
+      location.replace('https:' + location.href.slice(5));
+    } else if (!/\/$/.test(location.pathname) && !/\.[a-z0-9]+$/i.test(location.pathname)) {
       location.replace(location.pathname + '/' + location.search + location.hash);
     }
   </script>
